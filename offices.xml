@@ -19,7 +19,9 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <ab>This list contains sublists of civil, military, and ecclesiastical offices; see <!--<list type="civil">-->; <!--<list type="military">-->; <!--<list type="ecclesiastical">--></ab>
+                <ab>This list contains sublists of civil, military, and ecclesiastical offices; see
+                    <!--<list type="civil">-->; <!--<list type="military">-->;
+                    <!--<list type="ecclesiastical">--></ab>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -27,17 +29,76 @@
         <body>
             <!-- ********** CIVIL ********** -->
             <list type="civil">
-                <item ana="κριτής" xml:lang="grc">
-                    <term xml:id="krites_001">κριτής</term>
-                    <term xml:id="krites_002">κριτὴς τοῦ βήλου</term>
-                    <term xml:id="krites_003">κριτὴς ἐπὶ τοῦ Ἱπποδρόμου</term>
-                    <term xml:id="krites_004">κριτὴς τῶν Βουκελλαρίων</term>
+                <item ana="κριτής">
+                    <term xml:id="krites_001">
+                        <term xml:lang="grc">κριτής</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">xxx</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                    <term xml:id="krites_002">
+                        <term xml:lang="grc">κριτὴς τοῦ βήλου</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">xxx</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                    <term xml:id="krites_003">
+                        <term xml:lang="grc">κριτὴς ἐπὶ τοῦ Ἱπποδρόμου</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">xxx</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                    <term xml:id="krites_004">
+                        <term xml:lang="grc">κριτὴς τῶν Βουκελλαρίων</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">xxx</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                    <!--MF's restructuring goes until krites_004-->
                     <term xml:id="krites_005">κριτὴς τῶν Θρᾳκησίων</term>
                     <term xml:id="krites_006">κριτὴς τῆς Μακεδονίας</term>
                 </item>
-                <item ana="μέγας οἰκονόμος" xml:lang="grc">
-                    <term xml:id="megasoik_001">μέγας οἰκονόμος τῶν εὐαγῶν οἶκων</term>
-                    <term xml:id="megasoik_002">μέγας οἰκονόμος τῆς Νέας</term>
+                <item ana="μέγας οἰκονόμος">
+                    <term xml:id="megasoik_001">
+                        <term xml:lang="grc">μέγας οἰκονόμος</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">xxx</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                    <term xml:id="megasoik_002">
+                        <term xml:lang="grc">μέγας οἰκονόμος τῶν εὐαγῶν οἶκων</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">xxx</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                    <term xml:id="megasoik_003">
+                        <term xml:lang="grc">μέγας οἰκονόμος τῆς Νέας</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">xxx</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                    <!--end of the exemples-->
                 </item>
                 <item ana="οἰκονόμος" xml:lang="grc">
                     <term xml:id="oikonomos_001">οἰκονόμος</term>
@@ -110,7 +171,7 @@
                 </item>
                 <item ana="σύγκελλος" xml:lang="grc">
                     <term xml:id="synkellos_001">σύγκελλος</term>
-                </item> 
+                </item>
                 <item ana="μοναχός" xml:lang="grc">
                     <term xml:id="monk_001">μοναχός</term>
                 </item>
@@ -142,7 +203,7 @@
                 <item ana="δούξ" xml:lang="grc">
                     <term xml:id="doux_001">δούξ</term>
                     <term xml:id="doux_002">δοὺξ Ἀντιοχείας</term>
-                </item>   
+                </item>
                 <item ana="στρατηλάτης" xml:lang="grc">
                     <term xml:id="stratel_001">στρατηλάτης</term>
                 </item>
