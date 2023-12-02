@@ -15,7 +15,7 @@
 <!-- <name> instead of <forename><surname> for ancient authors known by a single name -->
 <!-- ref. organised under the name of the first author only -->
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
     <teiHeader>
         <fileDesc>
             <titleStmt>
