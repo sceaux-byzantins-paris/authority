@@ -157,6 +157,10 @@
                 <item ana="v" xml:lang="grc">
                     <term xml:id="kensor_001">κενσώρ</term>
                 </item>
+                <item ana="βασιλικά κομμέρκια" xml:lang="grc">
+                    <term xml:id="imp-kommerk_001">βασιλικά κομμέρκια</term>
+                    
+                </item>
             </list>
             <!-- ********** ECCLESIASTICAL ********** -->
             <list type="ecclesiastical">
@@ -181,6 +185,9 @@
                 </item>
                 <item ana="καθηγητής" xml:lang="grc">
                     <term xml:id="kathegetes_001">καθηγητής</term>
+                </item>
+                <item ana="διάκονος" xml:lang="grc" resp="#SE"> 
+                    <term xml:id="deacon_001">διάκονος</term> 
                 </item>
             </list>
             <!-- ********** MILITARY ********** -->
