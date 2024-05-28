@@ -148,18 +148,6 @@
                     <term xml:lang="fr">hypatos</term>
                     <term xml:lang="it">ipato</term>
                 </item>
-                <item xml:id="apo-hypaton">
-                    <term xml:lang="grc">ἀπὸ ὑπάτων</term>
-                    <term xml:lang="en"> apo hypaton</term>
-                    <term xml:lang="de">apo Hypaton.</term>
-                    <term xml:lang="it">από υπάτων.</term>
-                </item>
-                <item xml:id="apo-eparchon">
-                    <term xml:lang="grc">ἀπὸ ἐπάρχων</term>
-                    <term xml:lang="en"> apo eparchon</term>
-                    <term xml:lang="de">apo Eparchon.</term>
-                    <term xml:lang="it">από Eπάρχων.</term>
-                </item>
             </list>
         </body>
     </text>
