@@ -2539,33 +2539,9 @@
                     </term>
                     
                    
-                    <term xml:id="metropolitan_011">
-                        <term xml:lang="grc">μητροπολίτης Θεσσαλονίκης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Thessalonique</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_012">
-                        <term xml:lang="grc">μητροπολίτης Θῆβας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Thèbes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_013">
-                        <term xml:lang="grc">μητροπολίτης Ναυπλίου καὶ Ἂργους</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Nauplie et d'Argos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
+                    
+                    
+                    
                     <term xml:id="metropolitan_014">
                         <term xml:lang="grc">μητροπολίτης Ἁγίας Σεβερίνης</term> 
                         <term xml:lang="en">xxx</term>
@@ -2574,106 +2550,7 @@
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_015">
-                        <term xml:lang="grc">μητροπολίτης Ἀμασείας</term> <!-- Ν.Β. -->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite d'Amaseia</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_016">
-                        <term xml:lang="grc">μητροπολίτης Λαοδικείας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Laodicée</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_017">
-                        <term xml:lang="grc">μητροπολίτης Ἰκονίου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite d'Ikonion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_018">
-                        <term xml:lang="grc">μητροπολίτης Ἀμαστρίδος</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite d'Amastris</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_019">
-                        <term xml:lang="grc">μητροπολίτης Φιλιππουπόλεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Philippopolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_020">
-                        <term xml:lang="grc">μητροπολίτης Αἲνου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite d'Ainos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_021">
-                        <term xml:lang="grc">μητροπολίτης Ἀναζάρβης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite d'Anazarbe</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_022">
-                        <term xml:lang="grc">μητροπολίτης Χαλκηδῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Chalcédoine</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_023">
-                        <term xml:lang="grc">μητροπολίτης Κλαυδιουπόλεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Claudioupolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_024">
-                        <term xml:lang="grc">μητροπολίτης Δυρραχίου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Dyrrachion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_025">
-                        <term xml:lang="grc">μητροπολίτης Εὐχαΐτων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite d'Euchaïta</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
+                    </term>                    
                     <term xml:id="metropolitan_026">
                         <term xml:lang="grc">μητροπολίτης Ἡρακλείας</term> 
                         <term xml:lang="en">xxx</term>
@@ -2692,33 +2569,9 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="metropolitan_028">
-                        <term xml:lang="grc">μητροπολίτης Μαδύτων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Madyta</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_029">
-                        <term xml:lang="grc">μητροπολίτης Νεοκαισαρείας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Néocésarée</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_030">
-                        <term xml:lang="grc">μητροπολίτης Πατρῶν</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Patras</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
+                    
+                    
+                    
                     <term xml:id="metropolitan_031">
                         <term xml:lang="grc">μητροπολίτης Σαρδέων</term> 
                         <term xml:lang="en">xxx</term>
