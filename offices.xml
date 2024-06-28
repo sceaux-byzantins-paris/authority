@@ -2387,23 +2387,23 @@
                 <item ana="ἀρχιεπίσκοπος">
                     <term xml:id="archbishop_001">
                         <term xml:lang="grc">ἀρχιεπίσκοπος</term>
-                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="en">archbishop</term>
                         <term xml:lang="fr">archevêque</term>
-                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="de">Erzbischof</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
+                        <term xml:lang="it">arcivescovo</term>
                     </term>
                 </item>          
                 <item ana="διάκονος">
                     <term xml:id="diakonos_001">
                         <term xml:lang="grc">διάκονος</term>
-                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="en">deacon</term>
                         <term xml:lang="fr">diacre</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
+                        <term xml:lang="it">diacono</term> 
                     </term>
                 </item>
                 <item ana="διδάσκαλος">
@@ -2442,166 +2442,13 @@
                 <item ana="ἐπίσκοπος">
                  <term xml:id="bishop_001">
                     <term xml:lang="grc">ἐπίσκοπος</term>
-                    <term xml:lang="en">xxx</term>
+                    <term xml:lang="en">bishop</term>
                     <term xml:lang="fr">évêque</term>
-                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="de">Bischof</term>
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
+                    <term xml:lang="it">vescovo</term>
                 </term>
-                    
-                    
-                
-                  
-                 
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                     
-                     
-                     
-                     
-                    
-                    
-                    
-                    
-                    <term xml:id="bishop_029">
-                        <term xml:lang="grc">ἐπίσκοπος Ὀρόβης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque d'Orovi</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_033">
-                        <term xml:lang="grc">ἐπίσκοπος Σερβίων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque des Serbes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    <term xml:id="bishop_042">
-                        <term xml:lang="grc">ἐπίσκοπος Κίτρου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Kitros</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_043">
-                        <term xml:lang="grc">ἐπίσκοπος Λάπαρας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Lapara</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_044">
-                        <term xml:lang="grc">ἐπίσκοπος Λεοντοπόλεως</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Léontopolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_045">
-                        <term xml:lang="grc">ἐπίσκοπος Λυτίτζας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Lytitza</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_046">
-                        <term xml:lang="grc">ἐπίσκοπος Μακρίγου Κώμης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Makrigou Komè</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_047">
-                        <term xml:lang="grc">ἐπίσκοπος Μήλου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Milos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_048">
-                        <term xml:lang="grc">ἐπίσκοπος Πανίου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Panion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_049">
-                        <term xml:lang="grc">ἐπίσκοπος Φθίης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Phtia</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_050">
-                        <term xml:lang="grc">ἐπίσκοπος Στρουμίτζης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Stroumitza</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_051">
-                        <term xml:lang="grc">ἐπίσκοπος Ταυίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Tabia</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="bishop_052">
-                        <term xml:lang="grc">ἐπίσκοπος Τούρκων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">évêque de Tourkia</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="ἐπὶ τῶν κρίσεων">
                     <term xml:id="epi-ton-kriseon">
@@ -2617,7 +2464,7 @@
                 <item ana="ἡγούμενος">
                     <term xml:id="hegoumenos_001">
                         <term xml:lang="grc">ἡγούμενος</term>
-                        <term xml:lang="en">abbot</term>
+                        <term xml:lang="en">hegoumenos</term>
                         <term xml:lang="fr">higoumène</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
@@ -2654,7 +2501,7 @@
                         <term xml:lang="fr">kanstrisios</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="el">canstrisio</term>
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
@@ -2674,7 +2521,7 @@
                         <term xml:lang="grc">κληρικός, βασιλικὸς</term>
                         <term xml:lang="en">cleric, imperial</term>
                         <term xml:lang="fr">clerc impérial</term>
-                        <term xml:lang="de"></term>
+                        <term xml:lang="de">kaiserlicher Kleriker</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">chierico imperiale</term>
