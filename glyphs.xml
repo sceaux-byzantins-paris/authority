@@ -25,11 +25,9 @@ editorial interventions: l. 3118
         <fileDesc>
             <titleStmt>
                 <title>Authority list of Athena Ruby characters in SigiDoc</title>
+                <author xml:id="AS">Alessio Sopracasa</author>
+                <author xml:id="MF">Martina Filosa</author>
             </titleStmt>
-            <editor>
-                <persName xml:id="AS">Alessio Sopracasa</persName>
-                <persName xml:id="MF">Martina Filosa</persName>
-            </editor>
             <publicationStmt>
                 <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
                     Methodologies for Historical Research in Byzantine Studies</authority>
@@ -3102,8 +3100,9 @@ editorial interventions: l. 3118
                     <idno type="AthenaRuby"/>
                 </item>
                 <item xml:id="uniE822">
-                    <term xml:lang="grc"></term>
-                    <gloss>pendilium, triangle points right.</gloss>
+                    <term xml:lang="grc">pendilium, triangle points right.</term>
+                    <g></g>
+                    
                     <idno type="AthenaRuby"/>
                 </item>
                 <item xml:id="uniE823">
@@ -3131,7 +3130,6 @@ editorial interventions: l. 3118
                         character</gloss>
                     <idno type="AthenaRuby"/>
                 </item>
-
             </list>
         </body>
     </text>
