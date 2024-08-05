@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Authority list of execution techniques in SigiDoc</title>
+                <editor>
+                    <persName xml:id="AS">Alessio Sopracasa</persName>
+                    <persName xml:id="MF">Martina Filosa</persName>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
+                    Methodologies for Historical Research in Byzantine Studies</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Attribution 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <ab>This list contains the values to be inserted in <!--<rs type="execution"/>--></ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+                <item xml:id="struck">
+                    <term xml:lang="en">Struck</term>
+                    <term xml:lang="de">Geprägt</term>
+                    <term xml:lang="it">Battuto</term>
+                    <term xml:lang="fr">Frappé</term>
+                    <term xml:lang="bg">Отсечен</term>
+                    <term xml:lang="el">Παιστό</term>
+                </item>
+                <item xml:id="cast">
+                    <term xml:lang="en">Cast</term>
+                    <term xml:lang="de">Gegossen</term>
+                    <term xml:lang="it">Fuso</term>
+                    <term xml:lang="fr">Fondu</term>
+                    <term xml:lang="bg">Изработен чрез отливане</term>
+                    <term xml:lang="el">Χυτό</term>
+                </item>
+                <item xml:id="printed">
+                    <term xml:lang="en">Printed</term>
+                    <term xml:lang="de">Gedruckt</term>
+                    <term xml:lang="it">Stampato</term>
+                    <term xml:lang="fr">Imprimé</term>
+                    <term xml:lang="bg">Отпечатан</term>
+                    <term xml:lang="el">Αποτυπωμένο</term>
+                </item>
+                <item xml:id="moulded">
+                    <term xml:lang="en">Moulded</term>
+                    <term xml:lang="de">Geformt</term>
+                    <term xml:lang="it">Calco</term>
+                    <term xml:lang="fr">Moulé</term>
+                    <term xml:lang="bg">Изработен в калъп</term>
+                    <term xml:lang="el">Με μήτρα</term>
+                </item>
+            </list>
+        </body>
+    </text>
+</TEI>

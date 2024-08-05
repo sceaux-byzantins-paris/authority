@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Authority list of edition types in SigiDoc</title>
+                <editor>
+                    <persName xml:id="AS">Alessio Sopracasa</persName>
+                    <persName xml:id="MF">Martina Filosa</persName>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
+                    Methodologies for Historical Research in Byzantine Studies</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Attribution 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <ab>This list contains the values to be inserted in <!--<edition/>--></ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+                <item xml:id="born-digital">
+                    <term xml:lang="en">Born digital</term>
+                    <term xml:lang="de">Born digital</term>
+                    <term xml:lang="it">Nativa digitale</term>
+                    <term xml:lang="fr">Digitale originelle</term>
+                    <term xml:lang="bg">Born digital</term>
+                    <term xml:lang="el">Born digital</term>
+                </item>
+                <item xml:id="digital-enhancement">
+                    <term xml:lang="en">Digital enhancement</term>
+                    <term xml:lang="de">Verbesserte digitale Edition</term>
+                    <term xml:lang="it">Miglioramento digitale</term>
+                    <term xml:lang="fr">Amélioration digitale</term>
+                    <term xml:lang="bg">Дигитално подобрение</term>
+                    <term xml:lang="el">Ψηφιακή βελτίωση-αναβάθμιση</term>
+                </item>
+            </list>
+        </body>
+    </text>
+</TEI>

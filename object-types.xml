@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Authority list of object types in SigiDoc</title>
+                <editor>
+                    <persName xml:id="AS">Alessio Sopracasa</persName>
+                    <persName xml:id="MF">Martina Filosa</persName>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
+                    Methodologies for Historical Research in Byzantine Studies</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Attribution 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <ab>This list contains the values to be inserted in <!--<objectType/>--></ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+                <item xml:id="seal">
+                    <term xml:lang="en">Seal</term>
+                    <term xml:lang="de">Siegel</term>
+                    <term xml:lang="it">Sigillo</term>
+                    <term xml:lang="fr">Sceau</term>
+                    <term xml:lang="bg">Печат</term>
+                    <term xml:lang="el">Σφραγίδα</term>
+                </item>
+                <item xml:id="weight">
+                    <term xml:lang="en">Weight</term>
+                    <term xml:lang="de">Gewicht</term>
+                    <term xml:lang="it">Peso</term>
+                    <term xml:lang="fr">Poids</term>
+                    <term xml:lang="bg">Тегло</term>
+                    <term xml:lang="el">Βάρος</term>
+                </item>
+                <item xml:id="bread-stamp">
+                    <term xml:lang="en">Bread stamp</term>
+                    <term xml:lang="de">Brotstempel</term>
+                    <term xml:lang="it">Stampo per pane</term>
+                    <term xml:lang="fr">Moule à pain</term>
+                    <term xml:lang="bg">Печат за хляб</term>
+                    <term xml:lang="el">Σφραγίδα άρτου</term>
+                </item>
+                <item xml:id="token">
+                    <term xml:lang="en">Token</term>
+                    <term xml:lang="de">Marke</term>
+                    <term xml:lang="it">Gettone</term>
+                    <term xml:lang="fr">Jeton</term>
+                    <term xml:lang="bg">Жетон</term>
+                    <term xml:lang="el">Διακριτικό</term>
+                </item>
+            </list>
+        </body>
+    </text>
+</TEI>

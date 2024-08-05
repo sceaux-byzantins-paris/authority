@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Authority list of milieus in SigiDoc</title>
+                <editor>
+                    <persName xml:id="AS">Alessio Sopracasa</persName>
+                    <persName xml:id="MF">Martina Filosa</persName>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
+                    Methodologies for Historical Research in Byzantine Studies</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Attribution 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <ab>This list contains the values to be inserted in <!--<msContents/>--></ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+                <item xml:id="imperial">
+                    <term xml:lang="en">Imperial</term>
+                    <term xml:lang="de">Kaiserlich</term>
+                    <term xml:lang="it">Imperiale</term>
+                    <term xml:lang="fr">Impériale</term>
+                    <term xml:lang="bg">Императорски</term>
+                    <term xml:lang="el">Μολυβδόβουλλα αυτοκρατόρων</term>
+                </item>
+                <item xml:id="central-administration">
+                    <term xml:lang="en">Central administration</term>
+                    <term xml:lang="de">Zentralverwaltung</term>
+                    <term xml:lang="it">Amministrazione centrale</term>
+                    <term xml:lang="fr">Administration centrale</term>
+                    <term xml:lang="bg">Централна администрация</term>
+                    <term xml:lang="el">Μολυβδόβουλλα αξιωματούχων της κεντρικής διοίκησης</term>
+                </item>
+                <item xml:id="provincial-administration">
+                    <term xml:lang="en">Provincial administration</term>
+                    <term xml:lang="de">Provinzialverwaltung</term>
+                    <term xml:lang="it">Amministrazione provinciale</term>
+                    <term xml:lang="fr">Administration provinciale</term>
+                    <term xml:lang="bg">Провинциална администрация</term>
+                    <term xml:lang="el">Μολυβδόβουλλα αξιωματούχων της περιφερειακής διοίκησης</term>
+                </item>
+                <item xml:id="dignitaries">
+                    <term xml:lang="en">Dignitaries</term>
+                    <term xml:lang="de">Würdenträger</term>
+                    <term xml:lang="it">Dignitari</term>
+                    <term xml:lang="fr">Dignitaires</term>
+                    <term xml:lang="bg">Официални лица</term>
+                    <term xml:lang="el">Μολυβδόβουλλα αξιωματούχων</term>
+                </item>
+                <item xml:id="ecclesiastical">
+                    <term xml:lang="en">Ecclesiastical</term>
+                    <term xml:lang="de">Kirchlich</term>
+                    <term xml:lang="it">Ecclesiastica</term>
+                    <term xml:lang="fr">Ecclésiastique</term>
+                    <term xml:lang="bg">Църковен</term>
+                    <term xml:lang="el">Μολυβδόβουλλα εκκλησιαστικών αξιωματούχων</term>
+                </item>
+                <item xml:id="private-seals">
+                    <term xml:lang="en">Private seals</term>
+                    <term xml:lang="de">Privat</term>
+                    <term xml:lang="it">Privata</term>
+                    <term xml:lang="fr">Privée</term>
+                    <term xml:lang="bg">Личен</term>
+                    <term xml:lang="el">Μολυβδόβουλλα ιδιωτών</term>
+                </item>
+                <item xml:id="undetermined">
+                    <term xml:lang="en">Undetermined</term>
+                    <term xml:lang="de">Unbestimmt</term>
+                    <term xml:lang="it">Indeterminato</term>
+                    <term xml:lang="fr">Indéterminé</term>
+                    <term xml:lang="bg">Неопределен</term>
+                    <term xml:lang="el">Απροσδιόριστα</term>
+                </item>
+            </list>
+        </body>
+    </text>
+</TEI>
