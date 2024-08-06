@@ -58,14 +58,6 @@
                     <term xml:lang="bg">Жетон</term>
                     <term xml:lang="el">Διακριτικό</term>
                 </item>
-                <item xml:id="undetermined">
-                    <term xml:lang="en">Undetermined</term>
-                    <term xml:lang="de">Unbestimmt</term>
-                    <term xml:lang="it">Indeterminato</term>
-                    <term xml:lang="fr">Indéterminé</term>
-                    <term xml:lang="bg">Неопределен</term>
-                    <term xml:lang="el">Απροσδιόριστα</term>
-                </item>
             </list>
         </body>
     </text>
