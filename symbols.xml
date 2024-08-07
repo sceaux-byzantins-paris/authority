@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Authority list of symbols in SigiDoc</title>
+                <editor xml:id="AS">Alessio Sopracasa</editor>
+                <editor xml:id="MF">Martina Filosa</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
+                    Methodologies for Historical Research in Byzantine Studies</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Attribution 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <ab/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+                <item xml:id="chi-rho">
+                    <term xml:lang="en">chi-rho</term>
+                    
+                </item>
+                <item xml:id="cross">
+                    <term xml:lang="en">cross</term>
+                    <g>abcd</g>
+                </item>
+                <item xml:id="kai">
+                    <term xml:lang="en">kai</term>
+                </item>
+                <item xml:id="proto">
+                    <term xml:lang="en">proto</term>
+                </item>
+                <item xml:id="monachos">
+                    <term xml:lang="en">monk</term>
+                </item>
+            </list>
+        </body>
+    </text>
+</TEI>
