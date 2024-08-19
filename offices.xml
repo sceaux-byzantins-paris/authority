@@ -27,30 +27,31 @@
         </fileDesc>
     </teiHeader>
     
-    <!-- @ana and @xml:id are organised as follows:
-    for civil offices: @ana="oc001" @xml:id="oc001_1" where oc stands for "office civil"
-    for military offices: @ana="om001" @xml:id="om001_1" where om stands for "office military"
-    for ecclesiastical offices: @ana="oe001" @xml:id="oe001_1" where oe stands for "office ecclesiastical"
+    <!-- @xml:id are organised as follows:
+    for civil offices: @xml:id="oc001" where oc stands for "office civil"
+    for military offices: @xml:id="om001" where om stands for "office military"
+    for ecclesiastical offices: @xml:id="oe001_1" where oe stands for "office ecclesiastical"
     -->
-    
-    <!-- français peut-être à harmoniser -->
-    <!-- initial capital letters: a decision is needed -->
     
     <text>
         <body>
             <!-- ********** CIVIL ********** -->
             <list type="civil">
-                <item ana="admissionalis">
-                    <term xml:id="admissionalis_001"> <!-- relevant greek function -->
-                        <term xml:lang="grc">xxx</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">xxx</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
+               
+                <!-- ********** example for Jan ********** -->
+                
+                <item xml:id="oc001">
+                    <term xml:lang="la">admissionalis</term>
+                    <term xml:lang="en">admissionalis</term>
+                    <term xml:lang="fr">admissionalis</term>
+                    <term xml:lang="de">Admissionalis</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">admissionalis</term>
                 </item>
+                
+                <!-- ********** end example for Jan ********** -->
+                
                 <item ana="adiutis">
                     <term xml:id="adiutis_001"> <!-- relevant greek function -->
                         <term xml:lang="grc">xxx</term>
