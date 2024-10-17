@@ -413,6 +413,17 @@
                     <date>2012</date>
                     <biblScope unit="page">p. 119-123</biblScope>
                 </bibl>
+                
+                <bibl type="book" xml:id="Kofopoulos2022">
+                    <bibl type="abbrev">Cheynet, Kofopoulos, I, 2022</bibl>
+                    <author><forename>Jean-Claude</forename>
+                    <surname>Cheynet</surname></author>
+                    <title level="m">Les sceaux byzantins de la collection Savvas Kofopoulos</title>
+                    <biblScope unit="part">I</biblScope>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>ACHCByz</publisher>
+                    <date>2022</date>
+                </bibl>
 
                 <!-- Laurent Corpus -->
 
