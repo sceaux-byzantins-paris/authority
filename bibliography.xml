@@ -2942,6 +2942,16 @@
                     <pubPlace xml:lang="fr">Vienne</pubPlace>
                     <date>1997</date>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Seibt1999">
+                    <bibl type="abbrev">Seibt, 1999</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <title level="a">Siegel als Quelle für Slawenarchonten in Griechenland</title>
+                    <title level="j">Studies in Byzantine Sigillography</title>
+                    <biblScope unit="volume">6</biblScope>
+                    <date>1999</date>
+                    <biblScope unit="page">p. 27-36</biblScope>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Seibt2010"
                     corresp="http://zotero.org/users/3169239/items/53FWMU56">
                     <bibl type="abbrev">Seibt, 2010</bibl>
