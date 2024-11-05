@@ -761,6 +761,17 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
+                <item ana="ἐξπελλευτὴς">
+                    <term xml:id="expell_001">
+                        <term xml:lang="grc">ἐξπελλευτὴς</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">expelleutès</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                </item>
                 <item ana="ἒπαρχος">
                     <term xml:id="eparch_001">
                         <term xml:lang="grc">ἔπαρχος</term>
@@ -777,6 +788,28 @@
                         <term xml:lang="grc">ἐπαρχικός</term> 
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">éparchikos</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                </item>
+                <item ana="ἐπείκτης">
+                    <term xml:id="epeiktes_001">
+                        <term xml:lang="grc">ἐπείκτης</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">épeiktès</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>
+                    </term>
+                </item>
+                <item ana="βασιλικὸς ἐπείκτης">
+                    <term xml:id="imp-epeiktes_001">
+                        <term xml:lang="grc">ἐπείκτης, βασιλικὸς</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">épeiktès impérial</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -1131,6 +1164,17 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
+                <item ana="κατεπάνω"><!-- civil too? -->
+                    <term xml:id="katepano_018">
+                        <term xml:lang="grc">κατεπάνω</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">catépan</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term> 
+                    </term>
+                </item>
                 <item ana="κενσώρ">
                     <term xml:id="kensor_001">
                         <term xml:lang="grc">κένσωρ</term> 
@@ -1196,13 +1240,8 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>  
                     </term>
-                    
-                    
-                    
-                    
-                    
-                    <!-- the following 2: to be done -->
-                    <term xml:id="komes_019">
+                    <!-- ??? -->
+                    <!--<term xml:id="komes_019">
                         <term xml:lang="grc">κόμης τῶν ἀκτῶν</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">comte des rivages</term>
@@ -1210,16 +1249,7 @@
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="komes_027">
-                        <term xml:lang="grc">κόμης τοῦ θεοφυλάκτου βασιλικοῦ Ὀψικίου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">comte de l'Opsikion impérial gardé de Dieu</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
+                    </term>-->
                 </item>
                 <item ana="μέγας κόμης">
                     <term xml:id="megaskomes_001">
@@ -1347,16 +1377,6 @@
                         <term xml:lang="grc">κριτής</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">juge</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    
-                    <term xml:id="krites_003"><!-- what to do with the epi tou? -->
-                        <term xml:lang="grc">κριτὴς ἐπὶ τοῦ Ἱπποδρόμου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">juge de l’Hippodrome</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -1713,10 +1733,8 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    
-                    
-                    
-                    <term xml:id="notarios_005">
+                    <!-- ???? -->
+                    <!--<term xml:id="notarios_005">
                         <term xml:lang="grc">νοτάριος Δαυίδ</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">notaire de David</term>
@@ -1724,7 +1742,7 @@
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
-                    </term>
+                    </term>-->
                 </item>
                 <item ana="βασιλικὸς νοτάριος">
                     <term xml:id="imp-notarios_001">
@@ -1879,7 +1897,8 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="pistikos_002"><!-- to be done -->
+                    <!-- ??? -->
+                    <!--<term xml:id="pistikos_002"><!-\- to be done -\->
                         <term xml:lang="grc">πιστικὸς τῶν Ὀξέων</term> 
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">pistikos ton oxeon</term>
@@ -1887,7 +1906,7 @@
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
-                    </term>
+                    </term>-->
                 </item>
                 <item ana="βασιλικὸς πιστικὸς">
                     <term xml:id="imp-pistikos_001">
@@ -1949,15 +1968,6 @@
                         <term xml:lang="grc">πριμικήριος</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">primicier</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="primikirios_002"><!-- to be discussed: basileus, despotes, etc. -->
-                        <term xml:lang="grc">πριμικήριος τοῦ μεγάλου βασιλέως</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">primicier du grand empereur</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -2111,7 +2121,7 @@
                         <term xml:id="refendarios_001">
                             <term xml:lang="grc">ῥεφερενδάριος</term>
                             <term xml:lang="en">xxx</term>
-                            <term xml:lang="fr">réféndarios</term><!-- accents? -->
+                            <term xml:lang="fr">référendaire</term>
                             <term xml:lang="de">xxx</term>
                             <term xml:lang="bg">xxx</term>
                             <term xml:lang="el">xxx</term>
@@ -2338,15 +2348,26 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>          
-                <item ana="ὡρρειάριος"><!-- ὁρειάριος, ὁριάριος ??? -->
+                <item ana="ὡρρειάριος">
                     <term xml:id="horreiarios_001">
-                        <term xml:lang="grc">ὡρρειάριος</term> 
+                        <term xml:lang="grc">ὡρρειάριος</term><!-- spelling -->
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">hôrreiarios</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>   
+                    </term>
+                </item>
+                <item ana="δομέστικος">
+                    <term xml:id="xxx">
+                        <term xml:lang="grc">δομέστικος</term>
+                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="fr">domestique</term>
+                        <term xml:lang="de">xxx</term>
+                        <term xml:lang="bg">xxx</term>
+                        <term xml:lang="el">xxx</term>
+                        <term xml:lang="it">xxx</term>  
                     </term>
                 </item>
             </list>
@@ -2538,64 +2559,11 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">metropolita</term>
                     </term>
-                    
-                   
-                    
-                    
-                    
-                    <term xml:id="metropolitan_014">
-                        <term xml:lang="grc">μητροπολίτης Ἁγίας Σεβερίνης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Santa Severina</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>                    
-                    <term xml:id="metropolitan_026">
-                        <term xml:lang="grc">μητροπολίτης Ἡρακλείας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite d'Héraclée</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_027">
-                        <term xml:lang="grc">μητροπολίτης Καμάχου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Kamacha</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    
-                    
-                    
-                    <term xml:id="metropolitan_031">
-                        <term xml:lang="grc">μητροπολίτης Σαρδέων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Sardes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="metropolitan_032">
-                        <term xml:lang="grc">μητροπολίτης Σελευκείας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">métropolite de Séleucie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="μοναχὴ">
                     <term xml:id="nun_001">    
                         <term xml:lang="grc">μοναχὴ</term>
-                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="en">nun</term>
                         <term xml:lang="fr">moniale</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
@@ -2606,17 +2574,8 @@
                 <item ana="μοναχὸς">
                     <term xml:id="monk_001">    
                         <term xml:lang="grc">μοναχὸς</term>
-                        <term xml:lang="en">xxx</term>
+                        <term xml:lang="en">monk</term>
                         <term xml:lang="fr">moine</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="monk_002">    
-                        <term xml:lang="grc">μοναχὸς μονῆς Ὀρόβων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">moine de monastère d'Orovon</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -2644,57 +2603,12 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="oikonom_002">
-                        <term xml:lang="grc">οἰκονόμος Κορίνθου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">économe de Corinthe</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="oikonom_003">
-                        <term xml:lang="grc">οἰκονόμος τῆς Μεγάλης Ἐκκλησίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">économe de la Grande Eglise</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="πατριάρχης">
                     <term xml:id="patriarches_001">
                         <term xml:lang="grc">πατριάρχης</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">patriarche</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="patriarches_002">
-                        <term xml:lang="grc">πατριάρχης Κωνσταντινουπόλεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">patriarche de Constantinople</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="patriarches_003">
-                        <term xml:lang="grc">πατριάρχης Ἱεροσολύμων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">patriarche de Jérusalem</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="patriarches_004">
-                        <term xml:lang="grc">πατριάρχης Ἀντιόχειας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">patriarche d'Antioche</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -2729,15 +2643,6 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="poimenarches_003">
-                        <term xml:lang="grc">ποιμενάρχης Κυπρίων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">archevêque des Chypriotes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="ποιμὴν">
                     <term xml:id="poimen_001">
@@ -2749,46 +2654,10 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                  <term xml:id="poimen_002"> 
-                    <term xml:lang="grc">ποιμὴν Σεβαστῆς</term>
-                    <term xml:lang="en">xxx</term> 
-                    <term xml:lang="fr">pasteur de Sébastè</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                  </term>
-                    <term xml:id="poimen_003"> 
-                        <term xml:lang="grc">ποιμὴν Κρήτης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">pasteur de Crète</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="poimen_004"> 
-                        <term xml:lang="grc">ποιμὴν Μογλαινῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">pasteur du thème de Mogléna</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="πρεσβύτερος">
                     <term xml:id="presbyteros_001">
                         <term xml:lang="grc">πρεσβύτερος</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">prêtre</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="presbyteros_002">
-                        <term xml:lang="grc">πρεσβύτερος τῆς ἐκκλησίας τῆς Ἁγίας Σοφίας</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">prêtre</term>
                         <term xml:lang="de">xxx</term>
@@ -2813,24 +2682,6 @@
                         <term xml:lang="grc">πρόεδρος</term> 
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">proèdre</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="proed_002">
-                        <term xml:lang="grc">πρόεδρος Παϊπέρτ</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">proèdre de Païpert</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="proed_003">
-                        <term xml:lang="grc">πρόεδρος Σελευκείας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">proèdre de Séleucie</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -2881,11 +2732,11 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
-                <item ana="ῥαιφερενδάριος">
+                <item ana="ῥαιφερενδάριος"><!-- civil too -->
                     <term xml:id="referend_001">
                         <term xml:lang="grc">ῥαιφερενδάριος</term> 
                         <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">repherendarios</term>
+                        <term xml:lang="fr">référendaire</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -2924,24 +2775,6 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="synkellos_002">
-                        <term xml:lang="grc">σύγκελλος Γάγγρας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">syncelle de Gangres</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="synkellos_003">
-                        <term xml:lang="grc">σύγκελλος Χαλκηδόνος</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">syncelle de Chalcédoine</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>  
                 <item ana="πρωτοσὐγγελος">
                     <term xml:id="protosynkellos_001">
@@ -2954,12 +2787,11 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
-                
                 <item ana="καθηγητής">
                     <term xml:id="kathegetes_001">
                         <term xml:lang="grc">καθηγητής</term>
                         <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">xxx</term>
+                        <term xml:lang="fr">kathègètès</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -2976,15 +2808,6 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="charistik_002">
-                        <term xml:lang="grc">χαριστικάριος τῆς μονῆς τοῦ Ἁγίου Εἰσαυροῦ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">charisticaire du couvent de Saint Isauros</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="χαρτοφύλαξ">
                     <term xml:id="chartophylax_001">
@@ -2996,30 +2819,12 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term> 
                     </term>
-                    <term xml:id="chartophylax_002">
-                        <term xml:lang="grc">χαρτοφύλαξ Ἐφέσου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">chartophylax d'Ephèse</term> <!-- Ν.Β. -->
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="chartophylax_003">
-                        <term xml:lang="grc">χαρτοφύλαξ Ῥαιδεστοῦ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">chartulaire de la Néa</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
                 </item>
-                <item ana="χαρτουλάριος">
+                <item ana="χαρτουλάριος"><!-- civil too -->
                     <term xml:id="chartoul_001">
-                            <term xml:lang="grc">χαρτουλάριος τῆς Νέας</term>
+                            <term xml:lang="grc">χαρτουλάριος</term>
                             <term xml:lang="en">xxx</term>
-                            <term xml:lang="fr">chartulaire de la Néa</term>
+                            <term xml:lang="fr">chartulaire</term>
                             <term xml:lang="de">xxx</term>
                             <term xml:lang="bg">xxx</term>
                             <term xml:lang="el">xxx</term>
@@ -3038,13 +2843,16 @@
                     </term>
                 </item>
             </list>
+            
+            
             <!-- ********** MILITARY ********** -->
             <list type="military">
                 <item ana="magister militum">
                     <term xml:id="magister-militum">
                         <term xml:lang="grc">xxx</term>
+                        <term xml:lang="la">magister militum</term>
                         <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">xxx</term>
+                        <term xml:lang="fr">maître des milices</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -3062,31 +2870,11 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
-               <item ana="βαγατούρ">
-                   <term xml:id="bagatur_001">
-                       <term xml:lang="grc">βαγατούρ</term>
-                       <term xml:lang="en">xxx</term>
-                       <term xml:lang="fr">bagatur</term>
-                       <term xml:lang="de">xxx</term>
-                       <term xml:lang="bg">xxx</term>
-                       <term xml:lang="el">xxx</term>
-                       <term xml:lang="it">xxx</term>
-                   </term>
-               </item>
                 <item ana="βαρδάριος">
                     <term xml:id="bardarios_001">
                         <term xml:lang="grc">βαρδάριος</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">bardarios</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>   
-                    </term>
-                    <term xml:id="bardarios_002">
-                        <term xml:lang="grc">βαρδάριος Θεσσαλονίκης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">bardarios de Thessalonique</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -3115,18 +2903,7 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
-                <item ana="δισκούσσωρ">
-                    <term xml:id="diskoussor_001">
-                        <term xml:lang="grc">δισκούσσωρ</term> <!-- Ν.Β. I think it's a civil office -->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">diskoussor</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                </item>
-                <item ana="δομέστικος">
+                <item ana="δομέστικος"><!-- civil too -->
                     <term xml:id="domestikos_001">
                         <term xml:lang="grc">δομέστικος</term>
                         <term xml:lang="en">xxx</term>
@@ -3136,174 +2913,12 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>  
                     </term>
-                    <term xml:id="domestikos_002">
-                        <term xml:lang="grc">δομέστικος τών Ἐξκουβίτων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Excubites</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="domestikos_003">
-                        <term xml:lang="grc">δομέστικος Νουμέρων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Nouméra</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="domestikos_004">
-                        <term xml:lang="grc">δομέστικος τῶν σχολῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Scholes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="domestikos_005">
-                        <term xml:lang="grc">δομέστικος τῶν σχολῶν Δύσεως</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Scholes d'Occident</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="domestikos_006">
-                        <term xml:lang="grc">δομέστικος τῶν σχολῶν Ἀνατολῆς</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Scholes d'Orient</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="domestikos_007">
-                        <term xml:lang="grc">δομέστικος Ὀπτιμάτων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Optimates</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="domestikos_008">
-                        <term xml:lang="grc">δομέστικος τῶν θεοφύλακτων σχολῶν τῆς Δύσεως</term> <!-- is it the same as domestikos_005? --><!--Yes it is, just a variation in the title-->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Scholes d'Occident gardées de Dieux</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="domestikos_009">
-                        <term xml:lang="grc">δομέστικος Ἀνατολικῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Anatoliques</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="domestikos_010">
-                        <term xml:lang="grc">δομέστικος ἱκανάτων τῆς Δύσεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Hikanates d'Occident</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="domestikos_011">
-                        <term xml:lang="grc">δομέστικος τῆς ὑπουργίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique de l'hypourgia</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="domestikos_012">
-                        <term xml:lang="grc">δομέστικος Θρᾴκησίων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Thracésiens</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="domestikos_013">
-                        <term xml:lang="grc">δομέστικος Ὀψικίου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique de l'Opsikion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="domestikos_014">
-                        <term xml:lang="grc">δομέστικος Βουκελλαρίων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique des Bucellaires</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="domestikos_015">
-                        <term xml:lang="grc">δομέστικος Δύσεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique d'Occident</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="domestikos_016">
-                        <term xml:lang="grc">δομέστικος τῆς τραπέζης</term> <!-- Ν.Β. civil office-->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique de la table</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="μέγας δομέστικος">
                     <term xml:id="megasdom_001">
                         <term xml:lang="grc">μέγας δομέστικος</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">grand domestique</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="megasdom_002">
-                        <term xml:lang="grc">μέγας δομέστικος Ἀνατολῆς</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">grand domestique d'Orient</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="megasdom_003">
-                        <term xml:lang="grc">μέγας δομέστικος Δύσεως</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">grand domestique d'Occident</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="megasdom_004">
-                        <term xml:lang="grc">μέγας δομέστικος πάσης Δύσεως</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">grand domestique de tout l'Occident</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -3320,307 +2935,10 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="doux_002">
-                        <term xml:lang="grc">δοὺξ Ἀντιόχειας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc d'Antioche</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_003">
-                        <term xml:lang="grc">δοὺξ Ἀνατολικῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc des Anatoliques</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_004">
-                        <term xml:lang="grc">δοὺξ Κιβυρραιωτῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc des Cibyrrhéotes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_005">
-                        <term xml:lang="grc">δοὺξ Δυρραχίου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Dyrrachion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_006">
-                        <term xml:lang="grc">δοὺξ Ἐδέσσης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc d'Edesse</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_007">
-                        <term xml:lang="grc">δοὺξ Ἀνατολῆς</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc d'Orient</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_008">
-                        <term xml:lang="grc">δοὺξ Ὀψικίου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de l'Opsikion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_009">
-                        <term xml:lang="grc">δοὺξ Θεσσαλονίκης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Thessalonique</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                   <term xml:id="doux_010">
-                       <term xml:lang="grc">δοὺξ Ἑλλάδος</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de l'Hellade</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>  
-                    <term xml:id="doux_011">
-                        <term xml:lang="grc">δοὺξ Παραδουνάβου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc du Paradounavon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_012">
-                        <term xml:lang="grc">δοὺξ Τριαδίτζης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Sredec</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_013">
-                        <term xml:lang="grc">δοὺξ Χαλδίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Chaldée</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_014">
-                        <term xml:lang="grc">δοὺξ Ἀθηνῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc d'Athènes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_015">
-                        <term xml:lang="grc">δοὺξ Τριαδίτζης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Triaditza</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_016">
-                        <term xml:lang="grc">δοὺξ Ἀδριανουπόλεως</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc d'Arcadiopolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_017">
-                        <term xml:lang="grc">δοὺξ τοῦ στόλου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de la flotte</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_018">
-                        <term xml:lang="grc">δοὺξ Βουλγαρίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Bulgarie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_019">
-                        <term xml:lang="grc">δοὺξ Δύσεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc d'Occident</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_020">
-                        <term xml:lang="grc">δοὺξ Χαρσιανοῦ</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc du Charsianon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_021">
-                        <term xml:lang="grc">δοὺξ πάσης Δύσεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de tout l'Occident</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_022">
-                        <term xml:lang="grc">δοὺξ Φιλιππουπόλεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Philippopolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_023">
-                        <term xml:lang="grc">δοὺξ Πελοποννήσου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc du Péloponnèse</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_024">
-                        <term xml:lang="grc">δοὺξ Νουμιδίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Numidie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_025">
-                        <term xml:lang="grc">δοὺξ Ἀνίου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc d'Ani</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_026">
-                        <term xml:lang="grc">δοὺξ Μεγάλης Ἀρμενίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Grande Arménie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_027">
-                        <term xml:lang="grc">δοὺξ Ἀρμενιακῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc des Arméniaques</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_028">
-                        <term xml:lang="grc">δοὺξ Κὰρς καὶ Ἰβηρίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Kars et d'Ibérie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_029">
-                        <term xml:lang="grc">δοὺξ Σμύρνης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Smyrne</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_030">
-                        <term xml:lang="grc">δοὺξ Θήβας καὶ Εὐριποῦ</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Thèbes et d'Euripe</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_031">
-                        <term xml:lang="grc">δοὺξ Θρᾳκησίων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc des Thracésiens</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_032">
-                        <term xml:lang="grc">δοὺξ Καλαβρίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Calabre</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="doux_033">
-                        <term xml:lang="grc">δοὺξ Σκοπίων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">duc de Skopje</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="μέγας δοὺξ">
                     <term xml:id="megasdoux_001">
                         <term xml:lang="grc">μέγας δοὺξ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">grand duc</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="megasdoux_002">
-                        <term xml:lang="grc">μέγας δοὺξ τοῦ Χαρσιανοῦ</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">grand duc</term>
                         <term xml:lang="de">xxx</term>
@@ -3644,7 +2962,7 @@
                     <term xml:id="drakonarios_001">
                         <term xml:lang="grc">δρακονάριος</term>
                         <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drakonarios </term>
+                        <term xml:lang="fr">drakonarios</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -3661,136 +2979,10 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="droug_002">
-                        <term xml:lang="grc">δρουγγάριος τοῦ πλωίμου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de la flotte</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="droug_003">
-                        <term xml:lang="grc">δρουγγάριος Αἰγαίου Πελάγους</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de la Mer Egée</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term> 
-                    <term xml:id="droug_004">
-                        <term xml:lang="grc">δρουγγάριος τῆς βίγλης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de la Veille</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term> 
-                    <term xml:id="droug_005">
-                        <term xml:lang="grc">δρουγγάριος Ῥόδου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de Rhodes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="droug_006">
-                        <term xml:lang="grc">δρουγγάριος Ἑλλάδος</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire d'Hellade</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="droug_007">
-                        <term xml:lang="grc">δρουγγάριος Σελευκείας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de Séleucie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term> 
-                    <term xml:id="droug_008">
-                        <term xml:lang="grc">δρουγγάριος τοῦ βασιλικοῦ πλωίμου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de la flotte impériale</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="droug_009">
-                        <term xml:lang="grc">δρουγγάριος τοῦ Ἀριθμοῦ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de la Veille</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="droug_010">
-                        <term xml:lang="grc">δρουγγάριος Ἀθηνῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire d'Athènes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="droug_011">
-                        <term xml:lang="grc">δρουγγάριος Χαλκίδος</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de Chalcis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="droug_012">
-                        <term xml:lang="grc">δρουγγάριος τοῦ Θεολόγου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de Theologos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="droug_013">
-                        <term xml:lang="grc">δρουγγάριος τοῦ κόλπου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire du Golfe</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="droug_014">
-                        <term xml:lang="grc">δρουγγάριος τοῦ λαυσιακοῦ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">drongaire de Lausiakos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="μέγας δρουγγάριος">
                     <term xml:id="megasdroug_001">
                         <term xml:lang="grc">μέγας δρουγγάριος</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">grand drongaire</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="megasdroug_002">
-                        <term xml:lang="grc">μέγας δρουγγάριος τοῦ στόλου</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">grand drongaire</term>
                         <term xml:lang="de">xxx</term>
@@ -3804,186 +2996,6 @@
                         <term xml:lang="grc">ἐκ προσώπου</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">ek prosôpou</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_002">
-                        <term xml:lang="grc">ἐκ προσώπου τοῦ πλωίμου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de la flotte</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_003">
-                        <term xml:lang="grc">ἐκ προσώπου Θρᾴκης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de Thrace</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_004">
-                        <term xml:lang="grc">ἐκ προσώπου Θρᾳκησίων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou des Thracésiens</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_005">
-                        <term xml:lang="grc">ἐκ προσώπου Παραδουνάβου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de Paradounavon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_006">
-                        <term xml:lang="grc">ἐκ προσώπου Κρήτης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de Crète</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_007">
-                        <term xml:lang="grc">ἐκ προσώπου Μεσημβρίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de Mésembria</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_008">
-                        <term xml:lang="grc">ἐκ προσώπου Μεσοποταμίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de Mésopotamie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_009">
-                        <term xml:lang="grc">ἐκ προσώπου Τροιζῆνος</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de Trézène</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_010">
-                        <term xml:lang="grc">ἐκ προσώπου Μῶρας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de Morra</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_011">
-                        <term xml:lang="grc">ἐκ προσώπου Φιλιππουπόλεως</term> 
-                        <term xml:lang="en">xxx</term> 
-                        <term xml:lang="fr">ek prosôpou de Philippopolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_012">
-                        <term xml:lang="grc">ἐκ προσώπου Ὀρόβης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou d'Orobè</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_013">
-                        <term xml:lang="grc">ἐκ προσώπου τοῦ λογοθεσίου τῶν ἀγελῶν</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou du logothesion des troupeaux</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_014">
-                        <term xml:lang="grc">ἐκ προσώπου τοῦ ὀξέος δρόμου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou du drome accéléré</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_015">
-                        <term xml:lang="grc">ἐκ προσώπου τοῦ Μυρελαίου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou du Myrélaion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_016">
-                        <term xml:lang="grc">ἐκ προσώπου τῶν Πυλῶν</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de Pylai</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_017">
-                        <term xml:lang="grc">ἐκ προσώπου Ἀνατολικῶν</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou des Anatoliques</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_018">
-                        <term xml:lang="grc">ἐκ προσώπου Ἀτταλείας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou d'Attaleia</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_019">
-                        <term xml:lang="grc">ἐκ προσώπου εἰς Καραβησιάνους</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou des Caravisiens</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_020">
-                        <term xml:lang="grc">ἐκ προσώπου Παμφυλίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de Pamphylie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="ekprosopou_021">
-                        <term xml:lang="grc">ἐκ προσώπου τοῦ φιλοχρίστου δεσπότου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">ek prosôpou de l'empereur aimé du Christ</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -4006,24 +3018,6 @@
                         <term xml:lang="grc">ἒξαρχος</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">exarque</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="exarch_002">
-                        <term xml:lang="grc">ἒξαρχος Ἀφρικῆς</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">exarque d'Afrique</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="exarch_003">
-                        <term xml:lang="grc">ἒξαρχος Ἰταλίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">exarque d'Italie</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -4057,75 +3051,6 @@
                         <term xml:lang="grc">ἐξκουβίτωρ</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">exkoubitôr</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="exkoubitor_002">
-                        <term xml:lang="grc">ἐξκουβίτωρ Δύσεως</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">exkoubitôr d'Occident</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                </item>
-                <item ana="ἐξπελλευτὴς">
-                    <term xml:id="expell_001">
-                        <term xml:lang="grc">ἐξπελλευτὴς</term> <!-- N.B.civil : collectors of arrears of taxes-->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">expelleutès</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                </item>
-                <item ana="ἐπείκτης">
-                    <term xml:id="epeiktes_001">
-                        <term xml:lang="grc">ἐπείκτης</term> <!-- N.B. I think all the epeiktes are civil-->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">épeiktès</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="epeiktes_002">
-                        <term xml:lang="grc">ἐπείκτης Ἀβύδου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">épeiktès d'Abydos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="epeiktes_003">
-                        <term xml:lang="grc">ἐπείκτης τῶν βασιλικῶν στάβλων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">épeiktès des écuries impériales</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="epeiktes_004">
-                        <term xml:lang="grc">ἐπείκτης τῆς κογχύλης</term> <!-- Ν.Β. civil : in charge of shellfish harvesting for Purple-->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">épeiktès du konchyle</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                </item>
-                <item ana="βασιλικὸς ἐπείκτης">
-                    <term xml:id="imp-epeiktes_001">
-                        <term xml:lang="grc">ἐπείκτης, βασιλικὸς</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">épeiktès impérial</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -4189,7 +3114,7 @@
                     <term xml:id="etaireiarches_001">
                         <term xml:lang="grc">ἐταιρειάρχης</term>
                         <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">hétairiarque</term>
+                        <term xml:lang="fr">hétériarque</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -4200,7 +3125,7 @@
                     <term xml:id="megasetair_001">
                         <term xml:lang="grc">μέγας ἐταιρειάρχης</term>
                         <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">grand hétairiarque</term>
+                        <term xml:lang="fr">grand hétériarque</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -4217,168 +3142,6 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term> 
                     </term>
-                    <term xml:id="katepano_002">
-                        <term xml:lang="grc">κατεπάνω Ἀντιόχειας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan d'Antioche</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_003">
-                        <term xml:lang="grc">κατεπάνω Κύπρου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de Chypre</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_004">
-                        <term xml:lang="grc">κατεπάνω Ἰταλίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan d'Italie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_005">
-                        <term xml:lang="grc">κατεπάνω Παραδουνάβου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan du Paradounabon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_006">
-                        <term xml:lang="grc">κατεπάνω Λογγοβαρδίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de Langobardie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_007">
-                        <term xml:lang="grc">κατεπάνω Κρήτης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de Crète</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_008">
-                        <term xml:lang="grc">κατεπάνω Τριαδίτζης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de Triaditza</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_009">
-                        <term xml:lang="grc">κατεπάνω Ἀδριανουπόλεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan d'Andrinople</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_010">
-                        <term xml:lang="grc">κατεπάνω Βαασπρακανίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan du Vaspourakan</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_011">
-                        <term xml:lang="grc">κατεπάνω Βουλγαρίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de Bulgarie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_012">
-                        <term xml:lang="grc">κατεπάνω Ἰβηρίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan d'Ibérie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_013">
-                        <term xml:lang="grc">κατεπάνω Θεσσαλονίκης</term>  
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de Thessalonique</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_014">
-                        <term xml:lang="grc">κατεπάνω τῶν πλωίμων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de la flotte</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_015">
-                        <term xml:lang="grc">κατεπάνω Ἐδέσσης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan d'Edesse</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_016">
-                        <term xml:lang="grc">κατεπάνω Μεσημβρίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de Mésembria</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_017">
-                        <term xml:lang="grc">κατεπάνω Μεσοποταμίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de Mésopotamie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_018">
-                        <term xml:lang="grc">κατεπάνω τῶν ἀξιωμάτων</term> <!-- Ν.Β. civil -->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan des dignités</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                    <term xml:id="katepano_019">
-                        <term xml:lang="grc">κατεπάνω στρατοῦ Σικελίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan de l'armée de Sicile</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
                 </item>
                 <item ana="κλεισουράρχης">
                     <term xml:id="kleisourarches_001">
@@ -4390,39 +3153,12 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>   
                     </term>
-                    <term xml:id="kleisourarches_002">
-                        <term xml:lang="grc">κλεισουράρχης Χαρσιανοῦ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">clisourarque de Charsianon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>   
-                    </term>
-                    <term xml:id="kleisourarches_003">
-                        <term xml:lang="grc">κλεισουράρχης Σελευκείας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">clisourarque de Séleucie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>   
-                    </term>
                 </item>
-                <item ana="κρατῶν">
+                <item ana="κρατῶν"><!-- military? -->
                     <term xml:id="kraton_001">
-                        <term xml:lang="grc">κρατῶν</term> <!-- Ν.Β. -->
+                        <term xml:lang="grc">κρατῶν</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">kratôn</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                    <term xml:id="kraton_002">
-                        <term xml:lang="grc">κρατῶν Ἀνατολῆς</term> <!-- Ν.Β. -->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">kratôn d'Orient</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -4461,15 +3197,6 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="merarches_002">
-                        <term xml:lang="grc">μεράρχης Κνωσοῦ</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">mérarque de Cnossos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="μονοστράτηγος">
                     <term xml:id="monostrat-001">
@@ -4503,51 +3230,6 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="paraphylax_002">
-                        <term xml:lang="grc">παραφύλαξ Κρήτης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">paraphylax de Crète</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="paraphylax_003">
-                        <term xml:lang="grc">παραφύλαξ Ἀβύδου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">paraphylax d'Abydos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="paraphylax_004">
-                        <term xml:lang="grc">παραφύλαξ Νικαίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">paraphylax de Nicée</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="paraphylax_005">
-                        <term xml:lang="grc">παραφύλαξ Θεολόγου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">paraphylax de Théologos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="paraphylax_006">
-                        <term xml:lang="grc">παραφύλαξ Θεσαλωνίκης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">paraphylax de Thessalonique</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="βασιλικὸς παραφύλαξ">
                     <term xml:id="imp-paraphylax_001">
@@ -4559,30 +3241,12 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="imp-paraphylax_002">
-                        <term xml:lang="grc">παραφύλαξ Ἀβύδου, βασιλικὸς</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">paraphylax impérial d'Abydos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="πρόξιμος">
                     <term xml:id="proximos_001">
                         <term xml:lang="grc">πρόξιμος</term> 
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">proximos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="proximos_002">
-                        <term xml:lang="grc">πρόξιμος Ἀντιόχειας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">proximos d'Antioche</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -4610,30 +3274,12 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="protarches_002">
-                        <term xml:lang="grc">πρωτάρχης Μακεδόνων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">protarque des Macédoniens</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="πρωτοκένταρχος">
                     <term xml:id="protokent_001">
                         <term xml:lang="grc">πρωτοκένταρχος</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">protocentarque</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="protokent_002">
-                        <term xml:lang="grc">πρωτοκένταρχος Ὀψικίου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">protocentarque de l'Opsikion</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -4672,552 +3318,12 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="strateg_002">
-                        <term xml:lang="grc">στρατηγὸς Σελεύκειας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Séleucie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_003">
-                        <term xml:lang="grc">στρατηγὸς Δυρραχίου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Dyrrachion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_004">
-                        <term xml:lang="grc">στρατηγὸς Ἀτακᾶτζ</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège d'At‘akh</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_005">
-                        <term xml:lang="grc">στρατηγὸς Ἀνατολικῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Anatoliques</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_006">
-                        <term xml:lang="grc">στρατηγὸς Ἀρμενιακῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Arméniaques</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_007">
-                        <term xml:lang="grc">στρατηγὸς Βουκελλαρίων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Bucellaires</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_008">
-                        <term xml:lang="grc">στρατηγὸς Κεφαλληνίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Céphalonie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_009">
-                        <term xml:lang="grc">στρατηγὸς Κιβυρραιτῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Cibyrrhéotes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_010">
-                        <term xml:lang="grc">στρατηγὸς Ἑλλάδος</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de l'Hellade</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_011">
-                        <term xml:lang="grc">στρατηγὸς Λυκανδοῦ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Lykandos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_012">
-                        <term xml:lang="grc">στρατηγὸς Μακεδονίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Macédoine</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_013">
-                        <term xml:lang="grc">στρατηγὸς Δύσης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège d'Occident</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_014">
-                        <term xml:lang="grc">στρατηγὸς Ὀψικίου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège d'Opsikion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_015">
-                        <term xml:lang="grc">στρατηγὸς Πελοποννήσου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège du Péloponnèse</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_016">
-                        <term xml:lang="grc">στρατηγὸς Σερβίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Serbie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_017">
-                        <term xml:lang="grc">στρατηγὸς Σικελίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Sicile</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_018">
-                        <term xml:lang="grc">στρατηγὸς Ταρσοῦ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Tarse</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_019">
-                        <term xml:lang="grc">στρατηγὸς Θρᾳκησίων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Thracésiens</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_020">
-                        <term xml:lang="grc">στρατηγὸς Αἰγαίου Πελάγους</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Mer Égée</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_021">
-                        <term xml:lang="grc">στρατηγὸς Θρᾴκης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Thrace</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_022">
-                        <term xml:lang="grc">στρατηγὸς Ἀναβάρζης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège d'Anabarza</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_023">
-                        <term xml:lang="grc">στρατηγὸς Γωτωρόζ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Kotoroc‘</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_024">
-                        <term xml:lang="grc">στρατηγὸς Μεγάλης Πρεσθλάβας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Véliki Preslav</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_025">
-                        <term xml:lang="grc">στρατηγὸς Ἐλαβάκης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège d'Albak</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_026">
-                        <term xml:lang="grc">στρατηγὸς Θεσσαλονίκης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Thessalonique</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_027">
-                        <term xml:lang="grc">στρατηγὸς Ἰωαννουπόλεως</term> 
-                        <term xml:lang="en">xxx</term> 
-                        <term xml:lang="fr">stratège de Iôannoupolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_028">
-                        <term xml:lang="grc">στρατηγὸς Τραϊανουπόλεως</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Traianopolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_029">
-                        <term xml:lang="grc">στρατηγὸς Δοροστόλου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Dorostolon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_030">
-                        <term xml:lang="grc">στρατηγὸς Κρήτης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Crète</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_031">
-                        <term xml:lang="grc">στρατηγὸς Κριωταύρου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Kriautoros</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_032">
-                        <term xml:lang="grc">στρατηγὸς Πρεσδλάβας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Preslav</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_033">
-                        <term xml:lang="grc">στρατηγὸς Ταρὼν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège du Tarôn</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_034">
-                        <term xml:lang="grc">στρατηγὸς Νικοπόλεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Nicopolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_035">
-                        <term xml:lang="grc">στρατηγὸς Χερσῶνος</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Cherson</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_036">
-                        <term xml:lang="grc">στρατηγὸς Δεβελτοῦ</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Develtos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_037">
-                        <term xml:lang="grc">στρατηγὸς Χαλδίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Chaldée</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_038">
-                        <term xml:lang="grc">στρατηγὸς Μεσοποταμίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Mésopotamie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_039">
-                        <term xml:lang="grc">στρατηγὸς Νέου Στρύμωνος</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège du Néo-Strymon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_040">
-                        <term xml:lang="grc">στρατηγὸς Στρυμῶνος</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège du Strymon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_041">
-                        <term xml:lang="grc">στρατηγὸς Μακεδόνων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Macédoniens</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_042">
-                        <term xml:lang="grc">στρατηγὸς Φιλιππουπόλεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Philippopolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_043">
-                        <term xml:lang="grc">στρατηγὸς τῶν βασιλικῶν ἀρμαμέντων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des arsenaux impériaux</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_044">
-                        <term xml:lang="grc">στρατηγὸς Ἀραβασηνῶν</term> <!-- Ν.Β. I have a doubt -->
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Arabes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_045">
-                        <term xml:lang="grc">στρατηγὸς Χίου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Chios</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_046">
-                        <term xml:lang="grc">στρατηγὸς Ἀρκεράβου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège d'Arkérabou</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_047">
-                        <term xml:lang="grc">στρατηγὸς Νήσων/Νίσου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Îles</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_048">
-                        <term xml:lang="grc">στρατηγὸς Ἀρτζικέ</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège d'Artzikè</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_049">
-                        <term xml:lang="grc">στρατηγὸς Βελεγράδων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Belgrade</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_050">
-                        <term xml:lang="grc">στρατηγὸς Ἑλλάδος καὶ Πελοποννήσου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de l'Hellade et du Péloponnèse</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_051">
-                        <term xml:lang="grc">στρατηγὸς Γωτωρόζ καὶ Ἐλαβάκης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Gotoroz et d'Elabakè</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_052">
-                        <term xml:lang="grc">στρατηγὸς Καππαδοκίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Cappadoce</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_053">
-                        <term xml:lang="grc">στρατηγὸς Κύπρου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Chypre</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_054">
-                        <term xml:lang="grc">στρατηγὸς Ὀπτιμάτων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Optimates</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_055">
-                        <term xml:lang="grc">στρατηγὸς Παφλαγονίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Paphlagonie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_056">
-                        <term xml:lang="grc">στρατηγὸς Σάμου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Samos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_057">
-                        <term xml:lang="grc">στρατηγὸς Ἀβύδου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège d'Abydos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_058">
-                        <term xml:lang="grc">στρατηγὸς Χαρσιανοῦ</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Charsianon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_059">
-                        <term xml:lang="grc">στρατηγὸς Καραβισιάνοι</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège des Caravisiens</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_060">
-                        <term xml:lang="grc">στρατηγὸς Μεσοποταμίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Mésopotamie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="strateg_061">
-                        <term xml:lang="grc">στρατηγὸς Μεσοποταμίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratège de Sicile</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="στρατήγισσα">
                     <term xml:id="strategissa_001">
-                        <term xml:lang="grc">στρατήγισσα</term> <!-- Ν.Β. title of a strategos' wife-->
+                        <term xml:lang="grc">στρατήγισσα</term>
                         <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratègitissa</term>
+                        <term xml:lang="fr">stratègissa</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>
@@ -5234,43 +3340,7 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="stratel_002">
-                        <term xml:lang="grc">στρατηλάτης Ἀνατολῆς</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratèlate d'Orient</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="stratel_003">
-                        <term xml:lang="grc">στρατηλάτης Δύσεως</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratèlate d'Occident</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="stratel_004">
-                        <term xml:lang="grc">στρατηλάτης Χαλδίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratèlate de Chaldée</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="stratel_005">
-                        <term xml:lang="grc">στρατηλάτης Ἀνατολικῶν</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">stratèlate des Anatoliques</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                </item> 
+                </item>
                 <item ana="στρατοπεδάρχης">
                     <term xml:id="stratop_001">
                         <term xml:lang="grc">στρατοπεδάρχης</term>
@@ -5336,300 +3406,12 @@
                         <term xml:lang="el">xxx</term>
                         <term xml:lang="it">xxx</term>
                     </term>
-                    <term xml:id="topoter_002">
-                        <term xml:lang="grc">τοποτηρητὴς τοῦ Ἀριθμοῦ</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">topotèrètès de la Veille</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="topoter_003">
-                        <term xml:lang="grc">τοποτηρητὴς τοῦ Ὀψικίου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">topotèrètès de l'Opsikion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="topoter_004">
-                        <term xml:lang="grc">τοποτηρητὴς Τήνου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">topotèrètès de Tinos</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="topoter_005">
-                        <term xml:lang="grc">τοποτηρητὴς τῶν σχολῶν</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">topotèrètès des Scholes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="topoter_006">
-                        <term xml:lang="grc">τοποτηρητὴς τοῦ πλωίμου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">topotèrètès de la flotte</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="topoter_007">
-                        <term xml:lang="grc">τοποτηρητὴς Τροπαίων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">topotèrètès de Tropaia</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="topoter_008">
-                        <term xml:lang="grc">τοποτηρητὴς Ὀπτιμάτων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">topotèrètès des Optimates</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="topoter_009">
-                        <term xml:lang="grc">τοποτηρητὴς ἐξκουβίτου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">topotèrètès des Excubites</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="topoter_010">
-                        <term xml:lang="grc">τοποτηρητὴς νουμέρων</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">topotèrètès des Nouméra</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
                 </item>
                 <item ana="τουρμάρχης">
                     <term xml:id="tourmarches_001">
                         <term xml:lang="grc">τουρμάρχης</term>
                         <term xml:lang="en">xxx</term>
                         <term xml:lang="fr">tourmarque</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                <term xml:id="tourmarches_002">
-                    <term xml:lang="grc">τουρμάρχης Ἀνατολικῶν</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">tourmarque des Anatoliques</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </term>
-                    <term xml:id="tourmarches_003">
-                        <term xml:lang="grc">τουρμάρχης Ῥόδου</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Rhodes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_004">
-                        <term xml:lang="grc">τουρμάρχης Κρήτης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Crète</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_005">
-                        <term xml:lang="grc">τουρμάρχης Βιζύης</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Bizyé</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_006">
-                        <term xml:lang="grc">τουρμάρχης Παραδουνάβου</term> 
-                        <term xml:lang="en">xxx</term> 
-                        <term xml:lang="fr">tourmarque du Paradounabon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_007">
-                        <term xml:lang="grc">τουρμάρχης Παφλαγονίας</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Paphlagonie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_008">
-                        <term xml:lang="grc">τουρμάρχης Νικοπόλεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Nicopolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_009">
-                        <term xml:lang="grc">τουρμάρχης Πέρσας/Περσλάβας/Περσαρμενίων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Preslav</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_010">
-                        <term xml:lang="grc">τουρμάρχης Ἑλλάδος</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de l'Hellade</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_011">
-                        <term xml:lang="grc">τουρμάρχης Ἀνδραμυττίου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque d'Adramyttion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_012">
-                        <term xml:lang="grc">τουρμάρχης Βουκελλαρίων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque des Bucellaires</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_013">
-                        <term xml:lang="grc">τουρμάρχης Κλαυδιουπόλεως</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque des Claudioupolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_014">
-                        <term xml:lang="grc">τουρμάρχης Δαζημόνος</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Dazèmon</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_015">
-                        <term xml:lang="grc">τουρμάρχης Κιβυρραιωτῶν</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque des Cibyrrhéotes</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_016">
-                        <term xml:lang="grc">τουρμάρχης Μακεδονίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Macédoine</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_017">
-                        <term xml:lang="grc">τουρμάρχης Ὀψικίου</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de l'Opsikion</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_018">
-                        <term xml:lang="grc">τουρμάρχης Παμφυλήας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Pamphylie</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_019">
-                        <term xml:lang="grc">τουρμάρχης Σικελίας</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Sicile</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_020">
-                        <term xml:lang="grc">τουρμάρχης Σωζοπόλεως </term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Sozôpolis</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_021">
-                        <term xml:lang="grc">τουρμάρχης Θεσσαλονίκης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Thessalonique</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_022">
-                        <term xml:lang="grc">τουρμάρχης Θρᾴκης</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque de Thrace</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_023">
-                        <term xml:lang="grc">τουρμάρχης Θρᾳκησίων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque des Thracésiens</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>
-                    </term>
-                    <term xml:id="tourmarches_024">
-                        <term xml:lang="grc">τουρμάρχης φοιδεράτων</term> 
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">tourmarque des fédérés</term>
                         <term xml:lang="de">xxx</term>
                         <term xml:lang="bg">xxx</term>
                         <term xml:lang="el">xxx</term>

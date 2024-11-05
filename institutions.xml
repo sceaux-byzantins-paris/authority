@@ -45,7 +45,7 @@
                     <term xml:lang="el">xxx</term>
                     <term xml:lang="it">xxx</term>
                 </item>
-                <item xml:id="annona">
+                <item xml:id=""><!-- or without sekreton, for ex. there is also a strategos of... -->
                     <term xml:lang="grc">σέκρετον τῶν βασιλικῶν ἀρμαμέντων</term>
                     <term xml:lang="en">xxx</term>
                     <term xml:lang="fr">(bureau des) arsenaux impériaux</term>
@@ -54,7 +54,7 @@
                     <term xml:lang="el">xxx</term>
                     <term xml:lang="it">xxx</term>
                 </item>
-                <item xml:id="antiphonetes">
+                <item xml:id="">
                     <term xml:lang="grc">σέκρετον τοῦ Χριστοῦ Ἀντιφωνήτου</term>
                     <term xml:lang="en">xxx</term>
                     <term xml:lang="fr">sékréton du Christ Antiphônète</term>
@@ -111,7 +111,7 @@
                 <item xml:id="vigla">
                     <term xml:lang="grc">βίγλης</term>
                     <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">(tribunal de la) Veille</term>
+                    <term xml:lang="fr">Veille</term>
                     <term xml:lang="de">xxx</term>
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
@@ -126,7 +126,7 @@
                     <term xml:lang="el">xxx</term>
                     <term xml:lang="it">xxx</term>
                 </item>
-                <item xml:id="dromos">
+                <item xml:id="dromos"><!-- should ὀξέος δρόμου be added? -->
                     <term xml:lang="grc">δρόμος</term>
                     <term xml:lang="en">xxx</term>
                     <term xml:lang="fr">drome</term>
@@ -172,7 +172,7 @@
                     <term xml:lang="it">xxx</term>
                 </item>
                 <item xml:id="hippodromos">
-                    <term xml:lang="grc">ἱππόδρομος</term>
+                    <term xml:lang="grc">Ἱππόδρομος</term>
                     <term xml:lang="en">xxx</term>
                     <term xml:lang="fr">Hippodrome</term>
                     <term xml:lang="de">xxx</term>
@@ -534,7 +534,55 @@
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
                     <term xml:lang="it">xxx</term>
-                </item>                
+                </item>
+                <item xml:id=""><!-- ???
+                there is also:
+                φιλοχρίστου δεσπότου (empereur aimé du Christ)
+                -->
+                    <term xml:lang="grc">βασιλεύς, μέγας</term>
+                    <term xml:lang="en">xxx</term>
+                    <term xml:lang="fr">grand empereur</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id=""><!-- ??? -->
+                    <term xml:lang="grc">τράπεζα</term>
+                    <term xml:lang="en">xxx</term>
+                    <term xml:lang="fr">table</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id=""><!-- ??? -->
+                    <term xml:lang="grc">λογοθέσιον</term><!-- spelling -->
+                    <term xml:lang="en">xxx</term>
+                    <term xml:lang="fr">logothésion</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id=""><!-- ??? -->
+                    <term xml:lang="grc">κογχύλη</term><!-- spelling -->
+                    <term xml:lang="en">xxx</term>
+                    <term xml:lang="fr">konchyle</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id=""><!-- katepano of the dignities ??? -->
+                    <term xml:lang="grc">ἀξιώματα</term><!-- spelling -->
+                    <term xml:lang="en">xxx</term>
+                    <term xml:lang="fr">dignités</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
             </list>
             <list type="ecclesiastic">
                 <item xml:id="vlachernes">
@@ -621,16 +669,16 @@
                 <item xml:id="orobon">
                     <term xml:lang="grc">Μονὴ Ὀρόβων</term>
                     <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">xxx</term>
+                    <term xml:lang="fr">Monastère d'Orobon</term>
                     <term xml:lang="de">xxx</term>
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
+                    <term xml:lang="it">Monastero di Orobon</term>
                 </item>
                 <item xml:id="eisavrou">
                     <term xml:lang="grc">Μονὴ τοῦ Ἁγίου Εἰσαυροῦ</term>
                     <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">xxx</term>
+                    <term xml:lang="fr">Monastère de Saint Isauros</term>
                     <term xml:lang="de">xxx</term>
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
@@ -750,6 +798,15 @@
                     <idno type="geonames">740264</idno>
                     <link target="https://www.geonames.org/740264/samsun.html"/>
                 </item>
+                <item xml:id="">
+                    <term xml:lang="grc">Μυρέλαιον</term>
+                    <term xml:lang="en"></term>
+                    <term xml:lang="fr">Myrélaion</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                        <term xml:lang="it"></term>
+                </item>
             </list>
             <list type="military">
                 <item xml:id="scholai">
@@ -771,9 +828,9 @@
                     <term xml:lang="el">xxx</term>
                     <term xml:lang="it">xxx</term>
                 </item>
-                <item xml:id="">
+                <item xml:id=""><!-- should βασιλικοῦ πλωίμου be added? -->
                     <term xml:lang="grc">πλώϊμον</term>
-                    <term xml:lang="en">navy</term>
+                    <term xml:lang="en">fleet</term><!-- navy??? -->
                     <term xml:lang="fr">flotte</term>
                     <term xml:lang="de">xxx</term>
                     <term xml:lang="bg">xxx</term>
@@ -802,6 +859,87 @@
                     <term xml:lang="grc">τοῦλδον</term>
                     <term xml:lang="en"></term>
                     <term xml:lang="fr">touldon</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id="">
+                    <term xml:lang="grc">Νοὐμερα</term><!-- spelling -->
+                    <term xml:lang="en">Noumera</term>
+                    <term xml:lang="fr">Nouméra</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id="">
+                    <term xml:lang="grc">Ὀπτιμάτοι</term>
+                    <term xml:lang="en"></term>
+                    <term xml:lang="fr">Optimates</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id="">
+                    <term xml:lang="grc">Ἰκανάτοι</term>
+                    <term xml:lang="en"></term>
+                    <term xml:lang="fr">Hikanates</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id="">
+                    <term xml:lang="grc">ὑπουργία</term>
+                    <term xml:lang="en"></term>
+                    <term xml:lang="fr">hypourgia</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id="">
+                    <term xml:lang="grc">στόλος</term><!-- spelling -->
+                    <term xml:lang="en">fleet</term><!-- navy??? -->
+                    <term xml:lang="fr">flotte</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id="">
+                    <term xml:lang="grc">Ἀριθμός</term><!-- spelling -->
+                    <term xml:lang="en"></term>
+                    <term xml:lang="fr">Arithmos</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id=""><!-- institution, military??? -->
+                    <term xml:lang="grc">Λαυσιακόν</term><!-- spelling -->
+                    <term xml:lang="en"></term>
+                    <term xml:lang="fr">Lausiakon</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id="">
+                    <term xml:lang="grc">στρατός</term><!-- spelling -->
+                    <term xml:lang="en"></term>
+                    <term xml:lang="fr">armée</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
+                <item xml:id="">
+                    <term xml:lang="grc">φοιδεράτοι</term><!-- spelling -->
+                    <term xml:lang="en"></term>
+                    <term xml:lang="fr">fédérés</term>
                     <term xml:lang="de">xxx</term>
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
