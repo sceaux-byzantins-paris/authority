@@ -28,19 +28,17 @@
     </teiHeader>
     
     <!-- @xml:id are organised as follows:
-    for civil offices: @xml:id="oc001" where oc stands for "office civil"
-    for military offices: @xml:id="om001" where om stands for "office military"
-    for ecclesiastical offices: @xml:id="oe001_1" where oe stands for "office ecclesiastical"
+    @xml:id="of0001" where 'of' stands for "office"
     -->
     
     <text>
         <body>
             <!-- ********** CIVIL ********** -->
-            <list type="civil">
+            <list type="offices">
                
                 <!-- ********** example for Jan ********** -->
                 
-                <item xml:id="oc001">
+                <item xml:id="of001">
                     <term xml:lang="la">admissionalis</term>
                     <term xml:lang="en">admissionalis</term>
                     <term xml:lang="fr">admissionalis</term>
@@ -1164,17 +1162,6 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
-                <item ana="κατεπάνω"><!-- civil too? -->
-                    <term xml:id="katepano_018">
-                        <term xml:lang="grc">κατεπάνω</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">catépan</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term> 
-                    </term>
-                </item>
                 <item ana="κενσώρ">
                     <term xml:id="kensor_001">
                         <term xml:lang="grc">κένσωρ</term> 
@@ -2117,17 +2104,6 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
-                <item ana="ῥεφερενδάριος">
-                        <term xml:id="refendarios_001">
-                            <term xml:lang="grc">ῥεφερενδάριος</term>
-                            <term xml:lang="en">xxx</term>
-                            <term xml:lang="fr">référendaire</term>
-                            <term xml:lang="de">xxx</term>
-                            <term xml:lang="bg">xxx</term>
-                            <term xml:lang="el">xxx</term>
-                            <term xml:lang="it">xxx</term>
-                        </term>
-                </item>
                 <item ana="βασιλικός σακελλάριος">
                     <term xml:id="imp-sakellarios_001">
                         <term xml:lang="grc">σακελλάριος, βασιλικός</term>
@@ -2359,20 +2335,7 @@
                         <term xml:lang="it">xxx</term>   
                     </term>
                 </item>
-                <item ana="δομέστικος">
-                    <term xml:id="xxx">
-                        <term xml:lang="grc">δομέστικος</term>
-                        <term xml:lang="en">xxx</term>
-                        <term xml:lang="fr">domestique</term>
-                        <term xml:lang="de">xxx</term>
-                        <term xml:lang="bg">xxx</term>
-                        <term xml:lang="el">xxx</term>
-                        <term xml:lang="it">xxx</term>  
-                    </term>
-                </item>
-            </list>
             <!-- ********** ECCLESIASTICAL ********** -->
-            <list type="ecclesiastical">
                 <item ana="ἀναγνώστης">
                     <term xml:id="anagnostes_001">
                         <term xml:lang="grc">ἀναγνώστης</term>
@@ -2732,7 +2695,7 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
-                <item ana="ῥαιφερενδάριος"><!-- civil too -->
+                <item ana="ῥαιφερενδάριος">
                     <term xml:id="referend_001">
                         <term xml:lang="grc">ῥαιφερενδάριος</term> 
                         <term xml:lang="en">xxx</term>
@@ -2820,17 +2783,6 @@
                         <term xml:lang="it">xxx</term> 
                     </term>
                 </item>
-                <item ana="χαρτουλάριος"><!-- civil too -->
-                    <term xml:id="chartoul_001">
-                            <term xml:lang="grc">χαρτουλάριος</term>
-                            <term xml:lang="en">xxx</term>
-                            <term xml:lang="fr">chartulaire</term>
-                            <term xml:lang="de">xxx</term>
-                            <term xml:lang="bg">xxx</term>
-                            <term xml:lang="el">xxx</term>
-                            <term xml:lang="it">xxx</term>
-                    </term>
-                </item>
                 <item ana="ὑπολόγιος">
                     <term xml:id="hypologios_001">
                         <term xml:lang="grc">ὑπολόγιος</term>
@@ -2842,11 +2794,9 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
-            </list>
             
             
             <!-- ********** MILITARY ********** -->
-            <list type="military">
                 <item ana="magister militum">
                     <term xml:id="magister-militum">
                         <term xml:lang="grc">xxx</term>
@@ -2903,7 +2853,7 @@
                         <term xml:lang="it">xxx</term>
                     </term>
                 </item>
-                <item ana="δομέστικος"><!-- civil too -->
+                <item ana="δομέστικος">
                     <term xml:id="domestikos_001">
                         <term xml:lang="grc">δομέστικος</term>
                         <term xml:lang="en">xxx</term>
