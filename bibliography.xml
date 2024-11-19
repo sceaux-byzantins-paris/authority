@@ -74,6 +74,33 @@
                     <series><title level="s">Mainzer Veröffentlichungen zur Byzantinistik
                         4</title></series>
                 </bibl>
+                
+                <!-- Berlin -->
+                
+                <bibl type="book" xml:id="Speck1986"
+                    corresp="http://zotero.org/users/3169239/items/VKTSCIEJ">
+                    <bibl type="abbrev">Speck, coll. Berlin, 1986</bibl>
+                    <author><forename>P.</forename>
+                        <surname>Speck</surname></author>
+                    <title level="m">Byzantinische Bleisiegel in Berlin, West</title>
+                    <!--<idno type="ISBN">3-7749-2197-0</idno>-->
+                    <pubPlace>Bonn</pubPlace>
+                    <publisher>R. Habelt</publisher>
+                    <date>1986</date>
+                    <series><title level="s">Poikila byzantina 5</title></series>
+                </bibl>
+                
+                <bibl type="book" xml:id="Sode1997">
+                    <bibl type="abbrev">Sode, coll. Berlin, 1997</bibl>
+                    <author><forename>Cl.</forename>
+                        <surname>Sode</surname></author>
+                    <title level="m">Byzantinische Bleisiegel in Berlin</title>
+                    <biblScope unit="part">II</biblScope>
+                    <pubPlace>Bonn</pubPlace>
+                    <publisher>R. Habelt</publisher>
+                    <date>1997</date>
+                    <series><title level="s">Poikila byzantina 14</title></series>
+                </bibl>
 
                 <!-- Dumbarton Oaks seals collection -->
 
@@ -582,21 +609,6 @@
                     <biblScope unit="volume">21/1</biblScope>
                     <date>2017</date>
                     <biblScope unit="page">p. 691-758</biblScope>
-                </bibl>
-
-                <!-- Speck Berlin -->
-
-                <bibl type="book" xml:id="Speck1986"
-                    corresp="http://zotero.org/users/3169239/items/VKTSCIEJ">
-                    <bibl type="abbrev">Speck, coll. Berlin, 1986</bibl>
-                    <author><forename>P.</forename>
-                        <surname>Speck</surname></author>
-                    <title level="m">Byzantinische Bleisiegel in Berlin, West</title>
-                    <!--<idno type="ISBN">3-7749-2197-0</idno>-->
-                    <pubPlace>Bonn</pubPlace>
-                    <publisher>R. Habelt</publisher>
-                    <date>1986</date>
-                    <series><title level="s">Poikila byzantina 5</title></series>
                 </bibl>
 
                 <!-- Stamoules -->
