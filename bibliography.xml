@@ -74,6 +74,21 @@
                     <series><title level="s">Mainzer Veröffentlichungen zur Byzantinistik
                         4</title></series>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Athens1990">
+                    <bibl type="abbrev">Avramea-Galane-Krikou-Touratsoglou, 1990</bibl><!-- to be changed? -->
+                    <author><forename>A.</forename>
+                        <surname>Avramea</surname></author>
+                    <author><forename>M.</forename>
+                    <surname>Galane-Krikou</surname></author>
+                    <author><forename>G.</forename>
+                        <surname>Touratsoglou</surname></author>
+                    <title level="a">Μολυβδόβουλλα με γνωστή προέλευση από τις συλλογές του
+                        Νομισματικού Μουσείου Αθηνών</title>
+                    <title level="j">Studies in Byzantine Sigillography</title>
+                    <biblScope unit="volume">2</biblScope>
+                    <date>1990</date>
+                    <biblScope unit="page">p. 235-272</biblScope>
+                </bibl>
                 
                 <!-- Berlin -->
                 
