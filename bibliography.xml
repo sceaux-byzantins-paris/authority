@@ -926,6 +926,16 @@
                     <date>1959</date>
                     <biblScope unit="page">p. 43-75</biblScope>
                 </bibl>
+                <bibl type="book" xml:id="Bibicou1963">
+                    <bibl type="abbrev">Bibicou, 1963</bibl>
+                    <author><forename>H.</forename>
+                        <surname>Antoniadis-Bibicou</surname></author>
+                    <title level="m">Recherches sur les douanes à Byzance. L' "octava", le "kommerkion" et les commerciaires</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Librairie Armand Colin</publisher>
+                    <date>1963</date>
+                    <series><title level="s">Cahiers des Annales 20</title></series>
+                </bibl>
 
                 <!-- Bilik -->
 
@@ -954,6 +964,22 @@
                     <pubPlace xml:lang="en">Athens</pubPlace>
                     <pubPlace xml:lang="fr">Athènes</pubPlace>
                     <date>1981</date>
+                </bibl>
+                
+                <!-- Braunlin -->
+                
+                <bibl type="journalArticle" xml:id="Braunlin1999">
+                    <bibl type="abbrev">Braunlin-Nesbitt, 1999</bibl>
+                    <author><forename>M.</forename>
+                        <surname>Braunlin</surname></author>
+                    <author><forename>J.</forename>
+                        <surname>Nesbitt</surname></author>
+                    <title level="a">Thirteen Seals and an Unpublished Revolt Coin from an American Private Collection</title>
+                    <title level="j">Byzantion</title>
+                    <biblScope unit="volume">69</biblScope>
+                    <biblScope unit="issue">1</biblScope>
+                    <date>1999</date>
+                    <biblScope unit="page">p. 187-205</biblScope>
                 </bibl>
 
                 <!-- Brubaker -->
