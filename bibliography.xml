@@ -930,7 +930,8 @@
                     <bibl type="abbrev">Bibicou, 1963</bibl>
                     <author><forename>H.</forename>
                         <surname>Antoniadis-Bibicou</surname></author>
-                    <title level="m">Recherches sur les douanes à Byzance. L' "octava", le "kommerkion" et les commerciaires</title>
+                    <title level="m">Recherches sur les douanes à Byzance. L' "octava", le
+                        "kommerkion" et les commerciaires</title>
                     <pubPlace>Paris</pubPlace>
                     <publisher>Librairie Armand Colin</publisher>
                     <date>1963</date>
@@ -965,16 +966,17 @@
                     <pubPlace xml:lang="fr">Athènes</pubPlace>
                     <date>1981</date>
                 </bibl>
-                
+
                 <!-- Braunlin -->
-                
+
                 <bibl type="journalArticle" xml:id="Braunlin1999">
                     <bibl type="abbrev">Braunlin-Nesbitt, 1999</bibl>
                     <author><forename>M.</forename>
                         <surname>Braunlin</surname></author>
                     <author><forename>J.</forename>
                         <surname>Nesbitt</surname></author>
-                    <title level="a">Thirteen Seals and an Unpublished Revolt Coin from an American Private Collection</title>
+                    <title level="a">Thirteen Seals and an Unpublished Revolt Coin from an American
+                        Private Collection</title>
                     <title level="j">Byzantion</title>
                     <biblScope unit="volume">69</biblScope>
                     <biblScope unit="issue">1</biblScope>
@@ -2651,11 +2653,26 @@
                     <author><forename>Ch.</forename>
                         <surname>Messis</surname></author>
                     <title level="a">Région, politique et rhétorique dans la première moitié du Xe
-                        siècle : le cas des Paphlagoniens</title>
+                        siècle: le cas des Paphlagoniens</title>
                     <title level="j">Revue des études byzantines</title>
                     <biblScope unit="volume">73</biblScope>
                     <date>2015</date>
                     <biblScope unit="page">p. 99-122</biblScope>
+                </bibl>
+
+                <!-- Mordtmann -->
+
+                <bibl type="journalArticle" xml:id="Mordtmann1882-83">
+                    <bibl type="abbrev">Mordtmann, 1882-1883</bibl>
+                    <author><forename>A.</forename>
+                        <surname>Mordtmann</surname></author>
+                    <title level="a">Μολυβδόβουλλα βυζαντινά των επαρχιών Ευρώπης</title>
+                    <title level="j">Ο Εν Κωνσταντινουπόλει Ελληνικός Φιλολογικός Σύλλογος. Σύγγραμμα Περιοδικόν</title>
+                    <biblScope unit="volume">17</biblScope>
+                    <date>1882-1883</date>
+                    <biblScope unit="page">p. 144-152</biblScope> Available at <ref
+                        target="https://archive.org/details/syngrammaperiod03istgoog/page/n415/mode/2up?view=theater"
+                        >Archive.org</ref>
                 </bibl>
 
                 <!-- Morrisson -->
