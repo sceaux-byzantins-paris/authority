@@ -811,7 +811,8 @@
                     <bibl type="abbrev">Alekseenko, 2003a</bibl>
                     <author><forename>N.</forename>
                         <surname>Alekseenko</surname></author>
-                    <title level="a">Les relations entre Cherson et l’Empire, d’après le témoignage des sceaux des archives de Cherson</title>
+                    <title level="a">Les relations entre Cherson et l’Empire, d’après le témoignage
+                        des sceaux des archives de Cherson</title>
                     <title level="j">Studies in Byzantine Sigillography</title>
                     <biblScope unit="volume">8</biblScope>
                     <date>2003</date>
@@ -836,7 +837,8 @@
                     <bibl type="abbrev">Alekseenko, 2012</bibl>
                     <author><forename>N. A.</forename>
                         <surname>Alekseyenko</surname></author>
-                    <title level="m">L'administration byzantine de Cherson. Catalogue des sceaux</title>
+                    <title level="m">L'administration byzantine de Cherson. Catalogue des
+                        sceaux</title>
                     <pubPlace>Paris</pubPlace>
                     <publisher>ACHCByz</publisher>
                     <date>2012</date>
@@ -2228,6 +2230,40 @@
                     <biblScope unit="volume">67</biblScope>
                     <date>2009</date>
                     <biblScope unit="page">p. 24-31</biblScope>
+                </bibl>
+                <bibl type="journalArticle" xml:id="Karagiorgou2016">
+                    <bibl type="abbrev">Karagiorgou, Charalampakis, Malatras, 2016</bibl>
+                    <author><forename>O.</forename>
+                        <surname>Karagiorgou</surname></author>
+                    <author><forename>P.</forename>
+                        <surname>Charalampakis</surname></author>
+                    <author><forename>C.</forename>
+                        <surname>Malatras</surname></author>
+                    <title level="a">State officials in the themes of Opsikion, the Anatolikoi and
+                        the Kibyrraiotai: new and recently revisited sigillographic evidence</title>
+                    <title level="j">Byzantina Symmeikta</title>
+                    <biblScope unit="volume">26</biblScope>
+                    <date>2016</date>
+                    <biblScope unit="page">p. 247-308</biblScope> Available at <ref
+                        target="https://ejournals.epublishing.ekt.gr/index.php/bz/article/view/8622/10860"
+                        >EKT.org</ref>
+                </bibl>
+                <bibl type="book" xml:id="Karagiorgou2021">
+                    <bibl type="abbrev">Karagiorgou, Charalampakis, Malatras, 2021</bibl>
+                    <author><forename>O.</forename>
+                        <surname>Karagiorgou</surname></author>
+                    <author><forename>P.</forename>
+                        <surname>Charalampakis</surname></author>
+                    <author><forename>C.</forename>
+                        <surname>Malatras</surname></author>
+                    <title level="m">Τακτικόν : μελέτες για την προσωπογραφία και διοίκηση των
+                        βυζαντινών θεμάτων = Studies on the prosopography and administration of
+                        the byzantine themata</title>
+                    <pubPlace xml:lang="en">Athens</pubPlace>
+                    <pubPlace xml:lang="fr">Athènes</pubPlace>
+                    <publisher>Ακαδημία Αθηνών, Κέντρο Έρευνας της Βυζαντινής και Μεταβυζαντινής Τέχνης</publisher>
+                    <date>2021</date>
+                    <series><title level="s">Византийская библиотека. Исследования</title></series>
                 </bibl>
 
                 <!-- Kislinger -->
