@@ -817,7 +817,6 @@
                     <date>2003</date>
                     <biblScope unit="page">p. 75-83</biblScope>
                 </bibl>
-
                 <bibl type="bookSection" xml:id="Alekseenko2010">
                     <bibl type="abbrev">Alekseenko, 2010</bibl>
                     <author><forename>N. A.</forename>
@@ -832,6 +831,16 @@
                     <biblScope unit="page">p. 327-333</biblScope>
                     <series><title level="s">Transactions of the State Hermitage Museum
                         51</title></series>
+                </bibl>
+                <bibl type="book" xml:id="Alekseenko2012">
+                    <bibl type="abbrev">Alekseenko, 2012</bibl>
+                    <author><forename>N. A.</forename>
+                        <surname>Alekseyenko</surname></author>
+                    <title level="m">L'administration byzantine de Cherson. Catalogue des sceaux</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>ACHCByz</publisher>
+                    <date>2012</date>
+                    <series><title level="s">Occasional monographs 4</title></series>
                 </bibl>
 
                 <!-- Andriollo -->
@@ -2875,6 +2884,15 @@
 
                 <!-- Prigent -->
 
+                <bibl type="book" xml:id="Prigent1994">
+                    <bibl type="abbrev">Prigent, 1994</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Prigent</surname></author>
+                    <title level="m">Sceaux byzantins de l'I.F.E.B.</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Université Paris 1 Panthéon-Sorbonne</publisher>
+                    <date>1993-1994</date>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Prigent2006"
                     corresp="http://zotero.org/users/3169239/items/G7WLK3ZG">
                     <bibl type="abbrev">Prigent, 2006</bibl>
