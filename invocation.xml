@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -17,7 +16,9 @@
                         Attribution 4.0 International License</licence>
                 </availability>
             </publicationStmt>
-            <sourceDesc><ab/></sourceDesc>
+            <sourceDesc>
+                <ab/>
+            </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
@@ -77,7 +78,7 @@
                     <term xml:lang="el">xxx</term>
                     <term xml:lang="it">xxx</term>
                 </item>
-    </list>
+            </list>
         </body>
     </text>
 </TEI>

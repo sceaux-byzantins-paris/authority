@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- LAST MODIFIED: 2022-10-25 -->
+<!-- LAST MODIFIED: 2024-12-10 -->
 
 <!-- This bibliography is structured as follows:-->
 
@@ -15,7 +15,7 @@
 <!-- <name> instead of <forename><surname> for ancient authors known by a single name -->
 <!-- ref. organised under the name of the first author only -->
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,6 +73,48 @@
                     <date>2000</date>
                     <series><title level="s">Mainzer Veröffentlichungen zur Byzantinistik
                         4</title></series>
+                </bibl>
+                <bibl type="journalArticle" xml:id="Athens1990">
+                    <bibl type="abbrev">Avramea-Galane-Krikou-Touratsoglou, 1990</bibl><!-- to be changed? -->
+                    <author><forename>A.</forename>
+                        <surname>Avramea</surname></author>
+                    <author><forename>M.</forename>
+                        <surname>Galane-Krikou</surname></author>
+                    <author><forename>G.</forename>
+                        <surname>Touratsoglou</surname></author>
+                    <title level="a">Μολυβδόβουλλα με γνωστή προέλευση από τις συλλογές του
+                        Νομισματικού Μουσείου Αθηνών</title>
+                    <title level="j">Studies in Byzantine Sigillography</title>
+                    <biblScope unit="volume">2</biblScope>
+                    <date>1990</date>
+                    <biblScope unit="page">p. 235-272</biblScope>
+                </bibl>
+
+                <!-- Berlin -->
+
+                <bibl type="book" xml:id="Speck1986"
+                    corresp="http://zotero.org/users/3169239/items/VKTSCIEJ">
+                    <bibl type="abbrev">Speck, coll. Berlin, 1986</bibl>
+                    <author><forename>P.</forename>
+                        <surname>Speck</surname></author>
+                    <title level="m">Byzantinische Bleisiegel in Berlin, West</title>
+                    <!--<idno type="ISBN">3-7749-2197-0</idno>-->
+                    <pubPlace>Bonn</pubPlace>
+                    <publisher>R. Habelt</publisher>
+                    <date>1986</date>
+                    <series><title level="s">Poikila byzantina 5</title></series>
+                </bibl>
+
+                <bibl type="book" xml:id="Sode1997">
+                    <bibl type="abbrev">Sode, coll. Berlin, 1997</bibl>
+                    <author><forename>Cl.</forename>
+                        <surname>Sode</surname></author>
+                    <title level="m">Byzantinische Bleisiegel in Berlin</title>
+                    <biblScope unit="part">II</biblScope>
+                    <pubPlace>Bonn</pubPlace>
+                    <publisher>R. Habelt</publisher>
+                    <date>1997</date>
+                    <series><title level="s">Poikila byzantina 14</title></series>
                 </bibl>
 
                 <!-- Dumbarton Oaks seals collection -->
@@ -376,12 +418,13 @@
                     <pubPlace>Sofia</pubPlace>
                     <date>2009</date>
                 </bibl>
-                
+
                 <bibl type="book" xml:id="JordanovNAIM">
                     <bibl type="abbrev">Jordanov, Sofia</bibl>
                     <author><forename>I.</forename>
                         <surname>Jordanov</surname></author>
-                    <title level="m">The Collection of Medieval Seals from the National Archaological Museum Sofia</title>
+                    <title level="m">The Collection of Medieval Seals from the National
+                        Archaological Museum Sofia</title>
                     <pubPlace>Sofia</pubPlace>
                     <date>2011</date>
                 </bibl>
@@ -412,6 +455,33 @@
                     <biblScope unit="volume">11</biblScope>
                     <date>2012</date>
                     <biblScope unit="page">p. 119-123</biblScope>
+                </bibl>
+
+                <bibl type="book" xml:id="Kofopoulos2022">
+                    <bibl type="abbrev">Cheynet, coll. Kofopoulos, I, 2022</bibl>
+                    <author><forename>Jean-Claude</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="m">Les sceaux byzantins de la collection Savvas Kofopoulos</title>
+                    <biblScope unit="part">I</biblScope>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>ACHCByz</publisher>
+                    <date>2022</date>
+                </bibl>
+
+                <!-- Köhler-Osbahr -->
+
+                <bibl type="book" xml:id="Köhler-Osbahr">
+                    <bibl type="abbrev">Seibt-Althoff, coll. Köhler-Osbahr</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <author><forename>R.</forename>
+                        <surname>Althoff</surname></author>
+                    <title level="m">Sammlung Köhler-Osbahr</title>
+                    <biblScope unit="part">5.4, Bleisiegel und -plomben sowie Gewichte aus dem
+                        östlichen Mittelmeerraum</biblScope>
+                    <pubPlace>Duisburg</pubPlace>
+                    <publisher>Kultur- und Stadthistorisches Museum Duisburg</publisher>
+                    <date>2001</date>
                 </bibl>
 
                 <!-- Laurent Corpus -->
@@ -572,23 +642,21 @@
                     <biblScope unit="page">p. 691-758</biblScope>
                 </bibl>
 
-                <!-- Speck Berlin -->
-
-                <bibl type="book" xml:id="Speck1986"
-                    corresp="http://zotero.org/users/3169239/items/VKTSCIEJ">
-                    <bibl type="abbrev">Speck, coll. Berlin, 1986</bibl>
-                    <author><forename>P.</forename>
-                        <surname>Speck</surname></author>
-                    <title level="m">Byzantinische Bleisiegel in Berlin, West</title>
-                    <!--<idno type="ISBN">3-7749-2197-0</idno>-->
-                    <pubPlace>Bonn</pubPlace>
-                    <publisher>R. Habelt</publisher>
-                    <date>1986</date>
-                    <series><title level="s">Poikila byzantina 5</title></series>
+                <!-- Stamoules -->
+                <bibl type="book" xml:id="Stamoules1930">
+                    <bibl type="abbrev">Konstantopoulos, coll. Stamoules</bibl>
+                    <author><forename>K.M.</forename>
+                        <surname>Konstantopoulos</surname></author>
+                    <title level="m">Βυζαντιακά μολυβδόβουλλα: Συλλογή Αναστασίου Κ. Π.
+                        Σταμούλη</title>
+                    <pubPlace xml:lang="en">Athens</pubPlace>
+                    <pubPlace xml:lang="fr">Athènes</pubPlace>
+                    <publisher>Τύποις Εταιρείας-Π. Δ. Σακελλάριος</publisher>
+                    <date>1930</date>
                 </bibl>
-                
-                <!--  -->
-                
+
+                <!-- Tatış -->
+
                 <bibl type="book" xml:id="CheynetTatış">
                     <bibl type="abbrev">Cheynet, coll. Tatış</bibl>
                     <author><forename>J.-Cl.</forename>
@@ -615,6 +683,47 @@
                         Byzance</publisher>
                     <date>2010</date>
                     <series><title level="s">Monographies 33</title></series>
+                </bibl>
+
+                <!-- Vatican -->
+
+                <bibl type="book" xml:id="Vatican">
+                    <bibl type="abbrev">Laurent, coll. Vatican</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Laurent</surname></author>
+                    <title level="m">Les sceaux byzantins du Médaillier Vatican</title>
+                    <pubPlace xml:lang="en">Vatican City</pubPlace>
+                    <pubPlace xml:lang="fr">Cité du Vatican</pubPlace>
+                    <publisher>Biblioteca apostolica vaticana</publisher>
+                    <date>1962</date>
+                </bibl>
+
+                <!-- Warsaw -->
+
+                <bibl type="journalArticle" xml:id="Warsaw1966">
+                    <bibl type="abbrev">Szemioth-Wasilewski, 1966</bibl>
+                    <author><forename>A.</forename>
+                        <surname>Szemioth</surname></author>
+                    <author><forename>T.</forename>
+                        <surname>Wasilewski</surname></author>
+                    <title level="a">Sceaux byzantins du Musée National de Varsovie</title>
+                    <title level="j">Studia Źródłoznawcze, Commentationes</title>
+                    <biblScope unit="volume">11</biblScope>
+                    <date>1966</date>
+                    <biblScope unit="page">p. 1-38</biblScope>
+                </bibl>
+
+                <bibl type="journalArticle" xml:id="Warsaw1969">
+                    <bibl type="abbrev">Szemioth-Wasilewski, 1969</bibl>
+                    <author><forename>A.</forename>
+                        <surname>Szemioth</surname></author>
+                    <author><forename>T.</forename>
+                        <surname>Wasilewski</surname></author>
+                    <title level="a">Sceaux byzantins du Musée National de Varsovie</title>
+                    <title level="j">Studia Źródłoznawcze, Commentationes</title>
+                    <biblScope unit="volume">14</biblScope>
+                    <date>1969</date>
+                    <biblScope unit="page">p. 63-89</biblScope>
                 </bibl>
 
                 <!-- Zacos -->
@@ -687,7 +796,7 @@
                 <!-- in case of multiple authors, the reference is under the first one -->
 
                 <!-- Alekseenko -->
-                
+
                 <bibl type="journalArticle" xml:id="Alexeenko2003">
                     <bibl type="abbrev">Alekseenko, 2003</bibl>
                     <author><forename>N. A.</forename>
@@ -698,7 +807,17 @@
                     <date>2003</date>
                     <biblScope unit="page">p. 174-205</biblScope>
                 </bibl>
-
+                <bibl type="journalArticle" xml:id="Alexeenko2003a">
+                    <bibl type="abbrev">Alekseenko, 2003a</bibl>
+                    <author><forename>N.</forename>
+                        <surname>Alekseenko</surname></author>
+                    <title level="a">Les relations entre Cherson et l’Empire, d’après le témoignage
+                        des sceaux des archives de Cherson</title>
+                    <title level="j">Studies in Byzantine Sigillography</title>
+                    <biblScope unit="volume">8</biblScope>
+                    <date>2003</date>
+                    <biblScope unit="page">p. 75-83</biblScope>
+                </bibl>
                 <bibl type="bookSection" xml:id="Alekseenko2010">
                     <bibl type="abbrev">Alekseenko, 2010</bibl>
                     <author><forename>N. A.</forename>
@@ -713,6 +832,17 @@
                     <biblScope unit="page">p. 327-333</biblScope>
                     <series><title level="s">Transactions of the State Hermitage Museum
                         51</title></series>
+                </bibl>
+                <bibl type="book" xml:id="Alekseenko2012">
+                    <bibl type="abbrev">Alekseenko, 2012</bibl>
+                    <author><forename>N. A.</forename>
+                        <surname>Alekseyenko</surname></author>
+                    <title level="m">L'administration byzantine de Cherson. Catalogue des
+                        sceaux</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>ACHCByz</publisher>
+                    <date>2012</date>
+                    <series><title level="s">Occasional monographs 4</title></series>
                 </bibl>
 
                 <!-- Andriollo -->
@@ -817,21 +947,33 @@
                     <date>1959</date>
                     <biblScope unit="page">p. 43-75</biblScope>
                 </bibl>
+                <bibl type="book" xml:id="Bibicou1963">
+                    <bibl type="abbrev">Bibicou, 1963</bibl>
+                    <author><forename>H.</forename>
+                        <surname>Antoniadis-Bibicou</surname></author>
+                    <title level="m">Recherches sur les douanes à Byzance. L' "octava", le
+                        "kommerkion" et les commerciaires</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Librairie Armand Colin</publisher>
+                    <date>1963</date>
+                    <series><title level="s">Cahiers des Annales 20</title></series>
+                </bibl>
 
                 <!-- Bilik -->
-                
+
                 <bibl type="journalArticle" xml:id="Bilik1998">
                     <bibl type="abbrev">Bilik, 1998</bibl>
                     <author><forename>S.</forename>
                         <surname>Bilik</surname></author>
-                    <title level="a">Непубликувани византийски моливдовули с отпечатани фамилии имена</title>
+                    <title level="a">Непубликувани византийски моливдовули с отпечатани фамилии
+                        имена</title>
                     <title level="j">Нумизматика и сфрагистика</title>
                     <biblScope unit="volume">5</biblScope>
                     <biblScope unit="issue">2</biblScope>
                     <date>1998</date>
                     <biblScope unit="page">p. 50-66</biblScope>
                 </bibl>
-                
+
                 <!-- Bourdara -->
 
                 <bibl type="book" xml:id="Bourdara1981"
@@ -844,6 +986,23 @@
                     <pubPlace xml:lang="en">Athens</pubPlace>
                     <pubPlace xml:lang="fr">Athènes</pubPlace>
                     <date>1981</date>
+                </bibl>
+
+                <!-- Braunlin -->
+
+                <bibl type="journalArticle" xml:id="Braunlin1999">
+                    <bibl type="abbrev">Braunlin-Nesbitt, 1999</bibl>
+                    <author><forename>M.</forename>
+                        <surname>Braunlin</surname></author>
+                    <author><forename>J.</forename>
+                        <surname>Nesbitt</surname></author>
+                    <title level="a">Thirteen Seals and an Unpublished Revolt Coin from an American
+                        Private Collection</title>
+                    <title level="j">Byzantion</title>
+                    <biblScope unit="volume">69</biblScope>
+                    <biblScope unit="issue">1</biblScope>
+                    <date>1999</date>
+                    <biblScope unit="page">p. 187-205</biblScope>
                 </bibl>
 
                 <!-- Brubaker -->
@@ -908,9 +1067,9 @@
                         target="http://cimec.ro/Arheologie/dacia.digital/1933-3-4/imagepages/image318.html"
                         >Cimec</ref>
                 </bibl>
-                
+
                 <!-- Catalano -->
-                
+
                 <bibl type="journalArticle" xml:id="CatalanoFilosaSode2021">
                     <bibl type="abbrev">Catalano-Filosa-Sode, 2021</bibl>
                     <author><forename>M. T.</forename>
@@ -919,7 +1078,8 @@
                         <surname>Filosa</surname></author>
                     <author><forename>C.</forename>
                         <surname>Sode</surname></author>
-                    <title level="a">Byzantine seals from the Robert Feind Collection in Cologne: Research and Publication in the Context of the Digital Humanities</title>
+                    <title level="a">Byzantine seals from the Robert Feind Collection in Cologne:
+                        Research and Publication in the Context of the Digital Humanities</title>
                     <title level="j">Revue des études byzantines</title>
                     <biblScope unit="volume">79</biblScope>
                     <date>2021</date>
@@ -927,7 +1087,7 @@
                 </bibl>
 
                 <!-- Cheynet -->
-               
+
                 <bibl type="journalArticle" xml:id="Cheynet2006">
                     <bibl type="abbrev">Cheynet, 2006</bibl>
                     <author><forename>J.-Cl.</forename>
@@ -937,7 +1097,7 @@
                     <biblScope unit="volume">9</biblScope>
                     <date>2006</date>
                     <biblScope unit="page">p. 213-226</biblScope>
-                </bibl>                
+                </bibl>
                 <bibl type="journalArticle" xml:id="Cheynet1983">
                     <bibl type="abbrev">Cheynet, 1983</bibl>
                     <author><forename>J.-Cl.</forename>
@@ -1131,7 +1291,7 @@
                         <surname>Peters-Custot</surname></editor>
                     <editor><forename>P.</forename>
                         <surname>Toubert</surname></editor>
-                    <title level="m">Puer Apuliae : mélanges offerts à Jean-Marie Martin</title>
+                    <title level="m">Puer Apuliae: mélanges offerts à Jean-Marie Martin</title>
                     <pubPlace>Paris</pubPlace>
                     <date>2008</date>
                     <biblScope unit="page">p. 139-154</biblScope>
@@ -1146,6 +1306,22 @@
                     <biblScope unit="volume">11</biblScope>
                     <date>2012</date>
                     <biblScope unit="page">p. 1-34</biblScope>
+                </bibl>
+                <bibl type="bookSection" xml:id="Cheynet2015">
+                    <bibl type="abbrev">Cheynet 2015</bibl>
+                    <author><forename>J.-Cl.</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="a">Les généraux byzantins face aux Bulgares au temps de Basile II
+                        et le destin de leurs familles</title>
+                    <author><forename>V.T.</forename>
+                        <surname>Gujzelev</surname></author>
+                    <title level="m">Европейският югоизток през втората половина на X-началото на XI
+                        век : история и култура: международна конференция, София, 6-8 октомври, 2014
+                        г. (South-Eastern Europe in the second half of 10th-the beginning of the
+                        11th centuries: history and culture)</title>
+                    <pubPlace>Sofia</pubPlace>
+                    <date>2015</date>
+                    <biblScope unit="page">p. 344-365</biblScope>
                 </bibl>
                 <bibl type="journalArticle" xml:id="Cheynet2016"
                     corresp="http://zotero.org/users/3169239/items/GMUD2I9P">
@@ -1193,7 +1369,7 @@
                     <date>2015</date>
                     <biblScope unit="page">p. 61-70</biblScope>
                 </bibl>
-                
+
                 <!-- Constantelos -->
 
                 <bibl type="book" xml:id="Constantelos1991">
@@ -1203,7 +1379,8 @@
                     <title level="m">Byzantine Philanthropy and Social Welfare</title>
                     <pubPlace>New Rochelle</pubPlace>
                     <date>1991</date>
-                </bibl> <!--aggiungere che è seconda edizione!!!!-->
+                </bibl>
+                <!--aggiungere che è seconda edizione!!!!-->
 
                 <!-- Constantinides -->
                 <bibl type="book" xml:id="Constantinides1982">
@@ -1246,13 +1423,14 @@
                     <bibl type="abbrev">Cotsonis, 2005</bibl>
                     <author><forename>J.</forename>
                         <surname>Cotsonis</surname></author>
-                    <title level="a">J. Cotsonis, The Contribution of Byzantine Lead Seals to the Study of the Cult of the Saints (Sixth-Twelfth Centuries)</title>
+                    <title level="a">J. Cotsonis, The Contribution of Byzantine Lead Seals to the
+                        Study of the Cult of the Saints (Sixth-Twelfth Centuries)</title>
                     <title level="j">Byzantion</title>
                     <biblScope unit="volume">75</biblScope>
                     <date>2005</date>
                     <biblScope unit="page">p. 383-497</biblScope>
-                </bibl> 
-                
+                </bibl>
+
                 <bibl type="journalArticle" xml:id="Cotsonis2003"
                     corresp="http://zotero.org/users/3169239/items/K2CACI95">
                     <bibl type="abbrev">Cotsonis, 2003</bibl>
@@ -1432,21 +1610,22 @@
                     <date>2003</date>
                     <biblScope unit="page">p. 231-247</biblScope>
                 </bibl>
-                
+
                 <!-- Follieri -->
-                
+
                 <bibl type="book" xml:id="Follieri1967">
                     <bibl type="abbrev">Follieri, 1967</bibl>
                     <author><forename>E.</forename>
                         <surname>Follieri</surname></author>
-                    <title level="m">Giovanni Mauropode metropolita di Eucaita: Otto canoni paracletici a N.S. Gesù Cristo</title>
+                    <title level="m">Giovanni Mauropode metropolita di Eucaita: Otto canoni
+                        paracletici a N.S. Gesù Cristo</title>
                     <pubPlace xml:lang="en">Rome</pubPlace>
                     <pubPlace xml:lang="fr">Rome</pubPlace>
                     <date>1967</date>
                 </bibl>
-                
+
                 <!-- Galavaris -->
-                
+
                 <bibl type="journalArticle" xml:id="Galavaris1959">
                     <bibl type="abbrev">Galavaris, 1959</bibl>
                     <author><forename>G.P.</forename>
@@ -1457,7 +1636,7 @@
                     <date>1959</date>
                     <biblScope unit="page">p. 229-233</biblScope>
                 </bibl>
-                
+
                 <!-- Garbarino -->
 
                 <bibl type="book" xml:id="Garbarino1988"
@@ -1508,24 +1687,26 @@
                     <bibl type="abbrev">Gautier, 1969</bibl>
                     <author><forename>P.</forename>
                         <surname>Gautier</surname></author>
-                    <title level="a">Le chartophylax Nicéphore. Œuvre canonique et notice bibliographique</title>
+                    <title level="a">Le chartophylax Nicéphore. Œuvre canonique et notice
+                        bibliographique</title>
                     <title level="j">Revue des études byzantines</title>
                     <biblScope unit="volume">27</biblScope>
                     <date>1969</date>
                     <biblScope unit="page">p. 159-195</biblScope>
                 </bibl>
-                
+
                 <bibl type="journalArticle" xml:id="Gautier1971">
                     <bibl type="abbrev">Gautier, 1971</bibl>
                     <author><forename>P.</forename>
                         <surname>Gautier</surname></author>
-                    <title level="a">Le synode des Blachernes (fin 1094).Étude prosopographique</title>
+                    <title level="a">Le synode des Blachernes (fin 1094).Étude
+                        prosopographique</title>
                     <title level="j">Revue des études byzantines</title>
                     <biblScope unit="volume">29</biblScope>
                     <date>1971</date>
                     <biblScope unit="page">p. 213-284</biblScope>
                 </bibl>
-                
+
                 <!-- Georgiou -->
 
                 <bibl type="journalArticle" xml:id="Georgiou2019">
@@ -1538,7 +1719,7 @@
                     <date>2019</date>
                     <biblScope unit="page">p. 517-526</biblScope>
                 </bibl>
-                
+
                 <bibl type="journalArticle" xml:id="Georgiou2009"
                     corresp="http://zotero.org/users/3169239/items/6BMGFKW8">
                     <bibl type="abbrev">Georgiou, 2009</bibl>
@@ -1723,13 +1904,14 @@
                     <bibl type="abbrev">Hunger, 1994</bibl>
                     <author><forename>H.</forename>
                         <surname>Hunger</surname></author>
-                    <title level="a">Zur Terminologie der Theotokosdarstellungen auf byzantinischen Siegeln</title>
+                    <title level="a">Zur Terminologie der Theotokosdarstellungen auf byzantinischen
+                        Siegeln</title>
                     <title level="j">Aachener Kunstblätter</title>
                     <biblScope unit="volume">60</biblScope>
                     <date>1994</date>
                     <biblScope unit="page">p. 131-142</biblScope>
                 </bibl>
-                
+
                 <bibl type="journalArticle" xml:id="Hunger1998"
                     corresp="http://zotero.org/users/3169239/items/FSWQUNW7">
                     <bibl type="abbrev">Hunger, 1998</bibl>
@@ -1744,18 +1926,19 @@
                 </bibl>
 
                 <!-- Iberites -->
-                
+
                 <bibl type="journalArticle" xml:id="Iberites1940">
                     <bibl type="abbrev">Iberites, 1940</bibl>
                     <author><forename>I.</forename>
                         <surname>Iberites</surname></author>
-                    <title level="a">Ἰωάννου Σταυρακίου λόγος εἰς τὰ θαύματα τοῦ ἁγίου Δημητρίου</title>
+                    <title level="a">Ἰωάννου Σταυρακίου λόγος εἰς τὰ θαύματα τοῦ ἁγίου
+                        Δημητρίου</title>
                     <title level="j">Μακεδονικά</title>
                     <biblScope unit="volume">1</biblScope>
                     <date>1940</date>
-                    <biblScope unit="page">p. 324-376</biblScope>. Available at <ref type="https://doi.org/10.12681/makedonika.9146"/>.
-                </bibl>
-                
+                    <biblScope unit="page">p. 324-376</biblScope>. Available at <ref
+                        type="https://doi.org/10.12681/makedonika.9146"/>. </bibl>
+
                 <!-- Ivanišević -->
 
                 <bibl type="journalArticle" xml:id="Ivanišević2013"
@@ -1857,18 +2040,19 @@
                     <date>1992</date>
                     <biblScope unit="page">p. 281-298</biblScope>
                 </bibl>
-                
+
                 <bibl type="journalArticle" xml:id="Jordanov2006">
                     <bibl type="abbrev">Jordanov, 2006</bibl>
                     <author><forename>I.</forename>
                         <surname>Jordanov</surname></author>
-                    <title level="a">The Seals of Byzantine Fiscal Institutions (815/6-971) Discovered in Bulgaria</title>
+                    <title level="a">The Seals of Byzantine Fiscal Institutions (815/6-971)
+                        Discovered in Bulgaria</title>
                     <title level="j">Studies in Byzantine Sigillography</title>
                     <biblScope unit="volume">9</biblScope>
-                    <date>2006</date>Византийски оловни печати от Плиска
+                    <date>2006</date>
                     <biblScope unit="page">p. 97-143</biblScope>
                 </bibl>
-                
+
                 <bibl type="journalArticle" xml:id="Jordanov1985">
                     <bibl type="abbrev">Jordanov, 1985</bibl>
                     <author><forename>I.</forename>
@@ -1879,18 +2063,19 @@
                     <date>1985</date>
                     <biblScope unit="page">p. 98-107</biblScope>
                 </bibl>
-                
+
                 <bibl type="journalArticle" xml:id="Jordanov1993a">
                     <bibl type="abbrev">Jordanov, 1993</bibl>
                     <author><forename>Iv.</forename>
                         <surname>Jordanov</surname></author>
-                    <title level="a">Unpublished Byzantine Seals from the Village of Zlati Voyvoda (District of Sliven, Bulgaria)</title>
+                    <title level="a">Unpublished Byzantine Seals from the Village of Zlati Voyvoda
+                        (District of Sliven, Bulgaria)</title>
                     <title level="j">Studies in Byzantine Sigillography</title>
                     <biblScope unit="volume">3</biblScope>
                     <date>1993</date>
                     <biblScope unit="page">p. 69-84</biblScope>
                 </bibl>
-                
+
                 <bibl type="book" xml:id="Jordanov1993"
                     corresp="http://zotero.org/users/3169239/items/IA5D2FYA">
                     <bibl type="abbrev">Jordanov, 1993</bibl>
@@ -1970,7 +2155,7 @@
                     <date>2010</date>
                     <biblScope unit="page">p. 33-59</biblScope>
                 </bibl>
-                
+
                 <!-- Kaplan -->
 
                 <bibl type="book" xml:id="Kaplan1976"
@@ -1978,16 +2163,18 @@
                     <bibl type="abbrev">Kaplan, 1976</bibl>
                     <author><forename>M.</forename>
                         <surname>Kaplan</surname></author>
-                    <title level="m">Les propriétés de la Couronne et de l’Église dans l’Empire byzantin (ve-vie siècle)</title>
+                    <title level="m">Les propriétés de la Couronne et de l’Église dans l’Empire
+                        byzantin (ve-vie siècle)</title>
                     <pubPlace>Paris</pubPlace>
                     <date>1976</date>
                 </bibl>
-                
+
                 <bibl type="bookSection" xml:id="Kaplan2006">
                     <bibl type="abbrev">Kaplan, 2006</bibl>
                     <author><forename>M.</forename>
                         <surname>Kaplan</surname></author>
-                    <title level="a">Quelques aspects des maisons divines du vie au ixe siècle</title>
+                    <title level="a">Quelques aspects des maisons divines du vie au ixe
+                        siècle</title>
                     <editor><forename>M.</forename>
                         <surname>Kaplan</surname></editor>
                     <title level="m">Byzance. Villes et campagnes</title>
@@ -1995,13 +2182,14 @@
                     <date>2006</date>
                     <biblScope unit="page">p. 138-156</biblScope>
                 </bibl>
-                
+
                 <bibl type="bookSection" xml:id="Kaplan2006a">
                     <bibl type="abbrev">Kaplan, 2006a</bibl>
                     <author><forename>M.</forename>
                         <surname>Kaplan</surname></author>
-                    <title level="a">Maisons impériales et fondations pieuses. Réorganisation de la fortune impériale et assistance publique
-                        de la fin du viiie siècle à la fin du xe siècle</title>
+                    <title level="a">Maisons impériales et fondations pieuses. Réorganisation de la
+                        fortune impériale et assistance publique de la fin du viiie siècle à la fin
+                        du xe siècle</title>
                     <editor><forename>M.</forename>
                         <surname>Kaplan</surname></editor>
                     <title level="m">Byzance. Villes et campagnes</title>
@@ -2042,6 +2230,40 @@
                     <biblScope unit="volume">67</biblScope>
                     <date>2009</date>
                     <biblScope unit="page">p. 24-31</biblScope>
+                </bibl>
+                <bibl type="journalArticle" xml:id="Karagiorgou2016">
+                    <bibl type="abbrev">Karagiorgou, Charalampakis, Malatras, 2016</bibl>
+                    <author><forename>O.</forename>
+                        <surname>Karagiorgou</surname></author>
+                    <author><forename>P.</forename>
+                        <surname>Charalampakis</surname></author>
+                    <author><forename>C.</forename>
+                        <surname>Malatras</surname></author>
+                    <title level="a">State officials in the themes of Opsikion, the Anatolikoi and
+                        the Kibyrraiotai: new and recently revisited sigillographic evidence</title>
+                    <title level="j">Byzantina Symmeikta</title>
+                    <biblScope unit="volume">26</biblScope>
+                    <date>2016</date>
+                    <biblScope unit="page">p. 247-308</biblScope> Available at <ref
+                        target="https://ejournals.epublishing.ekt.gr/index.php/bz/article/view/8622/10860"
+                        >EKT.org</ref>
+                </bibl>
+                <bibl type="book" xml:id="Karagiorgou2021">
+                    <bibl type="abbrev">Karagiorgou, Charalampakis, Malatras, 2021</bibl>
+                    <author><forename>O.</forename>
+                        <surname>Karagiorgou</surname></author>
+                    <author><forename>P.</forename>
+                        <surname>Charalampakis</surname></author>
+                    <author><forename>C.</forename>
+                        <surname>Malatras</surname></author>
+                    <title level="m">Τακτικόν : μελέτες για την προσωπογραφία και διοίκηση των
+                        βυζαντινών θεμάτων = Studies on the prosopography and administration of
+                        the byzantine themata</title>
+                    <pubPlace xml:lang="en">Athens</pubPlace>
+                    <pubPlace xml:lang="fr">Athènes</pubPlace>
+                    <publisher>Ακαδημία Αθηνών, Κέντρο Έρευνας της Βυζαντινής και Μεταβυζαντινής Τέχνης</publisher>
+                    <date>2021</date>
+                    <series><title level="s">Византийская библиотека. Исследования</title></series>
                 </bibl>
 
                 <!-- Kislinger -->
@@ -2089,9 +2311,9 @@
                     <date>2003</date>
                     <biblScope unit="page">p. 27-38</biblScope>
                 </bibl>
-                
-                <!--Martiniani-Reber--> 
-                <bibl type="book" xml:id="Martiniani-Reber">
+
+                <!--Martiniani-Reber-->
+                <bibl type="book" xml:id="Martiniani-Reber2015">
                     <bibl type="abbrev">Martiniani-Reber, 2015</bibl>
                     <author><forename>M.</forename>
                         <surname>Martiniani-Reber</surname></author>
@@ -2174,7 +2396,7 @@
                 </bibl>
 
                 <!-- Laourdas -->
-                
+
                 <bibl type="journalArticle" xml:id="Laourdas1951">
                     <bibl type="abbrev">Laourdas, 1951</bibl>
                     <author><forename>B.</forename>
@@ -2184,7 +2406,7 @@
                     <biblScope unit="volume">5</biblScope>
                     <date>1951</date>
                     <biblScope unit="page">p. 252-262</biblScope></bibl>
-                
+
                 <!-- Laurent -->
 
                 <bibl type="journalArticle" xml:id="Laurent1948">
@@ -2196,8 +2418,9 @@
                     <biblScope unit="volume">6</biblScope>
                     <date>1948</date>
                     <biblScope unit="page">p. 153-166</biblScope>. Available at <ref
-                        target="https://www.persee.fr/doc/rebyz_0766-5598_1948_num_6_1_977">Persée</ref>.</bibl>
-                
+                        target="https://www.persee.fr/doc/rebyz_0766-5598_1948_num_6_1_977"
+                        >Persée</ref>.</bibl>
+
                 <bibl type="journalArticle" xml:id="Laurent1930">
                     <bibl type="abbrev">Laurent, 1930</bibl>
                     <author><forename>V.</forename>
@@ -2207,7 +2430,17 @@
                     <biblScope unit="volume">29</biblScope>
                     <date>1930</date>
                     <biblScope unit="page">p. 314-333</biblScope></bibl>
-                
+
+                <bibl type="journalArticle" xml:id="Laurent1931">
+                    <bibl type="abbrev">Laurent, 1931</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Laurent</surname></author>
+                    <title level="a">Bulletin de sigillographie byzantine, 1930</title>
+                    <title level="j">Byzantion</title>
+                    <biblScope unit="volume">6</biblScope>
+                    <date>1931</date>
+                    <biblScope unit="page">p. 771-829</biblScope></bibl>
+
                 <bibl type="book" xml:id="Laurent1932"
                     corresp="http://zotero.org/users/3169239/items/THFVBAEX">
                     <bibl type="abbrev">Laurent, 1932</bibl>
@@ -2259,6 +2492,20 @@
                     <biblScope unit="page">p. 221-254</biblScope>
                 </bibl>
 
+                <!-- Lebedeva -->
+
+                <bibl type="journalArticle" xml:id="Lebedeva1931"
+                    corresp="http://zotero.org/users/3169239/items/BI4YSJHJ">
+                    <bibl type="abbrev">Lebedeva, 1931</bibl>
+                    <author><forename>V.</forename><surname>Lebedeva</surname></author>
+                    <title level="a">Les trois nouveaux sceaux de plombs byzantins du Musée
+                        Historique d'État de Moscou</title>
+                    <title level="j">Byzantinische Zeitschrift</title>
+                    <biblScope unit="volume">31</biblScope>
+                    <date>1931</date>
+                    <biblScope unit="page">p. 58-60</biblScope>
+                </bibl>
+
                 <!-- Lebeniotes -->
 
                 <bibl type="book" xml:id="Lebeniotes2004"
@@ -2291,15 +2538,15 @@
                     <date>2011</date>
                     <biblScope unit="page">p. 361-410</biblScope>
                 </bibl>
-                                     
+
                 <!-- Leontaritou -->
-                
+
                 <bibl type="book" xml:id="Leontaritou1996">
                     <bibl type="abbrev">Leontaritou, 1996</bibl>
                     <author><forename>V.</forename>
                         <surname>Leontaritou</surname></author>
-                    <title level="a">Εκκλησιαστικά
-                        αξιώματα και υπηρεσίες στην πρώιμη και μέση βυζαντινή περίοδο</title>
+                    <title level="a">Εκκλησιαστικά αξιώματα και υπηρεσίες στην πρώιμη και μέση
+                        βυζαντινή περίοδο</title>
                     <pubPlace xml:lang="en">Athens-Komotene</pubPlace>
                     <date>1996</date>
                 </bibl>
@@ -2420,7 +2667,7 @@
                     <biblScope unit="page">p. 113-142</biblScope>
                     <date>1993</date>
                 </bibl>
-                
+
                 <bibl type="bookSection" xml:id="Maksimović1999"
                     corresp="http://zotero.org/users/3169239/items/6FHSCB26">
                     <bibl type="abbrev">Maksimović, 1999</bibl>
@@ -2475,11 +2722,27 @@
                     <author><forename>Ch.</forename>
                         <surname>Messis</surname></author>
                     <title level="a">Région, politique et rhétorique dans la première moitié du Xe
-                        siècle : le cas des Paphlagoniens</title>
+                        siècle: le cas des Paphlagoniens</title>
                     <title level="j">Revue des études byzantines</title>
                     <biblScope unit="volume">73</biblScope>
                     <date>2015</date>
                     <biblScope unit="page">p. 99-122</biblScope>
+                </bibl>
+
+                <!-- Mordtmann -->
+
+                <bibl type="journalArticle" xml:id="Mordtmann1882-83">
+                    <bibl type="abbrev">Mordtmann, 1882-1883</bibl>
+                    <author><forename>A.</forename>
+                        <surname>Mordtmann</surname></author>
+                    <title level="a">Μολυβδόβουλλα βυζαντινά των επαρχιών Ευρώπης</title>
+                    <title level="j">Ο Εν Κωνσταντινουπόλει Ελληνικός Φιλολογικός Σύλλογος.
+                        Σύγγραμμα Περιοδικόν</title>
+                    <biblScope unit="volume">17</biblScope>
+                    <date>1882-1883</date>
+                    <biblScope unit="page">p. 144-152</biblScope> Available at <ref
+                        target="https://archive.org/details/syngrammaperiod03istgoog/page/n415/mode/2up?view=theater"
+                        >Archive.org</ref>
                 </bibl>
 
                 <!-- Morrisson -->
@@ -2508,7 +2771,8 @@
                 <!-- Mušmov -->
 
                 <bibl type="journalArticle" xml:id="Mušmov1934">
-                    <title level="a">Vizantijski olovni pečati ot sbirkata na Narodnija Muzej</title>
+                    <title level="a">Vizantijski olovni pečati ot sbirkata na Narodnija
+                        Muzej</title>
                     <author><forename>N. A.</forename><surname>Mušmov</surname></author>
                     <title level="j">BIBA</title>
                     <biblScope unit="volume">8</biblScope>
@@ -2520,12 +2784,14 @@
                 <!-- Nesbitt -->
                 <bibl type="book" xml:id="Nesbitt2009">
                     <bibl type="abbrev">Nesbitt <hi rend="italic">et al.</hi> 2009</bibl>
-                    <title level="m">Highlights from the Robert Hecht, Jr., Collection of Byzantine Seals</title>
+                    <title level="m">Highlights from the Robert Hecht, Jr., Collection of Byzantine
+                        Seals</title>
                     <author><forename>J.</forename><surname>Nesbitt</surname></author>
                     <author><forename>A.-K.</forename><surname>Wassiliou-Seibt</surname></author>
                     <author><forename>W.</forename><surname>Seibt</surname></author>
                     <pubPlace>Thessaloniki</pubPlace>
-                    <publisher>Aristotle University of Thessaloniki, Byzantine Research Center</publisher>
+                    <publisher>Aristotle University of Thessaloniki, Byzantine Research
+                        Center</publisher>
                     <date>2009</date>
                 </bibl>
 
@@ -2654,6 +2920,15 @@
 
                 <!-- Prigent -->
 
+                <bibl type="book" xml:id="Prigent1994">
+                    <bibl type="abbrev">Prigent, 1994</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Prigent</surname></author>
+                    <title level="m">Sceaux byzantins de l'I.F.E.B.</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Université Paris 1 Panthéon-Sorbonne</publisher>
+                    <date>1993-1994</date>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Prigent2006"
                     corresp="http://zotero.org/users/3169239/items/G7WLK3ZG">
                     <bibl type="abbrev">Prigent, 2006</bibl>
@@ -2849,30 +3124,32 @@
                 </bibl>
 
                 <!-- Seibt -->
-                
+
                 <bibl type="book" xml:id="SeibtWassiliou2015">
-                    <bibl type="abbrev">Seibt &amp; Wassiliou-Seibt, 1976</bibl>
+                    <bibl type="abbrev">Seibt &amp; Wassiliou-Seibt, 2015</bibl>
                     <author><forename>W.</forename>
                         <surname>Seibt</surname></author>
                     <author><forename>A.-K.</forename>
                         <surname>Wassiliou-Seibt</surname></author>
-                    <title level="m">Der byzantinische Mensch in seinem Umfeld: Weitere Bleisiegel der Sammlung Zarnitz im Museum August Kestner</title>
+                    <title level="m">Der byzantinische Mensch in seinem Umfeld: Weitere Bleisiegel
+                        der Sammlung Zarnitz im Museum August Kestner</title>
                     <pubPlace>Hannover</pubPlace>
                     <publisher>VML Vlg Marie Leidorf</publisher>
                     <date>2015</date>
                 </bibl>
-                
+
                 <bibl type="journalArticle" xml:id="Seibt2016">
                     <bibl type="abbrev">Seibt, 2016</bibl>
                     <author><forename>W.</forename>
                         <surname>Seibt</surname></author>
-                    <title level="a"> The Sons of Senek’erim Yovhannes, the Last King of Vaspurakan</title>
+                    <title level="a"> The Sons of Senek’erim Yovhannes, the Last King of
+                        Vaspurakan</title>
                     <title level="j">Revue des études arméniennes</title>
                     <biblScope unit="volume">37</biblScope>
                     <date>2016</date>
                     <biblScope unit="page">p. 119-133</biblScope>
                 </bibl>
-                
+
                 <bibl type="book" xml:id="Seibt1976"
                     corresp="http://zotero.org/users/3169239/items/QTQPWCNE">
                     <bibl type="abbrev">Seibt, 1976</bibl>
@@ -2897,6 +3174,18 @@
                     <date>1987</date>
                     <biblScope unit="page">p. 35-56</biblScope>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Seibt1994">
+                    <bibl type="abbrev">Seibt, 1994</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <title level="a">Ἀρσακίδης/Aršakuni – Armenische Aristokraten in byzantinschen
+                        Diensten</title>
+                    <title level="j">Jahrbuch der österreichischen Byzantinistik</title>
+                    <biblScope unit="volume">44</biblScope>
+                    <date>1994</date>
+                    <biblScope unit="page">p.
+                    349–359</biblScope><!-- still to be adde: (= Ἀνδρίας. Herbert Hunger zum 80. Geburtstag) -->
+                </bibl>
                 <bibl type="book" xml:id="Seibt1997"
                     corresp="http://zotero.org/users/3169239/items/KSQ8UJZN">
                     <bibl type="abbrev">Seibt, Zarnitz, 1997</bibl>
@@ -2909,6 +3198,16 @@
                     <pubPlace xml:lang="en">Vienna</pubPlace>
                     <pubPlace xml:lang="fr">Vienne</pubPlace>
                     <date>1997</date>
+                </bibl>
+                <bibl type="journalArticle" xml:id="Seibt1999">
+                    <bibl type="abbrev">Seibt, 1999</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <title level="a">Siegel als Quelle für Slawenarchonten in Griechenland</title>
+                    <title level="j">Studies in Byzantine Sigillography</title>
+                    <biblScope unit="volume">6</biblScope>
+                    <date>1999</date>
+                    <biblScope unit="page">p. 27-36</biblScope>
                 </bibl>
                 <bibl type="journalArticle" xml:id="Seibt2010"
                     corresp="http://zotero.org/users/3169239/items/53FWMU56">
@@ -2992,6 +3291,37 @@
                     <date>1980</date>
                 </bibl>
 
+                <!-- Sokolova -->
+
+                <bibl type="journalArticle" xml:id="Sokolova1986">
+                    <bibl type="abbrev">Sokolova, 1986</bibl>
+                    <author><forename>I. V.</forename>
+                        <surname>Sokolova</surname></author>
+                    <title level="a">Знак сокращения на византийских печатях VIII – первой половины
+                        X в.</title>
+                    <title level="j">Византийский Временник</title>
+                    <biblScope unit="volume">47</biblScope>
+                    <date>1986</date>
+                    <biblScope unit="page">p. 157-162</biblScope> Available at <ref
+                        target="http://www.vremennik.biz/opus/BB/47/52656">Византийский
+                        Временник</ref>
+                </bibl>
+
+                <!-- Sorlin-Dorigny -->
+
+                <bibl type="journalArticle" xml:id="Sorlin-Dorigny1877">
+                    <bibl type="abbrev">Sorlin-Dorigny, 1877</bibl>
+                    <author><forename>A.</forename>
+                        <surname>Sorlin-Dorigny</surname></author>
+                    <title level="a">Sceaux et bulles des Comnènes</title>
+                    <title level="j">Revue archéologique</title>
+                    <biblScope unit="volume">n.s., a. 18, vol. 33</biblScope>
+                    <date>1877</date>
+                    <biblScope unit="page">p. 81-91</biblScope> Available at <ref
+                        target="https://gallica.bnf.fr/ark:/12148/bpt6k203602t/f84.item"
+                        >Gallica</ref>
+                </bibl>
+
                 <!-- Stanković -->
 
                 <bibl type="bookSection" xml:id="Stanković2013"
@@ -3024,7 +3354,7 @@
                     <date>2016</date>
                     <biblScope unit="page">p. 83-92</biblScope>
                 </bibl>
-                
+
                 <bibl type="bookSection" xml:id="Stepanova2001"
                     corresp="http://zotero.org/users/3169239/items/H4EZV5HM">
                     <bibl type="abbrev">Stepanova, 2001</bibl>
@@ -3070,9 +3400,9 @@
                     <date>2017</date>
                     <biblScope unit="page">p. 777-787</biblScope>
                 </bibl>
-                
+
                 <!-- Talbot -->
-                
+
                 <bibl type="journalArticle" xml:id="Talbot1984">
                     <bibl type="abbrev">Talbot, 1984</bibl>
                     <author><forename>A.-M.</forename>
@@ -3083,32 +3413,76 @@
                     <date>1984</date>
                     <biblScope unit="page">p. 267-278</biblScope>
                 </bibl>
-                
+
+                <!-- Van de Vries -->
+
+                <bibl type="journalArticle" xml:id="deVries1996">
+                    <bibl type="abbrev">de Vries-Van der Velden, 1996</bibl>
+                    <author><forename>E.</forename>
+                        <surname>de Vries-Van der Velden</surname></author>
+                    <title level="a">Psellos et son gendre</title>
+                    <title level="j">Byzantinische Forschungen</title>
+                    <biblScope unit="volume">30</biblScope>
+                    <date>1996</date>
+                    <biblScope unit="page">p. 109-149</biblScope> Available at <ref
+                        target="https://archive.org/details/byzantinische-forschungen-10-1985/Byzantinische-Forschungen-23-1996/page/109/mode/2up?view=theater"
+                        >Archive.org</ref>
+                </bibl>
+
                 <!-- Volk -->
 
                 <bibl type="book" xml:id="Volk1983">
                     <bibl type="abbrev">Volk, 1983</bibl>
                     <author><forename>R.</forename>
                         <surname>Volk</surname></author>
-                    <title level="m">Gesundheitswesen und Wohltätigkeit
-                        im Spiegel der byzantinischen Klostertypika</title>
+                    <title level="m">Gesundheitswesen und Wohltätigkeit im Spiegel der
+                        byzantinischen Klostertypika</title>
                     <pubPlace xml:lang="en">Munich</pubPlace>
                     <date>1983</date>
                 </bibl>
 
                 <!-- Wassiliou-Seibt -->
 
+                <bibl type="journalArticle" xml:id="Wassiliou2002">
+                    <bibl type="abbrev">Wassiliou, 2002</bibl>
+                    <author><forename>A.-K.</forename>
+                        <surname>Wassiliou</surname></author>
+                    <title level="a">Die Familie Hexamilites. Ein Beitrag zur byzantinischen
+                        Prosopographie</title>
+                    <title level="j">Hellenika</title>
+                    <biblScope unit="volume">52</biblScope>
+                    <date>2002</date>
+                    <biblScope unit="page">p. 243-258</biblScope>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Wassiliou2006">
                     <bibl type="abbrev">Wassiliou, 2006</bibl>
                     <author><forename>A.-K.</forename>
                         <surname>Wassiliou</surname></author>
-                    <title level="a">Einige bisher unbekannte Namen auf byzantinischen Bleisiegeln</title>
+                    <title level="a">Einige bisher unbekannte Namen auf byzantinischen
+                        Bleisiegeln</title>
                     <title level="j">Studies in Byzantine Sigillography</title>
                     <biblScope unit="volume">9</biblScope>
                     <date>2006</date>
                     <biblScope unit="page">p. 69-80</biblScope>
                 </bibl>
-                
+
+                <bibl type="bookSection" xml:id="Wassiliou-Seibt2009">
+                    <bibl type="abbrev">Wassiliou-Seibt, 2009</bibl>
+                    <author><forename>A.-K.</forename>
+                        <surname>Wassiliou-Seibt</surname></author>
+                    <title level="a">Der Familienname Pegonites auf byzantinischen Siegeln und in
+                        anderen schriftlichen Quellen</title>
+                    <author><forename>S.</forename>
+                        <surname>Kotzabassi</surname></author>
+                    <author><forename>G.</forename>
+                        <surname>Mavromatis</surname></author>
+                    <title level="m">Realia byzantina</title>
+                    <pubPlace>Berlin–New York</pubPlace>
+                    <date>2009</date>
+                    <biblScope unit="page">p. 303-320</biblScope>
+                    <series><title level="s">Byzantinisches Archiv 22</title></series>
+                </bibl>
+
                 <bibl type="book" xml:id="Wassiliou-Seibt2011"
                     corresp="http://zotero.org/users/3169239/items/8LCA9TB7">
                     <bibl type="abbrev">Wassiliou-Seibt, 2011</bibl>
@@ -3179,9 +3553,9 @@
                 </bibl>
 
                 <!-- SOURCES (not sigillographic) -->
-                
+
                 <!-- Archives de l’Athos -->
-                
+
                 <bibl type="book" xml:id="Iviron3">
                     <bibl type="abbrev">Actes d’Iviron III</bibl>
                     <title level="m">Actes d’Iviron. III, De 1204 à 1328 </title>
@@ -3199,7 +3573,7 @@
                     <date>1994</date>
                     <series><title level="s">Archives de l’Athos 18</title></series>
                 </bibl>
-                
+
                 <bibl type="book" xml:id="Esphigmenou">
                     <bibl type="abbrev">Actes d’Esphigménou</bibl>
                     <title level="m">Actes d’Esphigménou</title>
@@ -3209,9 +3583,9 @@
                     <date>1973</date>
                     <series><title level="s">Archives de l’Athos 6</title></series>
                 </bibl>
-                
+
                 <!-- BIBLIO ABBREV!!!!!!!!!!!!!!!!!! -->
-                
+
                 <bibl type="book" xml:id="McGrath2014">
                     <bibl type="abbrev">Basil the Younger</bibl>
                     <title level="m">The Life of Saint Basil the Younger</title>
@@ -3225,7 +3599,7 @@
                     <date>2014</date>
                     <series><title level="s">Dumbarton Oaks Studies 45</title></series>
                 </bibl>
-                
+
                 <bibl type="book" xml:id="Schreiner1975">
                     <bibl type="abbrev">Chronica Byzantina Breviora</bibl>
                     <title level="m">Die byzantinischen Kleinchroniken</title>
@@ -3238,18 +3612,20 @@
                     <date>1975-1979</date>
                     <series><title level="s">CFHB 12</title></series>
                 </bibl>
-         
+
                 <bibl type="book" xml:id="Skylitzes2010"
                     corresp="http://zotero.org/users/3169239/items/ZWQU3SBH">
-                    <author><name><forename>Ioannes</forename> <surname>Skylitzes</surname></name></author>
+                    <author><name><forename>Ioannes</forename>
+                            <surname>Skylitzes</surname></name></author>
                     <bibl type="abbrev">Ioannes Skylitzes, Synopsis (transl. J. Wortley) 2010</bibl>
-                    <title level="m">A Synopsis of Byzantine History, 811-1057, transl. J. Wortley</title>
+                    <title level="m">A Synopsis of Byzantine History, 811-1057, transl. J.
+                        Wortley</title>
                     <editor><forename>J.</forename>
                         <surname>Wortley</surname></editor>
                     <pubPlace xml:lang="en">Cambridge</pubPlace>
                     <date>2010</date>
                 </bibl>
-                
+
                 <bibl type="book" xml:id="AristakèsRécit1973"
                     corresp="http://zotero.org/users/3169239/items/43978AW4">
                     <bibl type="abbrev">Aristakès, Récit, 1973</bibl>
@@ -3646,7 +4022,6 @@
                     corresp="http://zotero.org/users/3169239/items/3VB8SIXA">
                     <bibl type="abbrev">Theophanes, Chronographia</bibl>
                     <title level="m">Theophanis Chronographia</title>
-                    <!--<author><name>Théophane le Confesseur</name></author>-->
                     <editor><forename>K.</forename>
                         <surname>de Boor</surname></editor>
                     <pubPlace>Leipzig</pubPlace>
@@ -3771,9 +4146,9 @@
                     <pubPlace>Freiburg im Breisgau</pubPlace>
                     <date>1978</date>
                 </bibl>
-                
+
                 <!-- Oxford Dictionary of Byzantium -->
-                
+
                 <bibl type="book" xml:id="ODB"
                     corresp="http://zotero.org/users/3169239/items/E786KBHT">
                     <bibl type="abbrev">ODB</bibl>
@@ -3856,10 +4231,9 @@
                     <bibl type="abbrev">LBG</bibl>
                     <title level="m">Lexikon zur byzantinischen Gräzität</title>
                     <editor><forename>E.</forename>
-                        <surname>Trapp</surname></editor>
-                     Available at <ref
-                         target="http://stephanus.tlg.uci.edu/lbg/">LBG Online</ref>. </bibl>
-                
+                        <surname>Trapp</surname></editor> Available at <ref
+                        target="http://stephanus.tlg.uci.edu/lbg/">LBG Online</ref>. </bibl>
+
                 <bibl type="book" xml:id="DOHagio"
                     corresp="http://zotero.org/users/3169239/items/4AKYE2G9">
                     <bibl type="abbrev">DO Hagiography Database</bibl>
@@ -3921,8 +4295,8 @@
                     <date>2013</date> Available at <ref target="https://doi.org/10.1515/pmbz">PmbZ
                         Online</ref>
                 </bibl>
-                
-                
+
+
 
                 <!-- AUCTIONS' CATALOGUES AND ONLINE CATALOGUES -->
 
@@ -3969,9 +4343,8 @@
                 <bibl xml:id="AMCC">
                     <bibl type="abbrev">AMCC</bibl>
                     <title level="m">Ancient and Medieval Coins Canada</title>
-                    <pubPlace>Kelowna, Canada</pubPlace>
-                    available at <ref target="https://www.amcoinscanada.com/">amcoinscanada.com</ref>.
-                </bibl>
+                    <pubPlace>Kelowna, Canada</pubPlace> available at <ref
+                        target="https://www.amcoinscanada.com/">amcoinscanada.com</ref>. </bibl>
                 <bibl xml:id="CNG">
                     <bibl type="abbrev">CNG</bibl>
                     <title level="m">Classical Numismatic Group</title>
@@ -4016,20 +4389,36 @@
 
                 <!--  REVIEWS  -->
 
+                <bibl type="journalArticle" xml:id="Seibt2020">
+                    <bibl type="abbrev">Seibt, 2020</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <title level="a">Review of <bibl>
+                            <author><forename>J.-Cl.</forename>
+                                <surname>Cheynet</surname></author>
+                            <title level="m">Les sceaux byzantins de la collection Yavuz
+                                Tatış</title></bibl></title>
+                    <title level="j">Jahrbuch der Österreichischen Byzantinistik</title>
+                    <biblScope unit="volume">70</biblScope>
+                    <date>2020</date>
+                    <biblScope unit="page">p. 512-513</biblScope> Available at <ref
+                        target="10.1553/joeb70s509">JOeB</ref>. </bibl>
+
                 <bibl type="journalArticle" xml:id="Seibt1996">
                     <bibl type="abbrev">Seibt, 1996</bibl>
                     <author><forename>W.</forename>
                         <surname>Seibt</surname></author>
                     <title level="a">Review of <bibl>
-                        <author><forename>I.</forename>
-                            <surname>Jordanov</surname></author>
-                        <title level="m">Печатите от стратегията в Преслав (971-1088)</title></bibl></title>
+                            <author><forename>I.</forename>
+                                <surname>Jordanov</surname></author>
+                            <title level="m">Печатите от стратегията в Преслав
+                            (971-1088)</title></bibl></title>
                     <title level="j">Byzantinische Zeitschrift</title>
-                        <biblScope unit="volume">89</biblScope>
-                        <date>1996</date>
+                    <biblScope unit="volume">89</biblScope>
+                    <date>1996</date>
                     <biblScope unit="page">p. 134-138</biblScope>
                 </bibl>
-                
+
                 <bibl type="journalArticle" xml:id="SBS_Articles1986-1992">
                     <bibl type="abbrev">Scholarly Articles 1986-1992</bibl>
                     <title level="a">Seals published 1986-1992, I, Scholarly Articles</title>
@@ -4123,9 +4512,10 @@
                     <author><forename>A. K.</forename>
                         <surname>Wassiliou-Seibt</surname></author>
                     <title level="a">Review of <bibl>
-                        <author><forename>R.</forename>
-                            <surname>Feind</surname></author>
-                        <title level="m">Byzantinische Siegelkunde. Eine Einführung in die Sigillographie von Byzanz</title></bibl></title>
+                            <author><forename>R.</forename>
+                                <surname>Feind</surname></author>
+                            <title level="m">Byzantinische Siegelkunde. Eine Einführung in die
+                                Sigillographie von Byzanz</title></bibl></title>
                     <title level="j">Jahrbuch der Österreichischen Byzantinistik</title>
                     <biblScope unit="volume">61</biblScope>
                     <date>2011</date>
