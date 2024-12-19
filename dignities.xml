@@ -1,841 +1,841 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- LAST MODIFIED: 2023-03-15 -->
+<!-- LAST MODIFIED: 2023-12-19 -->
 <?xml-model href="https://epidoc.stoa.org/schema/9.5/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Authority list of dignities in SigiDoc</title>
-                <editor xml:id="AS">Alessio Sopracasa</editor>
-                <editor xml:id="MF">Martina Filosa</editor>
-            </titleStmt>
-            <publicationStmt>
-                <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Authority list of dignities in SigiDoc</title>
+            <editor xml:id="AS">Alessio Sopracasa</editor>
+            <editor xml:id="MF">Martina Filosa</editor>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
                     Methodologies for Historical Research in Byzantine Studies</authority>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
                         Attribution 4.0 International License</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <ab/>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <list type="dignities">
-                <item xml:id="cubicularius">
-                    <term xml:lang="la">cubicularius</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">cubiculaire</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="ex-consule">
-                    <term xml:lang="la">ex consule</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">ex consul</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="illustriu">
-                    <term xml:lang="la">illustris</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">illustre</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="patricius">
-                    <term xml:lang="la">patricius</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">patrice</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="anthypatos">
-                    <term xml:lang="grc">ἀνθύπατος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">anthypatos</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="anthypatos-patrikios">
-                    <term xml:lang="grc">ἀνθύπατος, πατρίκιος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">anthypatos patrice</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="apo-eparchon">
-                    <term xml:lang="grc">ἀπò ἐπάρχων</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">apo éparchôn</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="apo-hyparchon">
-                    <term xml:lang="grc">ἀπò ὑπάρχων</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">apo hyparchôn</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="apo-hypaton">
-                    <term xml:lang="grc">ἀπò ὑπάτων</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">apo hypatôn</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="augousta">
-                    <term xml:lang="grc">αὐγούστα</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">augousta</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="augoustos">
-                    <term xml:lang="grc">αὔγουστος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">augoustos</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="autokratorissa">
-                    <term xml:lang="grc">αὐτοκρατόρισσα</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">autokratôrissa</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="autokrator">
-                    <term xml:lang="grc">αὐτοκράτωρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">autokratôr</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="balnitor">
-                    <term xml:lang="grc">βασλνίτωρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">balnitor</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="imp-balnitor">
-                    <term xml:lang="grc">βασλνίτωρ, βασιλικὸς</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">balnitor impérial</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="basileopator">
-                    <term xml:lang="grc">βασιλεωπάτωρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">basileopátôr</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="vestarches">
-                    <term xml:lang="grc">βεστάρχης</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">vestarque</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="vestes">
-                    <term xml:lang="grc">βέστης</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">vestès</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="vestitor">
-                    <term xml:lang="grc">βεστήτωρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">vestitôr</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="imp-vestitor">
-                    <term xml:lang="grc">βεστήτωρ, βασιλικός</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">vestitôr impérial</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="despoina">
-                    <term xml:lang="grc">δέσποινα</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">despoina</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="despotes">
-                    <term xml:lang="grc">δεσπότης </term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">despotès</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="dishypatos">
-                    <term xml:lang="grc">δισύπατος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">dishypatos</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="epi-tou-manglabiou">
-                    <term xml:lang="grc">ἐπί τοῦ μαγγλαβίου</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">épi tou manglabiou</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="exousiastes">
-                    <term xml:lang="grc">ἐξουσιαστής</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">exousiastès</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="exousiokrator">
-                    <term xml:lang="grc">ἐξουσιοκράτωρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">exousiokratôr</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="girded-lady-patrician">
-                    <term xml:lang="grc">ζωστὴ πατρικία</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">patricienne à ceinture</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="illoustrios">
-                    <term xml:lang="grc">ἰλλούστριος</term>
-                    <term xml:lang="en">illoustrios</term>
-                    <term xml:lang="fr">illoustrios</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">illustre</term>
-                </item>
-                <item xml:id="kaisar">
-                    <term xml:lang="grc">καῖσαρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">césar</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="kandidatos">
-                    <term xml:lang="grc">κανδιδάτος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">candidat</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="imp-kandidatos">
-                    <term xml:lang="grc">κανδιδάτος, βασιλικός</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">candidat</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="komes">
-                    <term xml:lang="grc">κόμης</term>
-                    <term xml:lang="en">komes</term>
-                    <term xml:lang="fr">komès</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">comes</term>
-                </item>
-                <item xml:id="koubikoularios">
-                    <term xml:lang="grc">κουβικουλάριος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">cubiculaire</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="koubouklesios">
-                    <term xml:lang="grc">κουβουκλήσιος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">koubouklèsios</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="kouropalates">
-                    <term xml:lang="grc">κουροπαλάτης</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">curopalate</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="kouropalatissa">
-                    <term xml:lang="grc">κουροπαλάτισσα</term>
-                    <term xml:lang="en">kouropalatissa</term>
-                    <term xml:lang="fr">kouropalatissa</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">curopalatissa</term>
-                </item>
-                <item xml:id="magistrissa">
-                    <term xml:lang="grc">μαγίστρισσα</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">magistrissa</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="magistros">
-                    <term xml:lang="grc">μάγιστρος</term>
-                    <term xml:lang="en">magistros</term>
-                    <term xml:lang="fr">magistre</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">magistro</term>
-                </item>
-                <item xml:id="imp-mandator">
-                    <term xml:lang="grc">μανδάτωρ, βασιλικός</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">mandatôr impérial</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="nobelissimos">
-                    <term xml:lang="grc">νωβελίσσιμος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">nobélissime</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="ostiarios">
-                    <term xml:lang="grc">ὀστιάριος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">ostiaire</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="imp-ostiarios">
-                    <term xml:lang="grc">ὀστιάριος, βασιλικός</term>
-                    <term xml:lang="en">ostiarios, imperial</term>
-                    <term xml:lang="fr">ostiaire impérial</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">ostiario imperiale</term>
-                </item>
-                <item xml:id="panhypersebaste">
-                    <term xml:lang="grc">πανυπερσεβάστη</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">panhypersébastè</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="panhypersebastos">
-                    <term xml:lang="grc">πανυπερσέβαστος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">panhypersébaste</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="panhypertimos">
-                    <term xml:lang="grc">πανυπέρτιμος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">panhypertime</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="patrikia">
-                    <term xml:lang="grc">πατρικία</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">patricienne</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="patrikios">
-                    <term xml:lang="grc">πατρίκιος</term>
-                    <term xml:lang="en">patrikios</term>
-                    <term xml:lang="fr">patrice</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">patrizio</term>
-                </item>
-                <item xml:id="patrikios-magistros">
-                    <term xml:lang="grc">πατρίκιος, μάγιστρος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">patrice et magistre</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="praipositos">
-                    <term xml:lang="grc">πραιπόσιτος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">préposite</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="primikerios">
-                    <term xml:lang="grc">πριμικήριος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">primicier</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="proedros">
-                    <term xml:lang="grc">πρόεδρος</term>
-                    <term xml:lang="en">proedros</term>
-                    <term xml:lang="fr">proèdre</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">proedro</term>
-                </item>
-                <item xml:id="protoanthypatos">
-                    <term xml:lang="grc">πρωτοανθύπατος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protoanthypatos</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="protokouropalates">
-                    <term xml:lang="grc">πρωτοκουροπαλάτης</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protokouropalate</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="protokouropalatissa">
-                    <term xml:lang="grc">πρωτοκουροπαλάτισσα</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">prôtokouropalatissa</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="protovestarches">
-                    <term xml:lang="grc">πρωτοβεστάρχης</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protovestarque</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="protovestes">
-                    <term xml:lang="grc">πρωτοβέστης</term>
-                    <term xml:lang="en">protovestes</term>
-                    <term xml:lang="fr">protovestès</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">protoveste</term>
-                </item>
-                <item xml:id="protonobellisima">
-                    <term xml:lang="grc">πρωτονωβελισσίμη</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protonobellisima</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="protonobelissimos">
-                    <term xml:lang="grc">πρωτονωβελίσσιμος</term>
-                    <term xml:lang="en">protonobelissimos</term>
-                    <term xml:lang="fr">protonobélissime</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">protonobilissimo</term>
-                </item>
-                <item xml:id="protonobellissimohypertatos">
-                    <term xml:lang="grc">πρωτονωβελισσιμουπέρτατος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protonobellissimohypertatos</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="imp-protonobilissimus">
-                    <term xml:lang="la">protonobilissimus, imperialis</term>
-                    <term xml:lang="en">protonobelissimos, imperial</term>
-                    <term xml:lang="fr">protonobélissime impérial</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">protonobilissimo imperiale</term>
-                </item>
-                <item xml:id="protopansebastohypertatos">
-                    <term xml:lang="grc">πρωτοπανσέβαστος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protopansébastohypertatos</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="protoproedrissa">
-                    <term xml:lang="grc">πρωτοπροέδρισσα</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protoproedrisssa</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">protoproedro</term>
-                </item>
-                <item xml:id="protoproedros">
-                    <term xml:lang="grc">πρωτοπρόεδρος</term>
-                    <term xml:lang="en">protoproedros</term>
-                    <term xml:lang="fr">protoproèdre</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">protoproedro</term>
-                </item>
-                <item xml:id="protosebastos-001">
-                    <term xml:lang="grc">πρωτοσέβαστος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protosébaste</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">protoproedro</term>
-                </item>
-                <item xml:id="protosebastos-002">
-                    <term xml:lang="grc">πρῶτος σεβαστῶν</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protosébaste</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="prosospatharios">
-                    <term xml:lang="grc">πρωτοσπαθάριος</term>
-                    <term xml:lang="en">protospatharios</term>
-                    <term xml:lang="fr">protospathaire</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">protospatario</term>
-                </item>
-                <item xml:id="imp-prosospatharios">
-                    <term xml:lang="grc">πρωτοσπαθάριος, βασιλικός</term>
-                    <term xml:lang="en">protospatharios, imperial</term>
-                    <term xml:lang="fr">protospathaire impérial</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">protospatario imperiale</term>
-                </item>
-                <item xml:id="protostrator">
-                    <term xml:lang="grc">πρωτοστράτωρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protostrator</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="protostratorissa">
-                    <term xml:lang="grc">πρωτοστρατόρισσα</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">protostratorissa</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="rhaiktor">
-                    <term xml:lang="grc">ῥαίκτωρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">recteur </term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="sebaste">
-                    <term xml:lang="grc">σεβαστή</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">sébastè</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="sebastokrator">
-                    <term xml:lang="grc">σεβαστοκράτωρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">sébastokrator</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="sebastokratorissa">
-                    <term xml:lang="grc">σεβαστοκρατόρισσα</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">sébastokratorissa</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="sebastophoros">
-                    <term xml:lang="grc">σεβαστοφόρος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">sébastophore</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="sebastos">
-                    <term xml:lang="grc">σεβαστός</term>
-                    <term xml:lang="en">sebastos</term>
-                    <term xml:lang="fr">sébaste</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">sebaste</term>
-                </item>
-                <item xml:id="silentiarios">
-                    <term xml:lang="grc">σιλεντιάριος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">silentiaire</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="imp-silentiarios">
-                    <term xml:lang="grc">σιλεντιάριος, βασιλικός</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">silentiaire impérial</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="spatharios">
-                    <term xml:lang="grc">σπαθάριος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">spathaire</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="imp-spatharios">
-                    <term xml:lang="grc">σπαθάριος, βασιλικός</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">spathaire impérial</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="spatharokandidatos">
-                    <term xml:lang="grc">σπαθαροκανδιδᾶτος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">spatharocandidat</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="imp-spatharokandidatos">
-                    <term xml:lang="grc">σπαθαροκανδιδᾶτος, βασιλικός</term>
-                    <term xml:lang="en">spatharokandidatos, imperial</term>
-                    <term xml:lang="fr">spatharocandidat impérial</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">spatarocandidato imperiale</term>
-                </item>
-                <item xml:id="spatharokoubikoularios">
-                    <term xml:lang="grc">σπαθαροκουβικουλάριος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">spatharocubiculaire</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="stratelates">
-                    <term xml:lang="grc">στρατηλάτης</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">stratèlate</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="strator">
-                    <term xml:lang="grc">στράτωρ</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">stratôr</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="synkellos">
-                    <term xml:lang="grc">σύγκελλος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">syncelle</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="scholastikos">
-                    <term xml:lang="grc">σχολαστικός</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">scolastique</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="hypatikos">
-                    <term xml:lang="grc">ὑπατικός</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">hypatikos</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="hypatissa">
-                    <term xml:lang="grc">ὑπάτισσα</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">hypatissa</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-                <item xml:id="hypatos">
-                    <term xml:lang="grc">ὕπατος</term>
-                    <term xml:lang="en">hypatos</term>
-                    <term xml:lang="fr">hypatos</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">ipato</term>
-                </item>
-                <item xml:id="hypertimos">
-                    <term xml:lang="grc">ὑπέρτιμος</term>
-                    <term xml:lang="en">xxx</term>
-                    <term xml:lang="fr">hypertime</term>
-                    <term xml:lang="de">xxx</term>
-                    <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
-                    <term xml:lang="it">xxx</term>
-                </item>
-            </list>
-        </body>
-    </text>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list>
+            <item xml:id="d0001">
+               <term xml:lang="la">cubicularius</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">cubiculaire</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0002">
+               <term xml:lang="la">ex consule</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">ex consul</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0003">
+               <term xml:lang="la">illustris</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">illustre</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0004">
+               <term xml:lang="la">patricius</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">patrice</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0005">
+               <term xml:lang="grc">ἀνθύπατος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">anthypatos</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0006">
+               <term xml:lang="grc">ἀνθύπατος, πατρίκιος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">anthypatos patrice</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0007">
+               <term xml:lang="grc">ἀπò ἐπάρχων</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">apo éparchôn</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0008">
+               <term xml:lang="grc">ἀπò ὑπάρχων</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">apo hyparchôn</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0009">
+               <term xml:lang="grc">ἀπò ὑπάτων</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">apo hypatôn</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0010">
+               <term xml:lang="grc">αὐγούστα</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">augousta</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0011">
+               <term xml:lang="grc">αὔγουστος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">augoustos</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0012">
+               <term xml:lang="grc">αὐτοκρατόρισσα</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">autokratôrissa</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0013">
+               <term xml:lang="grc">αὐτοκράτωρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">autokratôr</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0014">
+               <term xml:lang="grc">βασλνίτωρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">balnitor</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0015">
+               <term xml:lang="grc">βασλνίτωρ, βασιλικὸς</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">balnitor impérial</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0016">
+               <term xml:lang="grc">βασιλεωπάτωρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">basileopátôr</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0017">
+               <term xml:lang="grc">βεστάρχης</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">vestarque</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0018">
+               <term xml:lang="grc">βέστης</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">vestès</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0019">
+               <term xml:lang="grc">βεστήτωρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">vestitôr</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0020">
+               <term xml:lang="grc">βεστήτωρ, βασιλικός</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">vestitôr impérial</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0021">
+               <term xml:lang="grc">δέσποινα</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">despoina</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0022">
+               <term xml:lang="grc">δεσπότης </term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">despotès</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0023">
+               <term xml:lang="grc">δισύπατος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">dishypatos</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0024">
+               <term xml:lang="grc">ἐπί τοῦ μαγγλαβίου</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">épi tou manglabiou</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0025">
+               <term xml:lang="grc">ἐξουσιαστής</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">exousiastès</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0026">
+               <term xml:lang="grc">ἐξουσιοκράτωρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">exousiokratôr</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0027">
+               <term xml:lang="grc">ζωστὴ πατρικία</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">patricienne à ceinture</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0028">
+               <term xml:lang="grc">ἰλλούστριος</term>
+               <term xml:lang="en">illoustrios</term>
+               <term xml:lang="fr">illoustrios</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">illustre</term>
+            </item>
+            <item xml:id="d0029">
+               <term xml:lang="grc">καῖσαρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">césar</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0030">
+               <term xml:lang="grc">κανδιδάτος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">candidat</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0031">
+               <term xml:lang="grc">κανδιδάτος, βασιλικός</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">candidat</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0032">
+               <term xml:lang="grc">κόμης</term>
+               <term xml:lang="en">komes</term>
+               <term xml:lang="fr">komès</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">comes</term>
+            </item>
+            <item xml:id="d0033">
+               <term xml:lang="grc">κουβικουλάριος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">cubiculaire</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0034">
+               <term xml:lang="grc">κουβουκλήσιος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">koubouklèsios</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0035">
+               <term xml:lang="grc">κουροπαλάτης</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">curopalate</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0036">
+               <term xml:lang="grc">κουροπαλάτισσα</term>
+               <term xml:lang="en">kouropalatissa</term>
+               <term xml:lang="fr">kouropalatissa</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">curopalatissa</term>
+            </item>
+            <item xml:id="d0037">
+               <term xml:lang="grc">μαγίστρισσα</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">magistrissa</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0038">
+               <term xml:lang="grc">μάγιστρος</term>
+               <term xml:lang="en">magistros</term>
+               <term xml:lang="fr">magistre</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">magistro</term>
+            </item>
+            <item xml:id="d0039">
+               <term xml:lang="grc">μανδάτωρ, βασιλικός</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">mandatôr impérial</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0040">
+               <term xml:lang="grc">νωβελίσσιμος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">nobélissime</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0041">
+               <term xml:lang="grc">ὀστιάριος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">ostiaire</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0042">
+               <term xml:lang="grc">ὀστιάριος, βασιλικός</term>
+               <term xml:lang="en">ostiarios, imperial</term>
+               <term xml:lang="fr">ostiaire impérial</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">ostiario imperiale</term>
+            </item>
+            <item xml:id="d0043">
+               <term xml:lang="grc">πανυπερσεβάστη</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">panhypersébastè</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0044">
+               <term xml:lang="grc">πανυπερσέβαστος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">panhypersébaste</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0045">
+               <term xml:lang="grc">πανυπέρτιμος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">panhypertime</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0046">
+               <term xml:lang="grc">πατρικία</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">patricienne</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0047">
+               <term xml:lang="grc">πατρίκιος</term>
+               <term xml:lang="en">patrikios</term>
+               <term xml:lang="fr">patrice</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">patrizio</term>
+            </item>
+            <item xml:id="d0048">
+               <term xml:lang="grc">πατρίκιος, μάγιστρος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">patrice et magistre</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0049">
+               <term xml:lang="grc">πραιπόσιτος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">préposite</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0050">
+               <term xml:lang="grc">πριμικήριος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">primicier</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0051">
+               <term xml:lang="grc">πρόεδρος</term>
+               <term xml:lang="en">proedros</term>
+               <term xml:lang="fr">proèdre</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">proedro</term>
+            </item>
+            <item xml:id="d0052">
+               <term xml:lang="grc">πρωτοανθύπατος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protoanthypatos</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0053">
+               <term xml:lang="grc">πρωτοκουροπαλάτης</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protokouropalate</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0054">
+               <term xml:lang="grc">πρωτοκουροπαλάτισσα</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">prôtokouropalatissa</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0055">
+               <term xml:lang="grc">πρωτοβεστάρχης</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protovestarque</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0056">
+               <term xml:lang="grc">πρωτοβέστης</term>
+               <term xml:lang="en">protovestes</term>
+               <term xml:lang="fr">protovestès</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">protoveste</term>
+            </item>
+            <item xml:id="d0057">
+               <term xml:lang="grc">πρωτονωβελισσίμη</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protonobellisima</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0058">
+               <term xml:lang="grc">πρωτονωβελίσσιμος</term>
+               <term xml:lang="en">protonobelissimos</term>
+               <term xml:lang="fr">protonobélissime</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">protonobilissimo</term>
+            </item>
+            <item xml:id="d0059">
+               <term xml:lang="grc">πρωτονωβελισσιμουπέρτατος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protonobellissimohypertatos</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0060">
+               <term xml:lang="la">protonobilissimus, imperialis</term>
+               <term xml:lang="en">protonobelissimos, imperial</term>
+               <term xml:lang="fr">protonobélissime impérial</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">protonobilissimo imperiale</term>
+            </item>
+            <item xml:id="d0061">
+               <term xml:lang="grc">πρωτοπανσέβαστος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protopansébastohypertatos</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0062">
+               <term xml:lang="grc">πρωτοπροέδρισσα</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protoproedrisssa</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">protoproedro</term>
+            </item>
+            <item xml:id="d0063">
+               <term xml:lang="grc">πρωτοπρόεδρος</term>
+               <term xml:lang="en">protoproedros</term>
+               <term xml:lang="fr">protoproèdre</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">protoproedro</term>
+            </item>
+            <item xml:id="d0064">
+               <term xml:lang="grc">πρωτοσέβαστος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protosébaste</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">protoproedro</term>
+            </item>
+            <item xml:id="d0065">
+               <term xml:lang="grc">πρῶτος σεβαστῶν</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protosébaste</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0066">
+               <term xml:lang="grc">πρωτοσπαθάριος</term>
+               <term xml:lang="en">protospatharios</term>
+               <term xml:lang="fr">protospathaire</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">protospatario</term>
+            </item>
+            <item xml:id="d0067">
+               <term xml:lang="grc">πρωτοσπαθάριος, βασιλικός</term>
+               <term xml:lang="en">protospatharios, imperial</term>
+               <term xml:lang="fr">protospathaire impérial</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">protospatario imperiale</term>
+            </item>
+            <item xml:id="d0068">
+               <term xml:lang="grc">πρωτοστράτωρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protostrator</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0069">
+               <term xml:lang="grc">πρωτοστρατόρισσα</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">protostratorissa</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0070">
+               <term xml:lang="grc">ῥαίκτωρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">recteur </term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0071">
+               <term xml:lang="grc">σεβαστή</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">sébastè</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0072">
+               <term xml:lang="grc">σεβαστοκράτωρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">sébastokrator</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0073">
+               <term xml:lang="grc">σεβαστοκρατόρισσα</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">sébastokratorissa</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0074">
+               <term xml:lang="grc">σεβαστοφόρος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">sébastophore</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0075">
+               <term xml:lang="grc">σεβαστός</term>
+               <term xml:lang="en">sebastos</term>
+               <term xml:lang="fr">sébaste</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">sebaste</term>
+            </item>
+            <item xml:id="d0076">
+               <term xml:lang="grc">σιλεντιάριος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">silentiaire</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0077">
+               <term xml:lang="grc">σιλεντιάριος, βασιλικός</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">silentiaire impérial</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0078">
+               <term xml:lang="grc">σπαθάριος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">spathaire</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0079">
+               <term xml:lang="grc">σπαθάριος, βασιλικός</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">spathaire impérial</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0080">
+               <term xml:lang="grc">σπαθαροκανδιδᾶτος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">spatharocandidat</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0081">
+               <term xml:lang="grc">σπαθαροκανδιδᾶτος, βασιλικός</term>
+               <term xml:lang="en">spatharokandidatos, imperial</term>
+               <term xml:lang="fr">spatharocandidat impérial</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">spatarocandidato imperiale</term>
+            </item>
+            <item xml:id="d0082">
+               <term xml:lang="grc">σπαθαροκουβικουλάριος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">spatharocubiculaire</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0083">
+               <term xml:lang="grc">στρατηλάτης</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">stratèlate</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0084">
+               <term xml:lang="grc">στράτωρ</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">stratôr</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0085">
+               <term xml:lang="grc">σύγκελλος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">syncelle</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0086">
+               <term xml:lang="grc">σχολαστικός</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">scolastique</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0087">
+               <term xml:lang="grc">ὑπατικός</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">hypatikos</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0088">
+               <term xml:lang="grc">ὑπάτισσα</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">hypatissa</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="d0089">
+               <term xml:lang="grc">ὕπατος</term>
+               <term xml:lang="en">hypatos</term>
+               <term xml:lang="fr">hypatos</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">ipato</term>
+            </item>
+            <item xml:id="d0090">
+               <term xml:lang="grc">ὑπέρτιμος</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">hypertime</term>
+               <term xml:lang="de">xxx</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">xxx</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+         </list>
+      </body>
+   </text>
 </TEI>
