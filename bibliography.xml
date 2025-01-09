@@ -1296,6 +1296,20 @@
                     <date>2008</date>
                     <biblScope unit="page">p. 139-154</biblScope>
                 </bibl>
+                <bibl type="bookSection" xml:id="Cheynet2008d"
+                    corresp="http://zotero.org/users/3169239/items/Q47QUT3C">
+                    <bibl type="abbrev">Cheynet, 2008d</bibl>
+                    <author><forename>J.-Cl.</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="a">Le rôle des femmes de l’aristocratie d’après les sceaux</title>
+                    <author><forename>J.-Cl.</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="m">La société byzantine: l’apport des sceaux</title>
+                    <pubPlace>Paris</pubPlace>
+                    <date>2008</date>
+                    <biblScope unit="page">p. 175-195</biblScope>
+                    <series><title level="s">Bilans de recherche 3</title></series>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Cheynet2012"
                     corresp="http://zotero.org/users/3169239/items/SG4U3DHT">
                     <bibl type="abbrev">Cheynet, 2012</bibl>
