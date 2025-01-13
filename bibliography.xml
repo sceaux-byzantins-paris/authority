@@ -973,6 +973,20 @@
                     <date>1998</date>
                     <biblScope unit="page">p. 50-66</biblScope>
                 </bibl>
+                
+                <!-- Bon -->
+                
+                <bibl type="book" xml:id="Bon1951">
+                    <bibl type="abbrev">Bon, 1951</bibl>
+                    <author><forename>A.</forename>
+                        <surname>Bon</surname></author>
+                    <title level="m">Le Péloponnèse byzantin jusqu'en 1204</title>
+                    <pubPlace xml:lang="en">Paris</pubPlace>
+                    <pubPlace xml:lang="fr">Paris</pubPlace>
+                    <publisher>Presses Universitaires de France</publisher>
+                    <date>1951</date>
+                    <series><title>Bibliothèque byzantine. Études 1</title></series>
+                </bibl>
 
                 <!-- Bourdara -->
 
@@ -2467,6 +2481,18 @@
                     <date>1932</date>
                     <series><title level="s">Archives de l’Orient chrétien 2</title></series>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Laurent1933"
+                    corresp="http://zotero.org/users/3169239/items/WHLBV7L9">
+                    <bibl type="abbrev">Laurent, 1933</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Laurent</surname></author>
+                    <title level="a">Sceaux byzantins inédits</title>
+                    <title level="j">Byzantinische Zeitschrift</title>
+                    <biblScope unit="volume">33</biblScope>
+                    <date>1933</date>
+                    <biblScope unit="page">p. 331-363</biblScope> Available at <ref
+                        target="https://doi.org/10.1515/byzs.1933.33.2.331"
+                        >De Gruyter</ref>. </bibl>
                 <bibl type="journalArticle" xml:id="Laurent1939"
                     corresp="http://zotero.org/users/3169239/items/WHLBV7L9">
                     <bibl type="abbrev">Laurent, 1939</bibl>
