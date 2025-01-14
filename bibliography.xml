@@ -559,6 +559,23 @@
                     <series><title level="s">Texts and studies of the history of Cyprus
                         47</title></series>
                 </bibl>
+                <bibl type="book" xml:id="Metcalf2014"
+                    corresp="http://zotero.org/users/3169239/items/4JQF5BW2">
+                    <bibl type="abbrev">Metcalf, Cyprus, 2014</bibl>
+                    <author><forename>D. M.</forename>
+                        <surname>Metcalf</surname></author>
+                    <title level="m">Byzantine lead seals from Cyprus</title>
+                    <biblScope unit="part">2</biblScope>
+                    <!--<idno type="ISBN">9963-0-8082-0</idno>-->
+                    <!--<editor><forename>Jean-Claude</forename><surname>Cheynet</surname></editor>
+                        <editor><forename>Andreas
+                            G.</forename><surname>Pitsillides</surname></editor>-->
+                    <pubPlace xml:lang="en">Nicosia</pubPlace>
+                    <pubPlace xml:lang="fr">Nicosie</pubPlace>
+                    <publisher>Cyprus Research Centre</publisher>
+                    <date>2014</date>
+                    <series><title level="s">Texts and Studies of the History of Cyprus 73</title></series>
+                </bibl>
 
                 <!-- Orghidan -->
 
