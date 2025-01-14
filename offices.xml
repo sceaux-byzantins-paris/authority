@@ -9,6 +9,7 @@
             <editor xml:id="AS">Alessio Sopracasa</editor>
             <editor xml:id="MF">Martina Filosa</editor>
             <editor xml:id="SM">Sima Meziridou</editor>
+            <editor xml:id="PE">Pia Evening</editor>
          </titleStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
@@ -30,7 +31,6 @@
     -->
    <text>
       <body>
-            <!-- ********** CIVIL ********** -->
          <list>
             <item xml:id="of0001">
                <term xml:lang="la">admissionalis</term>
@@ -307,7 +307,7 @@
                <term xml:lang="grc">ἀρχίατρος</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">archiatros</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">archiatros</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
@@ -902,7 +902,7 @@
                <term xml:lang="grc">ἰατρός</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">médecin</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">Arzt</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
@@ -911,7 +911,7 @@
                <term xml:lang="grc">ἰατρός, βασιλικός</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">médecin impérial</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">Arzt, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
@@ -920,7 +920,7 @@
                <term xml:lang="grc">καγκελλάριος</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">kankellarios</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">kankellarios</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
@@ -929,7 +929,7 @@
                <term xml:lang="grc">πρωτοκαγκελλάριος</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">prôtokankellarios</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">protokankellarios</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
@@ -1089,18 +1089,18 @@
             </item>
             <item xml:id="of0112">
                <term xml:lang="grc">κριτής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">judge</term>
                <term xml:lang="fr">juge</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">krites</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
-               <term xml:lang="it">xxx</term>
+               <term xml:lang="it">giudice</term>
             </item>
             <item xml:id="of0113">
                <term xml:lang="grc">κτημάτινος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">ktematinos</term>
                <term xml:lang="fr">ktèmatinos</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">ktematinos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
@@ -1153,12 +1153,12 @@
             <item xml:id="of0119">
                <term xml:lang="grc">μαγίστρος</term>
                <term xml:lang="la">magister</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">magistros</term>
                <term xml:lang="fr">maître</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">magistros</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
-               <term xml:lang="it">xxx</term>
+               <term xml:lang="it">magistros</term>
             </item>
             <item xml:id="of0120">
                <term xml:lang="grc">μαγιστριανός</term>
@@ -1191,7 +1191,7 @@
                <term xml:lang="grc">μακελλάριος</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">boucher</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">makellarios</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
