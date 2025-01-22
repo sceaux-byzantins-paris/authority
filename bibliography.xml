@@ -991,20 +991,6 @@
                     <biblScope unit="page">p. 50-66</biblScope>
                 </bibl>
 
-                <!-- Bon -->
-
-                <bibl type="book" xml:id="Bon1951">
-                    <bibl type="abbrev">Bon, 1951</bibl>
-                    <author><forename>A.</forename>
-                        <surname>Bon</surname></author>
-                    <title level="m">Le Péloponnèse byzantin jusqu'en 1204</title>
-                    <pubPlace xml:lang="en">Paris</pubPlace>
-                    <pubPlace xml:lang="fr">Paris</pubPlace>
-                    <publisher>Presses Universitaires de France</publisher>
-                    <date>1951</date>
-                    <series><title>Bibliothèque byzantine. Études 1</title></series>
-                </bibl>
-
                 <!-- Bourdara -->
 
                 <bibl type="book" xml:id="Bourdara1981"
@@ -2302,12 +2288,11 @@
                     <author><forename>C.</forename>
                         <surname>Malatras</surname></author>
                     <title level="m">Τακτικόν : μελέτες για την προσωπογραφία και διοίκηση των
-                        βυζαντινών θεμάτων = Studies on the prosopography and administration of the
-                        byzantine themata</title>
+                        βυζαντινών θεμάτων = Studies on the prosopography and administration of
+                        the byzantine themata</title>
                     <pubPlace xml:lang="en">Athens</pubPlace>
                     <pubPlace xml:lang="fr">Athènes</pubPlace>
-                    <publisher>Ακαδημία Αθηνών, Κέντρο Έρευνας της Βυζαντινής και Μεταβυζαντινής
-                        Τέχνης</publisher>
+                    <publisher>Ακαδημία Αθηνών, Κέντρο Έρευνας της Βυζαντινής και Μεταβυζαντινής Τέχνης</publisher>
                     <date>2021</date>
                     <series><title level="s">Византийская библиотека. Исследования</title></series>
                 </bibl>
@@ -2499,17 +2484,6 @@
                     <date>1932</date>
                     <series><title level="s">Archives de l’Orient chrétien 2</title></series>
                 </bibl>
-                <bibl type="journalArticle" xml:id="Laurent1933"
-                    corresp="http://zotero.org/users/3169239/items/WHLBV7L9">
-                    <bibl type="abbrev">Laurent, 1933</bibl>
-                    <author><forename>V.</forename>
-                        <surname>Laurent</surname></author>
-                    <title level="a">Sceaux byzantins inédits</title>
-                    <title level="j">Byzantinische Zeitschrift</title>
-                    <biblScope unit="volume">33</biblScope>
-                    <date>1933</date>
-                    <biblScope unit="page">p. 331-363</biblScope> Available at <ref
-                        target="https://doi.org/10.1515/byzs.1933.33.2.331">De Gruyter</ref>. </bibl>
                 <bibl type="journalArticle" xml:id="Laurent1939"
                     corresp="http://zotero.org/users/3169239/items/WHLBV7L9">
                     <bibl type="abbrev">Laurent, 1939</bibl>
@@ -3157,27 +3131,13 @@
 
                 <!-- Schlumberger -->
 
-                <bibl type="journalArticle" xml:id="Schlumberger1880">
-                    <bibl type="abbrev">Schlumberger, 1880</bibl>
-                    <author><forename>G.</forename>
-                        <surname>Schlumberger</surname></author>
-                    <title level="a">Monuments numismatiques et sphragistiques du Moyen Âge
-                        byzantin</title>
-                    <title level="j">Revue archéologique</title>
-                    <biblScope unit="volume" xml:lang="fr">n.s., 40 (28e année)</biblScope>
-                    <biblScope unit="volume" xml:lang="en">n.s., 40 (28th year)</biblScope>
-                    <date>1880</date>
-                    <biblScope unit="page">p. 193-212</biblScope> Available at <ref
-                        target="https://gallica.bnf.fr/ark:/12148/bpt6k203609g/f196.item"
-                        >Gallica.fr</ref>
-                </bibl>
                 <bibl type="journalArticle" xml:id="Schlumberger1881"
                     corresp="http://zotero.org/users/3169239/items/6IE2NG8N">
                     <bibl type="abbrev">Schlumberger, 1881</bibl>
                     <author><forename>G.</forename>
                         <surname>Schlumberger</surname></author>
-                    <title level="a">Deux chefs normands des armées byzantines au XIe siècle: sceaux
-                        de Hervé et de Roussel de Bailleul</title>
+                    <title level="a">Deux chefs normands des armées byzantines au XIe siècle :
+                        sceaux de Hervé et de Roussel de Bailleul</title>
                     <title level="j">Revue historique</title>
                     <biblScope unit="volume">16 (6e année)</biblScope>
                     <date>1881</date>
@@ -3192,28 +3152,6 @@
                     <pubPlace>Paris</pubPlace>
                     <publisher>E. Leroux</publisher>
                     <date>1884</date>
-                </bibl>
-                <bibl type="journalArticle" xml:id="Schlumberger1884a">
-                    <bibl type="abbrev">Schlumberger, 1884a</bibl>
-                    <author><forename>G.</forename>
-                        <surname>Schlumberger</surname></author>
-                    <title level="a">Sigillographie byzantine des ducs et catépans d’Antioche, des
-                        patriarches d’Antioche et des ducs et catépans de Chypre</title>
-                    <title level="j">Archives de l’Orient Latin</title>
-                    <biblScope unit="volume">II</biblScope>
-                    <date>1884</date>
-                    <biblScope unit="page">p. 423-438</biblScope> Available at <ref
-                        target="https://books.google.fr/books?id=TMAsAAAAIAAJ&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"
-                        >Google Books</ref>
-                </bibl>
-                <bibl type="book" xml:id="Schlumberger1895">
-                    <bibl type="abbrev">Schlumberger, 1895</bibl>
-                    <author><forename>G.</forename>
-                        <surname>Schlumberger</surname></author>
-                    <title level="m">Mélanges d’archéologie byzantine, première série</title>
-                    <pubPlace>Paris</pubPlace>
-                    <publisher>E. Leroux</publisher>
-                    <date>1895</date>
                 </bibl>
 
                 <!-- Seibt -->
@@ -4456,12 +4394,6 @@
                     <pubPlace xml:lang="en">Munich</pubPlace>
                     <pubPlace xml:lang="fr">Munich</pubPlace> available at <ref
                         target="https://www.coinhirsch.de/index.php">coinhirsch.de</ref>. </bibl>
-                <bibl xml:id="KMK">
-                    <bibl type="abbrev">Kölner Münzkabinett</bibl>
-                    <title level="m">Kölner Münzkabinett</title>
-                    <pubPlace xml:lang="en">Cologne</pubPlace>
-                    <pubPlace xml:lang="fr">Cologne</pubPlace> available at <ref
-                        target="https://www.koelner-muenzkabinett.de/">koelner-muenzkabinett.de</ref>. </bibl>
                 <bibl xml:id="Münz">
                     <bibl type="abbrev">Münzzentrum Rheinland</bibl>
                     <title level="m">Münzzentrum Rheinland</title>
