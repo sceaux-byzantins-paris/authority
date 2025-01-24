@@ -786,12 +786,14 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Boléron</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Βολερόν</placeName>
             </place>
             <place xml:id="geo0095">
                <placeName xml:lang="grc">Θυνίας</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Thynias</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Θυνίας</placeName>
                <!-- Pleiades, 3 entries:
                     https://pleiades.stoa.org/places/511443
                     https://pleiades.stoa.org/places/511444
@@ -803,12 +805,14 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(thème des) Klimata</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">τα Κλίματα (θέμα)</placeName>
             </place>
             <place xml:id="geo0097">
                <placeName xml:lang="grc">Tεφρική</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Téphrikè</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Tεφρική</placeName>
             </place>
             <place xml:id="geo0098">
                <placeName xml:lang="grc">Νουμιδία</placeName>
@@ -816,37 +820,43 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Numidie</placeName>
                <placeName xml:lang="it">Numidia</placeName>
+               <placeName xml:lang="el">Νουμιδία</placeName>
             </place>
             <place xml:id="geo0099">
                <placeName xml:lang="grc">Θεσσαλονίκη</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Thessalonique</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Θεσσαλονίκη</placeName>
             </place>
             <place xml:id="geo0100">
                <placeName xml:lang="grc">Σεβάστεια</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Sébastè</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σεβάστεια</placeName>
             </place>
             <place xml:id="geo0101">
                <placeName xml:lang="grc">Χαρπεζίκιον</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Charpézikion</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Χαρπεζίκιον</placeName>
             </place>
             <place xml:id="geo0102">
                <placeName xml:lang="grc">ἐπαρχίαι</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">éparchies</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">επαρχίαι</placeName>
             </place>
             <place xml:id="geo0103">
                <placeName xml:lang="grc">Ἀχυράους</placeName>
                <!-- genitive -->
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Achyraous</placeName>
                <placeName xml:lang="fr">Achyraus</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Αχυράους</placeName>
                <idno type="geonames">322165</idno>
                <!-- according to the PBW) -->
                <link target="https://www.geonames.org/322165/balikesir.html"/>
@@ -856,12 +866,14 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Tarôn</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ταρών</placeName>
             </place>
             <place xml:id="geo0105">
                <placeName xml:lang="grc">Τύρος</placeName>
                <placeName xml:lang="en">Tyre</placeName>
                <placeName xml:lang="fr">Tyr</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Τύρος</placeName>
                <idno type="pleiades">678437</idno>
                <link target="https://pleiades.stoa.org/places/678437"/>
                <idno type="geonames">267008</idno>
@@ -873,7 +885,7 @@
                <placeName xml:lang="fr">Chônes</placeName>
                <placeName xml:lang="de">Chonai</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Χώναι</placeName>
                <placeName xml:lang="it">Chonai</placeName>
                <idno type="geonames">311962</idno>
                <link target="https:www.geonames.org/311962"/>
@@ -907,12 +919,14 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Eirènoupolis d'Isaurie</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ειρηνούπολη Ισαυρίας</placeName>
             </place>
             <place xml:id="geo0110">
                <placeName xml:lang="grc">Εἰρηνούπολης</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Eirènoupolis de Cilicie</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ειρηνούπολη Κιλικίας</placeName>
             </place>
             <place xml:id="geo0111"><!-- see also geo0228 -->
                <placeName xml:lang="grc">Ἔφεσος</placeName>
@@ -920,7 +934,7 @@
                <placeName xml:lang="fr">Éphèse</placeName>
                <placeName xml:lang="de">Ephesos</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Εφεσος</placeName>
                <placeName xml:lang="it">Efeso</placeName>
                <idno type="pleiades">599612</idno>
                <link target="https://pleiades.stoa.org/places/599612"/>
@@ -932,6 +946,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Lampsaque</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Λάμψακος</placeName>
             </place>
             <place xml:id="geo0113">
                <placeName xml:lang="grc">Μαγνησία τοῦ Μαιάνδρου</placeName>
@@ -939,6 +954,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Magnésie du Méandre</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μαγνησία του Μαιάνδρου</placeName>
             </place>
             <place xml:id="geo0114">
                <placeName xml:lang="grc">Mαγνησία ἡ πρὸς Σιπύλῳ</placeName>
@@ -946,12 +962,14 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Magnésie du Sipyle</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μαγνησία επί Σιπύλω ή Μαγνησία του Σιπύλου</placeName>
             </place>
             <place xml:id="geo0115">
                <placeName xml:lang="grc">Νύσσα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Nysse</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Νύσσα</placeName>
             </place>
             <place xml:id="geo0116">
                <placeName xml:lang="grc">Σάρδεις</placeName>
@@ -959,7 +977,7 @@
                <placeName xml:lang="fr">Sardes</placeName>
                <placeName xml:lang="de">Sardeis</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Σάρδεις</placeName>
                <placeName xml:lang="it">Sardi</placeName>
                <idno type="pleiades">550867</idno>
                <link target="https://pleiades.stoa.org/places/550867"/>
@@ -973,12 +991,14 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Siôn</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σιών</placeName>
             </place>
             <place xml:id="geo0118">
                <placeName xml:lang="grc">Ὤλβα</placeName>
                <placeName xml:lang="en">Olba</placeName>
                <placeName xml:lang="fr">Olba</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Όλβη (ή Όλβα) </placeName>
                <idno type="pleiades">648725</idno>
                <!-- to be verified -->
                <link target="https://pleiades.stoa.org/places/648725"/>
@@ -991,7 +1011,7 @@
                <placeName xml:lang="fr">Tibérioupolis</placeName>
                <placeName xml:lang="de">Tiberiopolis</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">Τιβεριούπολις</placeName>
+               <placeName xml:lang="el">Τιβεριούπολη</placeName>
                <placeName xml:lang="it">Tiberiopoli</placeName>
                <idno type="pleiades">491742</idno>
                <link target="https://pleiades.stoa.org/places/491742"/>
@@ -1001,18 +1021,21 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Tralles</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Τράλλεις</placeName>
             </place>
             <place xml:id="geo0121">
-               <placeName xml:lang="grc">Ἄβυδος</placeName>
+               <placeName xml:lang="grc">Abydos</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Abydos</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Άβυδος</placeName>
             </place>
             <place xml:id="geo0122">
                <placeName xml:lang="grc">Ἀλίνα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Alina</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Αλίνα</placeName>
             </place>
             <place xml:id="geo0123">
                <placeName xml:lang="grc">Ἀμισός (Ἀμινσός)</placeName>
@@ -1021,6 +1044,7 @@
                <placeName xml:lang="fr">Amisos (Aminsos)</placeName>
                <!-- Aminsos too? -->
                <placeName xml:lang="it">Amisos (Aminsos)</placeName>
+               <placeName xml:lang="el">Αμισός ή Ἀμινσός</placeName>
                <idno type="pleiades">857024</idno>
                <link target="https://pleiades.stoa.org/places/857024"/>
                <idno type="geonames">740264</idno>
@@ -1031,48 +1055,56 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Andrinople</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Αδριανούπολη</placeName>
             </place>
             <place xml:id="geo0125">
                <placeName xml:lang="grc">Χρήπος</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Chrèpos</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Χρήπος ή Χρέπος</placeName>
             </place>
             <place xml:id="geo0126">
                <placeName xml:lang="grc">Χριστούπολις</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Christoupolis</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Χριστούπολη</placeName>
             </place>
             <place xml:id="geo0127">
                <placeName xml:lang="grc">Χρυσόπολις</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Chrysopolis</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Χρυσόπολη ή Χρυσούπολη</placeName>
             </place>
             <place xml:id="geo0128">
                <placeName xml:lang="grc">Δερζηνή</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Derzénè</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Δερζηνή</placeName>
             </place>
             <place xml:id="geo0129">
                <placeName xml:lang="grc">Ἱέρόν</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Hiéron</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ιερόν</placeName>
             </place>
             <place xml:id="geo0130">
                <placeName xml:lang="grc">Ἰκόνιον</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Ikonion</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ικόνιο</placeName>
             </place>
             <place xml:id="geo0131">
                <placeName xml:lang="grc">Κίνωλις</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Kinolis</placeName>
                <placeName xml:lang="fr">Kinôlès</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Κίνωλις</placeName>
                <idno type="pleiades">844984</idno>
                <link target="https://pleiades.stoa.org/places/844984"/>
                <idno type="geonames">742716</idno>
@@ -1086,24 +1118,28 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Mélitène</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μελιτηνή</placeName>
             </place>
             <place xml:id="geo0133">
                <placeName xml:lang="grc">Μεσάνακτα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Mésanakta</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μεσάνακτα</placeName>
             </place>
             <place xml:id="geo0134">
                <placeName xml:lang="grc">Μεσημβρία</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Mésembria</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μεσημβρία</placeName>
             </place>
             <place xml:id="geo0135">
                <placeName xml:lang="grc">Νίκαια</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Nicée</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Νίκαια</placeName>
             </place>
             <place xml:id="geo0136">
                <placeName xml:lang="grc">Πρεσθλαβίτζα</placeName>
@@ -1111,6 +1147,7 @@
                <placeName xml:lang="fr">Presthlavitsa (Petite Preslav)</placeName>
                <!-- ??? -->
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Πρεσθλαβίτζα</placeName>
                <idno type="pleiades"/>
             </place>
             <place xml:id="geo0137">
@@ -1118,6 +1155,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Pylai</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Πύλαι</placeName>
                <idno type="pleiades">511389</idno>
                <link target="https://pleiades.stoa.org/places/511389"/>
                <idno type="geonames">738025</idno>
@@ -1125,9 +1163,12 @@
             </place>
             <place xml:id="geo0138">
                <placeName xml:lang="grc">Ῥαίδεστος</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Rhaidestos</placeName>
                <placeName xml:lang="fr">Rhaidestos</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ραιδεστός</placeName>
+               <idno type="pleiades">511187</idno>
+               <link target="https://pleiades.stoa.org/places/511187"/>
             </place>
             <place xml:id="geo0139">
                <placeName xml:lang="grc">Ῥόδος</placeName>
@@ -1147,24 +1188,28 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Sinope</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σινώπη</placeName>
             </place>
             <place xml:id="geo0141">
                <placeName xml:lang="grc">Σμύρνη</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Smyrne</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σμύρνη</placeName>
             </place>
             <place xml:id="geo0142">
                <placeName xml:lang="grc">Στενόν</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Détroit</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Στενόν</placeName>
             </place>
             <place xml:id="geo0143">
                <placeName xml:lang="grc">Τρόπαια</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Tropaia</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Τρόπαια</placeName>
             </place>
             <place xml:id="geo0144">
                <placeName xml:lang="grc">Αἴνος</placeName>
@@ -1234,30 +1279,35 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(évêché d') Bélikeia</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Βελικία</placeName>
             </place>
             <place xml:id="geo0149">
                <placeName xml:lang="grc">Βιζύη</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Bizyé</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Βιζύη</placeName>
             </place>
             <place xml:id="geo0150">
                <placeName xml:lang="grc">Βουλγαρία</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Bulgarie</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Βουλγαρία</placeName>
             </place>
             <place xml:id="geo0151">
                <placeName xml:lang="grc">Κόρινθος</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Corinthe</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Κόρινθος</placeName>
             </place>
             <place xml:id="geo0152">
                <placeName xml:lang="grc">Διδυμότειχον</placeName>
                <placeName xml:lang="en">Didymoteichon</placeName>
                <placeName xml:lang="fr">Didymotique</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Διδυμότειχο</placeName>
                <idno type="pleiades"/>
             </place>
             <place xml:id="geo0153">
@@ -1265,6 +1315,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché de) Crète</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Κρήτη</placeName>
             </place>
             <place xml:id="geo0154">
                <placeName xml:lang="grc">Χαλκηδών</placeName>
@@ -1272,7 +1323,7 @@
                <placeName xml:lang="fr">Chalcédoine</placeName>
                <placeName xml:lang="de">Chalkedon</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">Χαλκηδών</placeName>
+               <placeName xml:lang="el">Χαλκηδών (Χαλκηδόνα)</placeName>
                <placeName xml:lang="it">Calcedone</placeName>
                <idno type="pleiades">520988</idno>
                <link target="https://pleiades.stoa.org/places/520988"/>
@@ -1300,18 +1351,21 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché d') Héraclée de Thrace</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ηράκλεια Θράκης</placeName>
             </place>
             <place xml:id="geo0157">
                <placeName xml:lang="grc">Ἡράκλεια Ποντική</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(évêché d') Héraclée du Pont</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ηράκλεια Ποντική</placeName>
             </place>
             <place xml:id="geo0158"><!-- to be verified -->
                <placeName xml:lang="grc">Καμάχαι</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Kamachai</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Κάμαχα</placeName><!--Ι found a Κάμαχα, sometimes Kamachon or Kamachos, mod. Kemah. Is it the same with Καμάχαι?,  to be verified as well-->
                <!-- possible Pleiades: https://pleiades.stoa.org/places/494577 -->
             </place>
             <place xml:id="geo0159">
@@ -1319,6 +1373,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Lacédémone</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Λακεδαίμων</placeName>
             </place>
             <place xml:id="geo0160">
                <placeName xml:lang="grc">Λάπαρα</placeName>
@@ -1326,7 +1381,7 @@
                <placeName xml:lang="fr">Lapara</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Λάπαρα (Λυκανδό)</placeName>
                <placeName xml:lang="it">Citro</placeName>
                <idno type="pleiades"/>
                <link/>
@@ -1342,7 +1397,7 @@
                <placeName xml:lang="fr">Léontopolis</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Λεοντόπολις</placeName>
                <placeName xml:lang="it">Leontopoli</placeName>
                <idno type="pleiades"/>
                <link/>
@@ -1357,7 +1412,7 @@
                <placeName xml:lang="fr">Lytitza</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Λυτίτζα</placeName>
                <placeName xml:lang="it">Lytitza</placeName>
                <idno type="pleiades"/>
                <link/>
@@ -1372,7 +1427,7 @@
                <placeName xml:lang="fr">Makrigou Komè</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Μακρίγου Κώμη</placeName>
                <placeName xml:lang="it">Makrigou Komes</placeName>
                <idno type="pleiades"/>
                <link/>
@@ -1401,6 +1456,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché de) Marônée</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μαρώνεια</placeName>
             </place>
             <place xml:id="geo0166">
                <placeName xml:lang="grc">Μήλος</placeName>
@@ -1408,7 +1464,7 @@
                <placeName xml:lang="fr">Mèlos</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Μήλος</placeName>
                <placeName xml:lang="it">Milos</placeName>
                <idno type="pleiades">570475</idno>
                <link target="https://pleiades.stoa.org/places/570475"/>
@@ -1422,6 +1478,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Méthymne</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μήθυμνα</placeName>
             </place>
             <place xml:id="geo0168">
                <placeName xml:lang="grc">Νεοκαισάρεια</placeName>
@@ -1443,18 +1500,21 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Nicomédie</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Νικομήδεια</placeName>
             </place>
             <place xml:id="geo0170">
                <placeName xml:lang="grc">Ὄρυμνα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Orymna</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Όρυμνα</placeName>
             </place>
             <place xml:id="geo0171">
                <placeName xml:lang="grc">Παϊπὲρτ</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Païpert</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Παϊπὲρτ</placeName>
                <idno type="pleiades"/>
             </place>
             <place xml:id="geo0172"> <!--same as Theodosiopolis?-->
@@ -1463,7 +1523,7 @@
                <placeName xml:lang="fr">Panion</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Πάνιον</placeName>
                <placeName xml:lang="it">Panion</placeName>
                <idno type="pleiades">511351</idno>
                <link target="https://pleiades.stoa.org/places/511351"/>
@@ -1491,7 +1551,7 @@
                <placeName xml:lang="fr">Phthia</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Φθία</placeName>
                <placeName xml:lang="it">Phthia</placeName>
                <idno type="pleiades">541052</idno>
                <link target="https://pleiades.stoa.org/places/541052"/>
@@ -1504,6 +1564,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Rhaidestos</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ραιδεστός</placeName>
             </place>
             <place xml:id="geo0176">
                <placeName xml:lang="grc">Φιλιππούπολις</placeName>
@@ -1526,6 +1587,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Panormos</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Πάνορμος</placeName>
                <idno type="pleiades"/>
                <!-- seems not to be present among the long list of Panormos -->
                <link/>
@@ -1538,7 +1600,7 @@
                <placeName xml:lang="fr">Tabia</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Ταβία</placeName>
                <placeName xml:lang="it">Tabia</placeName>
                <idno type="pleiades">619267</idno>
                <link target="https://pleiades.stoa.org/places/619267"/>
@@ -1552,6 +1614,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché de) Constantia</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Κωνσταντία</placeName>
             </place>
             <place xml:id="geo0180">
                <placeName xml:lang="grc">Ἀλάβανδα</placeName>
@@ -1559,6 +1622,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Alabanda</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Αλάβανδα</placeName>
                <idno type="pleiades">599479</idno>
                <link target="https://pleiades.stoa.org/places/599479"/>
                <idno type="geonames"/>
@@ -1569,6 +1633,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Adramyttion</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Αδραμύττιον</placeName>
             </place>
             <place xml:id="geo0182">
                <placeName xml:lang="grc">Ἀμάσεια</placeName>
@@ -1590,12 +1655,14 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Amorion</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Αμόριον</placeName>
             </place>
             <place xml:id="geo0184">
                <placeName xml:lang="grc">Ἄνκυρα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché de) Ancyre</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Άγκυρα</placeName>
             </place>
             <place xml:id="geo0185">
                <placeName xml:lang="grc">Ἀθῆναι</placeName>
@@ -1615,30 +1682,35 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Bithynie</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Βιθύνια</placeName>
             </place>
             <place xml:id="geo0187">
                <placeName xml:lang="grc">Χαλκηδών</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Chalcédoine</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Χαλκηδών (Xαλκηδόνα)</placeName>
             </place>
             <place xml:id="geo0188">
                <placeName xml:lang="grc">Χαλκίς</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Chalcis</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Χαλκίς</placeName>
             </place>
             <place xml:id="geo0189"><!-- but see geo0056 -->
                <placeName xml:lang="grc">Χερσόνησος</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Chersonèse</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Χερσόνησος</placeName>
             </place>
             <place xml:id="geo0190"><!-- add ref. to geo237, geo0238 -->
                <placeName xml:lang="grc">Κωνσταντινούπολις</placeName>
                <placeName xml:lang="en"/>
                <placeName xml:lang="fr">Constantinople</placeName>
                <placeName xml:lang="it">Costantinopoli</placeName>
+               <placeName xml:lang="el">Κωνσταντινούπολη</placeName>
                <idno type="pleiades">520998</idno>
                <link target="https://pleiades.stoa.org/places/520998"/>
                <idno type="geonames">745044</idno>
@@ -1649,18 +1721,21 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Gangres</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Γάγγρα</placeName>
             </place>
             <place xml:id="geo0192">
                <placeName xml:lang="grc">Ἑλενόπολις</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(évêché d') Hélènoupolis</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ελενόπολις </placeName>
             </place>
             <place xml:id="geo0193">
                <placeName xml:lang="grc">Γάζα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Gaza</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Γάζα </placeName>
             </place>
             <place xml:id="geo0194">
                <placeName xml:lang="grc">Ἰκόνιον</placeName>
@@ -1682,18 +1757,21 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché de) Justinianoupolis</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ιουστινιανούπολις</placeName>
             </place>
             <place xml:id="geo0196">
                <placeName xml:lang="grc">Κερασοῦς</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Cérasonte</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Κερασούς (Κερασούντα)</placeName>
             </place>
             <place xml:id="geo0197"><!-- see also geo0246 -->
                <placeName xml:lang="grc">Μυτιλήνη</placeName>
                <placeName xml:lang="en"/>
                <placeName xml:lang="fr">Mytilène</placeName>
                <placeName xml:lang="it">Mitilene</placeName>
+               <placeName xml:lang="el">Μυτιλήνη</placeName>
                <idno type="pleiades">550763</idno>
                <link target="https://pleiades.stoa.org/places/550763"/>
             </place>
@@ -1702,6 +1780,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Myra</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μύρα</placeName>
                <idno type="pleiades">639005</idno>
                <link target="https://pleiades.stoa.org/places/639005"/>
             </place>
@@ -1710,30 +1789,35 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Kynègion</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Κυνήγιον</placeName>
             </place>
             <place xml:id="geo0200">
                <placeName xml:lang="grc">Νουμέρικα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Noumérica</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Νουμέρικα</placeName>
             </place>
             <place xml:id="geo0201">
                <placeName xml:lang="grc">Πέργη</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché de) Pergè</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Πέργη</placeName>
             </place>
             <place xml:id="geo0202">
                <placeName xml:lang="grc">Σέρραι</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché de) Serrès</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σέρρες</placeName>
             </place>
             <place xml:id="geo0203">
                <placeName xml:lang="grc">Πόντος Εὔξεινος</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Pont-Euxin</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Πόντος Εύξεινος</placeName>
                <idno type="pleiades">1224</idno>
                <link target="https://pleiades.stoa.org/places/1224"/>
             </place>
@@ -1742,12 +1826,14 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(métropolite de) Sidé</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σίδη</placeName>
             </place>
             <place xml:id="geo0205">
                <placeName xml:lang="grc">Σκόπια</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Skopje</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σκόπια</placeName>
                <idno type="pleiades">501621</idno>
                <!-- not sure at all it is the right place -->
                <link target="https://pleiades.stoa.org/places/501621"/>
@@ -1760,42 +1846,49 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché de) Sotèropolis</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σωτηρόπολις</placeName>
             </place>
             <place xml:id="geo0207">
                <placeName xml:lang="grc">Σωζόπολις</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Sozopolis</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σωζόπολις</placeName>
             </place>
             <place xml:id="geo0208">
                <placeName xml:lang="grc">Συλλαῖον</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Syllaion</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Συλλαίον</placeName>
             </place>
             <place xml:id="geo0209">
                <placeName xml:lang="grc">Σύνναδα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">(archevêché de) Synnada</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Σύνναδα</placeName>
             </place>
             <place xml:id="geo0210">
                <placeName xml:lang="grc">Προῦσα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Prousa</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Προύσα</placeName>
             </place>
             <place xml:id="geo0211">
                <placeName xml:lang="grc">Τῖος</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Tios</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Τίος</placeName>
             </place>
             <place xml:id="geo0212">
                <placeName xml:lang="grc">Τροιζῆν</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Trézène</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Τροιζήν</placeName>
                <idno type="pleiades">570756</idno>
                <link target="https://pleiades.stoa.org/places/570756"/>
                <idno type="geonames">252573</idno>
@@ -1806,18 +1899,21 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Tarente</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Τάρας (Τάραντας)</placeName>
             </place>
             <place xml:id="geo0214">
                <placeName xml:lang="grc">Τραπεζοῦς</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Trébizonde</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Τραπεζούντα</placeName>
             </place>
             <place xml:id="geo0215">
                <placeName xml:lang="grc">Τριάσιτζα</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Triaditza</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Τριάσιτζα</placeName>
                <idno type="pleiades"/>
             </place>
             <place xml:id="geo0216">
@@ -1826,6 +1922,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Gortyna</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Γόρτυνα</placeName>
                <idno type="pleiades">589796</idno>
                <link target="https://pleiades.stoa.org/places/589796"/>
                <idno type="geonames">8133944</idno>
@@ -1836,6 +1933,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Dristra</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Δρίστρα</placeName>
             </place>
             <place xml:id="geo0218"><!-- see also geo0231 --><!-- this is an alternative spelling of Εὔριπος -->
                <placeName xml:lang="grc">Ἔγρίπος</placeName>
@@ -1844,7 +1942,7 @@
                <!-- Euripe??? -->
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
-               <placeName xml:lang="el">xxx</placeName>
+               <placeName xml:lang="el">Έγριπος ή Εύριπος</placeName>
                <placeName xml:lang="it"/>
                <idno type="TIB">1, Euripos</idno>
                <link target="https://tib.oeaw.ac.at/static/reader/TIB/tib1.html#page/156"/>
@@ -1854,6 +1952,7 @@
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Podandos</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Πόδανδος</placeName>
                <idno type="pleiades">648742</idno>
                <link target="https://pleiades.stoa.org/places/648742"/>
             </place>
@@ -1862,6 +1961,7 @@
                <placeName xml:lang="en">Mylasa</placeName>
                <placeName xml:lang="fr">Mylasa</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μύλασα</placeName>
                <!-- the mentions in Pleiades: to be checked -->
                <idno type="pleiades">599809</idno>
                <link target="https://pleiades.stoa.org/places/599809"/>
@@ -1869,10 +1969,11 @@
                <link target="https://pleiades.stoa.org/places/599810"/>
             </place>
             <place xml:id="geo0221">
-               <placeName xml:lang="grc">Λη̑μνος</placeName>
+               <placeName xml:lang="grc">Λήμνος</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Lemnos</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Λήμνος</placeName>
                <idno type="pleiades">550693</idno>
                <link target="https://pleiades.stoa.org/places/550693"/>
             </place>
@@ -1881,6 +1982,7 @@
                <placeName xml:lang="en">Chios</placeName>
                <placeName xml:lang="fr">Chios</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Χίος</placeName>
                <idno type="pleiades">550497</idno>
                <link target="https://pleiades.stoa.org/places/550497"/>
             </place>
@@ -1889,12 +1991,14 @@
                <placeName xml:lang="en">Matracha</placeName>
                <placeName xml:lang="fr">Matracha</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">τα Μάτραχα</placeName>
             </place>
             <place xml:id="geo0224">
                <placeName xml:lang="grc">Ζιχία</placeName>
                <placeName xml:lang="en">Zichia</placeName>
                <placeName xml:lang="fr">Zichia</placeName>
                <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ζιχία</placeName>
                <idno type="pleiades">825432</idno>
                <link target="https://pleiades.stoa.org/places/825432"/>
             </place>
