@@ -30,7 +30,7 @@
                     <term xml:lang="fr">xxx</term>
                     <term xml:lang="de">Muttergottes, hilf</term>
                     <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="el">Θεοτόκε βοήθησε</term>
                     <term xml:lang="it">xxx</term>
                 </item>
                 <item xml:id="inv002">
@@ -39,7 +39,7 @@
                     <term xml:lang="fr">xxx</term>
                     <term xml:lang="de">Muttergottes, hilf deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="el">Θεοτόκε βοήθησε το δούλο σου</term>
                     <term xml:lang="it">xxx</term>
                 </item>
                 <item xml:id="inv003">
@@ -48,7 +48,7 @@
                     <term xml:lang="fr">xxx</term>
                     <term xml:lang="de">Herr, hilf</term>
                     <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="el">Κύριε βοήθησε </term>
                     <term xml:lang="it">xxx</term>
                 </item>
                 <item xml:id="inv004">
@@ -57,7 +57,7 @@
                     <term xml:lang="fr">xxx</term>
                     <term xml:lang="de">Herr, hilf deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="el">Κύριε βοήθησε το δούλο σου</term>
                     <term xml:lang="it">xxx</term>
                 </item>
                 <item xml:id="inv005">
@@ -66,7 +66,7 @@
                     <term xml:lang="fr">xxx</term>
                     <term xml:lang="de">Retter, beschütze</term>
                     <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="el">Σωτήρα φύλαττε</term>
                     <term xml:lang="it">xxx</term>
                 </item>
                 <item xml:id="inv006">
@@ -75,7 +75,7 @@
                     <term xml:lang="fr">xxx</term>
                     <term xml:lang="de">[...] deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
-                    <term xml:lang="el">xxx</term>
+                    <term xml:lang="el">το δούλο σου</term>
                     <term xml:lang="it">xxx</term>
                 </item>
             </list>
