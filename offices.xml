@@ -43,8 +43,8 @@
                <term xml:lang="it">admissionalis</term>
             </item>
             <item xml:id="of0002">
-               <term xml:lang="grc">xxx</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="la">a secretis secretarius</term>
+               <term xml:lang="en">a secretis secretarius</term>
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">xxx</term>
                <term xml:lang="bg">xxx</term>
@@ -52,17 +52,10 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0003">
-               <term xml:lang="grc">xxx</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">ἐπὶ τοῦ οἰκιστικοῦ</term>
+               <term xml:lang="en">epi tou oikistikou</term>
                <term xml:lang="fr">xxx</term>
-               <term xml:lang="de">xxx</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
-               <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">xxx</term>
-               <term xml:lang="en">a secretis secretarius</term>
-               <term xml:lang="fr">xxx</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="de">epi tu oikistiku</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
@@ -93,13 +86,6 @@
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">xxx</term>
-               <term xml:lang="en">duc of Rome</term>
-               <term xml:lang="fr">xxx</term>
-               <term xml:lang="de">xxx</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
-               <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0007">
                <term xml:lang="grc">xxx</term>
@@ -111,15 +97,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0008">
-               <term xml:lang="grc">xxx</term>
+               <term xml:lang="la">prefectus annonas</term>
                <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">xxx</term>
-               <term xml:lang="de">xxx</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
-               <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">xxx</term>
-               <term xml:lang="en">prefectus annonas</term>
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">xxx</term>
                <term xml:lang="bg">xxx</term>
@@ -143,13 +122,6 @@
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">xxx</term>
-               <term xml:lang="en">exercitus Italiae</term>
-               <term xml:lang="fr">xxx</term>
-               <term xml:lang="de">xxx</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
-               <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0011">
                <term xml:lang="grc">xxx</term>
@@ -161,7 +133,7 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0012">
-               <term xml:lang="grc">xxx</term>
+               <term xml:lang="la">præfectus</term>
                <term xml:lang="en">præfectus</term>
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">xxx</term>
@@ -170,7 +142,7 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0013">
-               <term xml:lang="grc">xxx</term>
+               <term xml:lang="la">præfectus insularum</term>
                <term xml:lang="en">præfectus insularum</term>
                <term xml:lang="fr">préfet des îles</term>
                <term xml:lang="de">xxx</term>
