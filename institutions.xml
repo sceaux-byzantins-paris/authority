@@ -11,6 +11,7 @@
             <editor xml:id="SM">Sima Meziridou</editor>
             <editor xml:id="NB">Numa Buchs</editor>
             <editor xml:id="PE">Pia Evening</editor>
+            <editor xml:id="SE">Sofia Efthymoglou</editor>
          </titleStmt>
          <publicationStmt>
             <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
@@ -34,7 +35,7 @@
                <term xml:lang="fr">troupeaux</term>
                <term xml:lang="de">agelai</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">αγέλαι</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0002">
@@ -43,7 +44,7 @@
                <term xml:lang="fr">troupeaux impériaux</term>
                <term xml:lang="de">agelai, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">βασιλικαί αγέλαι</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0003">
@@ -52,7 +53,7 @@
                <term xml:lang="fr">(bureau des) arsenaux impériaux</term>
                <term xml:lang="de">sekreton ton basilikon armamenton</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σέκρετον των βασιλικών αρμαμέντων</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0004">
@@ -61,7 +62,7 @@
                <term xml:lang="fr">sékréton du Christ Antiphônète</term>
                <term xml:lang="de">sekreton tu Christu Antiphonetu</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σέκρετον του Χριστου Αντιφωνήτου</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0005">
@@ -70,7 +71,7 @@
                <term xml:lang="fr">annone</term>
                <term xml:lang="de">annone</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">αννώνα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0006">
@@ -79,7 +80,7 @@
                <term xml:lang="fr">(dème des) Bleus</term>
                <term xml:lang="de">demos ton Beneton</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">δήμος των Βενέτων</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0007">
@@ -88,7 +89,7 @@
                <term xml:lang="fr">Velum</term>
                <term xml:lang="de">Velon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">βήλον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0008">
@@ -97,7 +98,7 @@
                <term xml:lang="fr">vestiarion</term>
                <term xml:lang="de">vestiarion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">βεστιάριον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0009">
@@ -106,7 +107,7 @@
                <term xml:lang="fr">vestiarion impérial</term>
                <term xml:lang="de">vestiarion, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">βεστιάριον, βασιλικόν</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0010"><!--DE unclear!-->
@@ -115,7 +116,7 @@
                <term xml:lang="fr">Veille</term>
                <term xml:lang="de">vigles</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">βίγλης</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0011">
@@ -124,7 +125,7 @@
                <term xml:lang="fr">génikon</term>
                <term xml:lang="de">genikon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">γενικόν</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0012">
@@ -133,7 +134,7 @@
                <term xml:lang="fr">drome</term>
                <term xml:lang="de">dromos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">δρόμος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0013">
@@ -142,7 +143,7 @@
                <term xml:lang="fr">eidikon</term>
                <term xml:lang="de">eidikon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">ειδικόν</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0014">
@@ -151,7 +152,7 @@
                <term xml:lang="fr">eidikon impérial</term>
                <term xml:lang="de">eidikon, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">ειδικόν, βασιλικόν</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0015">
@@ -160,7 +161,7 @@
                <term xml:lang="fr">eidikos logos</term>
                <term xml:lang="de">eidikos logos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">ειδικὸς λόγος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0016">
@@ -169,7 +170,7 @@
                <term xml:lang="fr">(sékréton de l') éphore</term>
                <term xml:lang="de">ephoros</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">έφορος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0017">
@@ -178,7 +179,7 @@
                <term xml:lang="fr">Hippodrome</term>
                <term xml:lang="de">hippodromos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Ιππόδρομος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0018">
@@ -187,7 +188,7 @@
                <term xml:lang="fr">(sékréton de l') épi ton kriséôn</term>
                <term xml:lang="de">sekreton ton kriseon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σέκρετον των κρίσεων</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0019">
@@ -196,7 +197,7 @@
                <term xml:lang="fr">orphelinat</term>
                <term xml:lang="de">orphanotropheion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">ορφανοτροφείον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0020">
@@ -205,7 +206,7 @@
                <term xml:lang="fr">grand orphelinat</term>
                <term xml:lang="de">orphanotropheion, mega</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">ορφανοτροφείον, μέγα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0021">
@@ -214,7 +215,7 @@
                <term xml:lang="fr">οxys dromos</term>
                <term xml:lang="de">oxys dromos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">οξύς δρόμος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0022">
@@ -223,7 +224,7 @@
                <term xml:lang="fr">phylax</term>
                <term xml:lang="de">phylax</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">φύλαξ</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0023">
@@ -232,7 +233,7 @@
                <term xml:lang="fr">(dème des) Verts</term>
                <term xml:lang="de">demos ton Prasinon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">δήμος των Πρασίνων</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0024">
@@ -241,7 +242,7 @@
                <term xml:lang="fr">sacelle</term>
                <term xml:lang="de">sakellion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σακέλλιον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0025">
@@ -250,7 +251,7 @@
                <term xml:lang="fr">sacelle</term>
                <term xml:lang="de">sakelle</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σακέλλη</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0026">
@@ -259,7 +260,7 @@
                <term xml:lang="fr">sacelle impériale</term>
                <term xml:lang="de">sakelle, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σακέλλη, βασιλική</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0027">
@@ -268,7 +269,7 @@
                <term xml:lang="fr">stratiôtikon</term>
                <term xml:lang="de">stratiotikon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">στρατιωτικόν</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0028"><!--use unclear!-->
@@ -277,7 +278,7 @@
                <term xml:lang="fr">Chrysotriklinos</term>
                <term xml:lang="de">Chrysotriklinos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">χρυσοτρίκλινος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0029">
@@ -286,7 +287,7 @@
                <term xml:lang="fr">horreiarios</term>
                <term xml:lang="de">horreiarios</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">ωρρειάριος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0030">
@@ -295,7 +296,7 @@
                <term xml:lang="fr">blattion</term>
                <term xml:lang="de">blattion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">βλάττιον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0031">
@@ -304,7 +305,7 @@
                <term xml:lang="fr">archontes</term>
                <term xml:lang="de">archontes</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">άρχοντες</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0032">
@@ -313,7 +314,7 @@
                <term xml:lang="fr">chrysochéion</term>
                <term xml:lang="de">chrysocheion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">χρυσοχείον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0033">
@@ -322,7 +323,7 @@
                <term xml:lang="fr">chrysoklabaria</term>
                <term xml:lang="de">chrysoklabaria</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">χρυσοκλαβαρία</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0034">
@@ -331,7 +332,7 @@
                <term xml:lang="fr"/>
                <term xml:lang="de">euageis oikoi</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">ευαγείς οίκοι</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0035">
@@ -340,7 +341,7 @@
                <term xml:lang="fr">mètaton</term>
                <term xml:lang="de">metaton</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">μητάτον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0036">
@@ -349,7 +350,7 @@
                <term xml:lang="fr">mètata</term>
                <term xml:lang="de">metata</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">μητάτα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0037">
@@ -358,7 +359,7 @@
                <term xml:lang="fr"/>
                <term xml:lang="de">horrea, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">ορρέα, βασιλικά</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0038">
@@ -368,7 +369,7 @@
                <term xml:lang="fr">res privata</term>
                <term xml:lang="de">privata</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">πριβάτα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0039">
@@ -378,7 +379,7 @@
                <term xml:lang="fr">largesses sacrêes</term>
                <term xml:lang="de">theoi thesauroi</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">θείοι θησαυροί</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0040">
@@ -387,7 +388,7 @@
                <term xml:lang="fr">étable(s)</term>
                <term xml:lang="de">staulos, stauloi</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σταύλος, σταύλοι</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0041">
@@ -396,7 +397,7 @@
                <term xml:lang="fr">étable(s) impériale(s)</term>
                <term xml:lang="de">staulos, kaiserlich; stauloi, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σταύλος, βασιλικός; σταύλοι, βασιλικοί</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0042">
@@ -405,7 +406,7 @@
                <term xml:lang="fr">eaux</term>
                <term xml:lang="de">hydata</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">ύδατα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0043">
@@ -414,7 +415,7 @@
                <term xml:lang="fr">lamia</term>
                <term xml:lang="de">lamia</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">λαμία</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0044">
@@ -423,7 +424,7 @@
                <term xml:lang="fr">arton</term>
                <term xml:lang="de">arton</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">άρτον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0045">
@@ -432,7 +433,7 @@
                <term xml:lang="fr">apothèque</term>
                <term xml:lang="de">apotheke</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">αποθήκη</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0046">
@@ -441,7 +442,7 @@
                <term xml:lang="fr">ergodosia</term>
                <term xml:lang="de">ergodosia</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">εργοδοσία</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0047">
@@ -450,7 +451,7 @@
                <term xml:lang="fr">maison divine</term>
                <term xml:lang="de">theios oikos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">θείος οίκος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0048">
@@ -459,7 +460,7 @@
                <term xml:lang="fr">kouratôrikion</term>
                <term xml:lang="de">kuratorikion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">κουρατωρίκιον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0049">
@@ -468,7 +469,7 @@
                <term xml:lang="fr">grand kouratôrikion</term>
                <term xml:lang="de">kuratorikion, mega</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">κουρατωρίκιον, μέγα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0050">
@@ -477,7 +478,7 @@
                <term xml:lang="fr">prétoire</term>
                <term xml:lang="de">praitorion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">πραιτώριον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0051"><!--DE unclear!-->
@@ -486,7 +487,7 @@
                <term xml:lang="fr">offices</term>
                <term xml:lang="de">ophphikia</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">οφφίκια</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0052"><!--DE unclear!-->
@@ -495,7 +496,7 @@
                <term xml:lang="fr">offices impériaux</term>
                <term xml:lang="de">ophphikia, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">βασιλικά οφφίκια</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0053">
@@ -504,7 +505,7 @@
                <term xml:lang="fr">Manganes</term>
                <term xml:lang="de">Mangana</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μάγγανα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0054">
@@ -513,7 +514,7 @@
                <term xml:lang="fr">Pétrion</term>
                <term xml:lang="de">Petrion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Πέτριον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0055">
@@ -522,7 +523,7 @@
                <term xml:lang="fr">Archives</term>
                <term xml:lang="de">arkla</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">άρκλα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0056">
@@ -531,7 +532,7 @@
                <term xml:lang="fr">census</term>
                <term xml:lang="de">kensos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">κήνσος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0057">
@@ -540,7 +541,7 @@
                <term xml:lang="fr">grand empereur</term>
                <term xml:lang="de">basileus, megas</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">βασιλεύς, μέγας</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0058">
@@ -549,7 +550,7 @@
                <term xml:lang="fr">table</term>
                <term xml:lang="de">trapeza</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">τράπεζα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0059">
@@ -558,7 +559,7 @@
                <term xml:lang="fr">logothésion</term>
                <term xml:lang="de">logothesion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">λογοθέσιον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0060">
@@ -567,7 +568,7 @@
                <term xml:lang="fr">konchyle</term>
                <term xml:lang="de">konchyle</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">κογχύλη</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0061">
@@ -576,7 +577,7 @@
                <term xml:lang="fr">dignités</term>
                <term xml:lang="de">axiomata</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">αξιώματα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0062">
@@ -585,7 +586,7 @@
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">Mone Panhagias ton Blachernon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή Παναγίας των Βλαχερνών</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0063">
@@ -594,7 +595,7 @@
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">ekklesia tes Hagias Sophias</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">εκκλησία της Αγίας Σοφίας</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0064">
@@ -603,7 +604,7 @@
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">Megale ekklesia</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μεγάλη εκκλησία</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0065">
@@ -612,7 +613,7 @@
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">Mone Elaiobomon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή Ελαιοβωμών</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0066">
@@ -621,7 +622,7 @@
                <term xml:lang="fr">monastère de Stoudios</term>
                <term xml:lang="de">Mone Studio (Studioskloster)</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή Στουδίου</term>
                <term xml:lang="it">monastero di Studio</term>
             </item>
             <item xml:id="org0067">
@@ -630,7 +631,7 @@
                <term xml:lang="fr">monastère du Christ Pantocrator</term>
                <term xml:lang="de">Mone Pantokratoros (Pantokratorkloster)</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή Παντοκράτορος</term>
                <term xml:lang="it">monastero di Cristo Pantocratore</term>
             </item>
             <item xml:id="org0068">
@@ -639,7 +640,7 @@
                <term xml:lang="fr">monastère de Synoikia</term>
                <term xml:lang="de">Mone tes Sunoikias</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή της Συνοικίας</term>
                <term xml:lang="it">monastero di Synoikia</term>
             </item>
             <item xml:id="org0069">
@@ -648,7 +649,7 @@
                <term xml:lang="fr">monastère de Saint Nicholas Molibôton</term>
                <term xml:lang="de">Mone Molibotu (Kloster des Hl. Nicholaos Moliboton)</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή Μωλιβωτού</term>
                <term xml:lang="it">monastero di San Nicola Molibotone</term>
             </item>
             <item xml:id="org0070">
@@ -657,7 +658,7 @@
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">ekklesia tes Hagias Sion kai tu Hagiu zoephoru Taphu (Kirche des Heiligen Berges Zion und des Heiligen Grabes)</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">εκκλησία της Αγίας Σιὼν και του Αγίου ζωηφόρου Τάφου</term>
                <term xml:lang="it">Chiesa del Santo Monte Sion e del Santo Sepolcro di Gerusalemme</term>
             </item>
             <item xml:id="org0071">
@@ -666,7 +667,7 @@
                <term xml:lang="fr">Monastère d'Orobon</term>
                <term xml:lang="de">Mone Orobon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή Ορόβων</term>
                <term xml:lang="it">Monastero di Orobon</term>
             </item>
             <item xml:id="org0072">
@@ -675,7 +676,7 @@
                <term xml:lang="fr">Monastère de Saint Isauros</term>
                <term xml:lang="de">Mone tu Hagiu Eisauru (Kloster des Heiligen Isauros)</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή του Αγίου Ισαύρου</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0073">
@@ -684,7 +685,7 @@
                <term xml:lang="fr">monastère d'Anatellôn</term>
                <term xml:lang="de">Mone Anatellontos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή Ανατέλλοντος</term>
                <term xml:lang="it">monastero di Anatellon</term>
             </item>
             <item xml:id="org0074">
@@ -693,7 +694,7 @@
                <term xml:lang="fr">monastère de Lakapè</term>
                <term xml:lang="de">Mone Lakapas</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή Λακάπας</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0075">
@@ -702,7 +703,7 @@
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">Mone tu Hagiu Abba Kyru</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μονή του Αγίου Αββά Κύρου</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0076">
@@ -711,7 +712,7 @@
                <term xml:lang="fr">Église de la Néa</term>
                <term xml:lang="de">Nea ekklesia</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Νέα Εκκλησία</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0077">
@@ -720,7 +721,7 @@
                <term xml:lang="fr">Sampsôn</term>
                <term xml:lang="de">Sampson</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Σαμψών</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0078">
@@ -729,7 +730,7 @@
                <term xml:lang="fr">Euboulos</term>
                <term xml:lang="de">Eubulos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Εύβουλος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0079">
@@ -738,7 +739,7 @@
                <term xml:lang="fr">Tropaiophore</term>
                <term xml:lang="de">Tropaiophoros</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Τροπαιόφορος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0080">
@@ -747,7 +748,7 @@
                <term xml:lang="fr">Sainte-Marie-des-Blachernes</term>
                <term xml:lang="de">Panhagias ton Blachernon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Παναγίας των Βλαχερνών</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0081">
@@ -756,7 +757,7 @@
                <term xml:lang="fr">Sainte-Sophie</term>
                <term xml:lang="de">Hagia Sophia</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Αγία Σοφία</term>
                <term xml:lang="it">Santa Sofia</term>
             </item>
             <item xml:id="org0082">
@@ -765,7 +766,7 @@
                <term xml:lang="fr">Grande Église</term>
                <term xml:lang="de">Megale ekklesia</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μεγάλη Εκκλησία</term>
                <term xml:lang="it">Grande Chiesa</term>
             </item>
             <item xml:id="org0083">
@@ -774,7 +775,7 @@
                <term xml:lang="fr">monastère d'Heliou Bomon</term>
                <term xml:lang="de">Mone Elaiobomon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">μονή Ελαιοβωμών</term>
                <term xml:lang="it">monastero di Elaiobomone</term>
             </item>
             <item xml:id="org0084">
@@ -783,7 +784,7 @@
                <term xml:lang="fr">monastère d'Amisos (Aminsos)</term>
                <term xml:lang="de">mone Aminsu</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">μονή Αμινσού</term>
                <term xml:lang="it">monastero di Amisos (Aminsos)</term>
             </item>
             <item xml:id="org0085">
@@ -792,7 +793,7 @@
                <term xml:lang="fr">Myrélaion</term>
                <term xml:lang="de">Myrelaion</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Μυρέλαιον</term>
                <term xml:lang="it"/>
             </item>
             <item xml:id="org0086">
@@ -802,7 +803,7 @@
                <term xml:lang="fr">scholes</term>
                <term xml:lang="de">scholai</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σχολαί</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0087">
@@ -811,7 +812,7 @@
                <term xml:lang="fr">huitième schole</term>
                <term xml:lang="de">schole, ogdoe</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">σχολή, όγδοη</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0088">
@@ -820,7 +821,7 @@
                <term xml:lang="fr">flotte</term>
                <term xml:lang="de">ploimon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">πλώιμον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0089">
@@ -829,7 +830,7 @@
                <term xml:lang="fr">tente</term>
                <term xml:lang="de">korte</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">κόρτη</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0090">
@@ -838,7 +839,7 @@
                <term xml:lang="fr">Excubites</term>
                <term xml:lang="de">Exkubitoi</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Εξκουβίτοι</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0091">
@@ -847,7 +848,7 @@
                <term xml:lang="fr">touldon</term>
                <term xml:lang="de">tuldon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">τούλδον</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0092">
@@ -856,7 +857,7 @@
                <term xml:lang="fr">Nouméra</term>
                <term xml:lang="de">Numera</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Νούμερα</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0093">
@@ -865,7 +866,7 @@
                <term xml:lang="fr">Optimates</term>
                <term xml:lang="de">Optimatoi</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Οπτιμάτοι</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0094">
@@ -874,7 +875,7 @@
                <term xml:lang="fr">Hikanates</term>
                <term xml:lang="de">Ikanatoi</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Ικανάτοι</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0095">
@@ -883,7 +884,7 @@
                <term xml:lang="fr">hypourgia</term>
                <term xml:lang="de">hypurgia</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">υπουργία</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0096">
@@ -892,7 +893,7 @@
                <term xml:lang="fr">flotte</term>
                <term xml:lang="de">stolos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">στόλος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0097">
@@ -901,7 +902,7 @@
                <term xml:lang="fr">Arithmos</term>
                <term xml:lang="de">Arithmos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Αριθμός</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0098">
@@ -910,7 +911,7 @@
                <term xml:lang="fr">Lausiakon</term>
                <term xml:lang="de">Lausiakon</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">Λαυσιακόν</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0099">
@@ -919,7 +920,7 @@
                <term xml:lang="fr">armée</term>
                <term xml:lang="de">stratos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">στρατός</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="org0100">
@@ -928,7 +929,7 @@
                <term xml:lang="fr">fédérés</term>
                <term xml:lang="de">phoideratoi</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">φοιδεράτοι</term>
                <term xml:lang="it">xxx</term>
             </item>
          </list>
