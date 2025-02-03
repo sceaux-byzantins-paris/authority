@@ -240,7 +240,7 @@
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Λοπάδιον</placeName>
             </place>
-            <place xml:id="geo0027">
+            <place xml:id="geo0027"><!--see geo0099-->
                <placeName xml:lang="grc">Θεσσαλονίκη</placeName>
                <placeName xml:lang="en">Thessaloniki</placeName>
                <placeName xml:lang="fr">Thessalonique</placeName>
@@ -822,7 +822,7 @@
                <placeName xml:lang="it">Numidia</placeName>
                <placeName xml:lang="el">Νουμιδία</placeName>
             </place>
-            <place xml:id="geo0099">
+            <place xml:id="geo0099"><!--see geo0027-->
                <placeName xml:lang="grc">Θεσσαλονίκη</placeName>
                <placeName xml:lang="en">xxx</placeName>
                <placeName xml:lang="fr">Thessalonique</placeName>
