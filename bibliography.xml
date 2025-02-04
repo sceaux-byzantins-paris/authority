@@ -90,6 +90,22 @@
                     <biblScope unit="page">p. 235-272</biblScope>
                 </bibl>
 
+<!--Thessaloniki, Byzantine museum-->
+                <bibl type="book" xml:id="Leontiades2006"
+                    corresp="http://zotero.org/users/3169239/items/QU4F8DUA">
+                    <bibl type="abbrev">Leontiades 2006</bibl>
+                    <author><forename>I. G.</forename>
+                        <surname>Leontiades</surname></author>
+                    <title level="m">Μολυβδόβουλλα του Μουσείου Βυζαντινού Πολιτισμού Θεσσαλονίκης</title>
+                    <!--<idno type="ISBN">960-85882-0-0</idno>-->
+                    <pubPlace xml:lang="en">Thessaloniki</pubPlace>
+                    <pubPlace xml:lang="fr">Thessalonique</pubPlace>
+                    <publisher>Aristotle University of Thessaloniki, Byzantine Research
+                        Center</publisher>
+                    <date>2006</date>
+                    <series><title level="s">Βυζαντινά Κείμενα και Μελέται 40</title></series>
+                </bibl>
+
                 <!-- Berlin -->
 
                 <bibl type="book" xml:id="Speck1986"
@@ -1621,6 +1637,20 @@
                     <pubPlace xml:lang="fr">Padoue</pubPlace>
                     <publisher>Edizioni Messaggero</publisher>
                     <date>1988</date>
+                </bibl>
+                
+             <!--   Feind-->
+                <bibl type="book" xml:id="Feind2010"
+                    corresp="http://zotero.org/users/3169239/items/DAD7LDWP">
+                    <bibl type="abbrev">Feind 2010</bibl>
+                    <author><forename>R.</forename>
+                        <surname>Feind</surname></author>
+                    <title level="m">Byzantinische Siegelkunde: Eine Einführung in die Sigillographie von Byzanz </title>
+                    <!--<idno type="ISBN">88-7026-858-6</idno>-->
+                    <pubPlace xml:lang="en">Regenstauf</pubPlace>
+                    <pubPlace xml:lang="fr"></pubPlace>
+                    <publisher>Ed. M &amp; S, Münzen und Sammeln</publisher>
+                    <date>2010</date>
                 </bibl>
 
                 <!-- Feissel -->
