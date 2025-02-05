@@ -103,7 +103,8 @@
                     <publisher>Aristotle University of Thessaloniki, Byzantine Research
                         Center</publisher>
                     <date>2006</date>
-                    <series><title level="s">Βυζαντινά Κείμενα και Μελέται 40</title></series>
+                    <series><title level="s">Βυζαντινά Κείμενα και Μελέται = Byzantine Texts and
+                        Studies = Textus Bizantini et Dissertationes 40</title></series>
                 </bibl>
 
                 <!-- Berlin -->
@@ -4582,6 +4583,23 @@
                     <date>2011</date>
                     <biblScope unit="page">p. 253-255</biblScope>
                 </bibl>
+                
+                <!--Thesis-->
+                <bibl type="thesis" xml:id="Zografopoulos2005" 
+                    corresp="http://zotero.org/users/3169239/items/XXXXX">
+                    <bibl type="abbrev">Zografopoulos, 2005</bibl>
+                    <author>
+                        <forename>K. J.</forename>
+                        <surname>Zografopoulos</surname>
+                    </author>
+                    <title level="m">Die byzantinischen Bleisiegel aus Karthago</title>
+                    <note>PhD dissertation,</note>
+                    <pubPlace xml:lang="en">Vienna</pubPlace>
+                    <pubPlace xml:lang="de">Wien</pubPlace>
+                    <publisher>University of Vienna</publisher>
+                    <date>2005</date>
+                </bibl>
+                
             </listBibl>
         </body>
     </text>
