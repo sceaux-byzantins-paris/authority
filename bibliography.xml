@@ -2568,6 +2568,43 @@
                     <date>1962</date>
                     <biblScope unit="page">p. 221-254</biblScope>
                 </bibl>
+                
+           <!--     Lafli-->
+                <bibl type="bookSection" xml:id="Laflı2019 "
+                    corresp="http://zotero.org/users/3169239/items/xxxx">
+                    <bibl type="abbrev">Laflı 2019</bibl>
+                    <author><forename>E.</forename>
+                        <surname>Laflı</surname></author>
+                    <author><forename>W.</forename>
+                        <surname>W. Seibt</surname></author>
+                    <title level="a">Five Byzantine lead seals of the seventh century A.D. from Marmaris in Caria (southwestern Turkey)</title>
+                    <editor><forename>Zh.</forename>
+                        <surname>Zhekova</surname></editor>
+                    <editor><forename>T.</forename>
+                        <surname>Todorov</surname></editor>
+                    <title level="m">Αντιχαρίσματος ἐπισφράγισις: Юбилеен сборник в чест на 70-годишнината на проф. д.и.н. Иван Йорданов = A tribute to Prof. Ivan Jordanov’s 70th anniversary</title>
+                    <pubPlace xml:lang="en">Shumen</pubPlace>
+                    <pubPlace xml:lang="fr">Shumen</pubPlace>
+                    <date>2019</date>
+                    <biblScope unit="page">p. 346-355</biblScope>
+                    <series><title level="s">In honorem 6</title></series>
+                </bibl>
+                
+                <bibl type="journalArticle" xml:id="Laflı2021"
+                    corresp="http://zotero.org/users/3169239/items/XXX">
+                    <bibl type="abbrev">Laflı 2021</bibl>
+                    <author><forename>E.</forename>
+                        <surname>Laflı</surname></author>
+                    <author><forename>W.</forename>
+                            <surname>W. Seibt</surname></author>
+                    <author><forename>D.</forename>
+                        <surname>Çağlayan</surname></author>
+                    <title level="a">Early Byzantine sigillographic evidence from western Anatolia: sixth- and seventh-century lead seals from Bergama (ancient Pergamon)</title>
+                    <title level="j">Byzantine and Modern Greek Studies</title>
+                    <biblScope unit="volume">45/1</biblScope>
+                        <date>2021</date>
+                    <biblScope unit="page">p. 5-24</biblScope> Available at <ref
+                        target="https://www.cambridge.org/core/journals/byzantine-and-modern-greek-studies/article/early-byzantine-sigillographic-evidence-from-western-anatolia-sixth-and-seventhcentury-lead-seals-from-bergama-ancient-pergamon/705C1DABA9FC3FF2B3E168817E2B5C94">Byzantine and Modern Greek Studies</ref>. </bibl>
 
                 <!-- Lebedeva -->
 
