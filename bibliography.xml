@@ -2232,7 +2232,17 @@
                     <date>2010</date>
                     <biblScope unit="page">p. 33-59</biblScope>
                 </bibl>
-
+                <bibl type="journalArticle" xml:id="Jordanov2011"
+                    corresp="http://zotero.org/users/3169239/items/D7X6AA2Y">
+                    <bibl type="abbrev">Jordanov, 2011</bibl>
+                    <author><forename>Iv.</forename>
+                        <surname>Jordanov</surname></author>
+                    <title level="a">Corpus of Byzantine Seals from Bulgaria, Volume 1–3, Sofia, 2003, 2006, 2009. Addenda et Corrigenda</title>
+                    <title level="j">Numismatika, Sfragistika i Epigrafika</title>
+                    <biblScope unit="volume">7</biblScope>
+                    <date>2011</date>
+                    <biblScope unit="page">p.  189–228</biblScope>
+                </bibl>
                 <!-- Kaplan -->
 
                 <bibl type="book" xml:id="Kaplan1976"
@@ -3235,7 +3245,18 @@
                     <publisher>E. Leroux</publisher>
                     <date>1884</date>
                 </bibl>
-
+                
+                <bibl type="journalArticle" xml:id="Schlumberger1891"
+                    corresp=" http://opac.regesta-imperii.de/id/722846">
+                    <bibl type="abbrev">Schlumberger, 1891</bibl>
+                    <author><forename>G.</forename>
+                        <surname>Schlumberger</surname></author>
+                    <title level="a">Sceaux byzantins inédits (seconde série)</title>
+                    <title level="j"> Revue des études grecques </title>
+                    <biblScope unit="volume">4</biblScope>
+                    <date>1891</date>
+                    <biblScope unit="page">p. 111-142</biblScope>
+                </bibl>
                 <!-- Seibt -->
 
                 <bibl type="book" xml:id="SeibtWassiliou2015">
