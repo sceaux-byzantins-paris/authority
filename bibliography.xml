@@ -1184,6 +1184,18 @@
                     <date>1990</date>
                     <series><title level="s">Byzantina Sorbonensia 9</title></series>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Cheynet1994"
+                    corresp="http://zotero.org/users/3169239/items/χχχχχ">
+                    <bibl type="abbrev">Cheynet, 1994</bibl>
+                    <author><forename>J.-Cl.</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="a">Sceaux byzantins des Musées d'Antioche et de Tarse</title>
+                    <title level="j">Travaux et Mémoires</title>
+                    <biblScope unit="volume">12</biblScope>
+                    <date>1994</date>
+                    <biblScope unit="page">p. 391-478</biblScope>
+                </bibl>
+                
                 <bibl type="journalArticle" xml:id="Cheynet1995"
                     corresp="http://zotero.org/users/3169239/items/MXP5CJPS">
                     <bibl type="abbrev">Cheynet, 1995</bibl>
