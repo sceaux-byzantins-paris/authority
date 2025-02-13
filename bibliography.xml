@@ -3309,6 +3309,20 @@
                     <date>1976</date>
                     <series><title level="s">Byzantina Vindobonensia 9</title></series>
                 </bibl>
+                <bibl type="book" xml:id="Seibt2005"
+                    corresp="http://zotero.org/users/3169239/items/χχχχχ">
+                    <bibl type="abbrev">Seibt, 2005</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <author><forename>V.</forename>
+                        <surname>Šandrovskaya</surname></author>
+                    <title level="m"> Byzantinische Bleisiegel der Staatlichen Eremitage mit Familienname. 1 Teil. Sammlung Lichačev - Namen von A bis I</title>
+                    <pubPlace xml:lang="en">Vienna</pubPlace>
+                    <pubPlace xml:lang="fr">Vienne</pubPlace>
+                    <publisher>Verlag der Österreichischen Akademie der Wissenschaften</publisher>
+                    <date>2005</date>
+                        </bibl>
+                
                 <bibl type="journalArticle" xml:id="Seibt1987">
                     <bibl type="abbrev">Seibt, 1987</bibl>
                     <author><forename>W.</forename>
