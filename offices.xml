@@ -1197,7 +1197,7 @@
                <term xml:lang="el">πρωτομανδάτωρ</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0127"><!--unclear!-->
+            <item xml:id="of0127"><!--unclear! commented out, to be reviewed-->
                <term xml:lang="grc">μειζότερος</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">meizotéros</term>
@@ -1205,13 +1205,13 @@
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">μειζότερος</term>
                <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">μειζότερος, δεσποτικός</term>
+               <!--<term xml:lang="grc">μειζότερος, δεσποτικός</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">meizotéros de l'empereur</term>
                <term xml:lang="de">xxx</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">μειζότερος, δεσποτικός</term>
-               <term xml:lang="it">xxx</term>
+               <term xml:lang="it">xxx</term>-->
             </item>
             <item xml:id="of0128">
                <term xml:lang="grc">μειζότερος, βασιλικὸς</term>
@@ -2691,6 +2691,15 @@
                <term xml:lang="de">hypostrategos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">υποστράτηγος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="of0290">
+               <term xml:lang="grc">μέγας τραπεζίτης</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">grand trapézitès</term>
+               <term xml:lang="de">trapezites, megas</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">τραπεζίτης, μέγας</term>
                <term xml:lang="it">xxx</term>
             </item>
          </list>
