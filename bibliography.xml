@@ -1194,6 +1194,20 @@
                     <date>1997</date>
                     <biblScope unit="page">p. 111-128</biblScope>
                 </bibl>
+                <bibl type="bookSection" xml:id="Cheynet2001">
+                    <bibl type="abbrev">Cheynet, 2001</bibl>
+                    <author><forename>J.-Cl.</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="a">Les ducs d'Antioche sous Michel IV et Constantin IX</title>
+                    <editor><forename>Cl.</forename>
+                        <surname>Sode</surname></editor>
+                    <editor><forename>S.A.</forename>
+                        <surname>Takács</surname></editor>
+                    <title level="m">Novum millennium. Studies on Byzantine history and culture dedicated to Paul Speck</title>
+                    <pubPlace>Aldershot</pubPlace>
+                    <date>2001</date>
+                    <biblScope unit="page">p. 53-63</biblScope>
+                </bibl>
                 <bibl type="bookSection" xml:id="Cheynet2002a"
                     corresp="http://zotero.org/users/3169239/items/3FXPEPCG">
                     <bibl type="abbrev">Cheynet, 2002a</bibl>
@@ -1325,6 +1339,17 @@
                     <pubPlace>Paris</pubPlace>
                     <date>2008</date>
                     <biblScope unit="page">p. 175-195</biblScope>
+                    <series><title level="s">Bilans de recherche 3</title></series>
+                </bibl>
+                <bibl type="bookSection" xml:id="Cheynet2008e">
+                    <bibl type="abbrev">Cheynet, 2008e</bibl>
+                    <author><forename>J.-Cl.</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="a">Les ducs d’Antioche sous Michel IV et Constantin IX</title>
+                    <title level="m">La société byzantine: l'apport des sceaux</title>
+                    <pubPlace>Paris</pubPlace>
+                    <date>2008</date>
+                    <biblScope unit="page">p. 197-207</biblScope>
                     <series><title level="s">Bilans de recherche 3</title></series>
                 </bibl>
                 <bibl type="journalArticle" xml:id="Cheynet2012"
@@ -3152,6 +3177,17 @@
                     <pubPlace>Paris</pubPlace>
                     <publisher>E. Leroux</publisher>
                     <date>1884</date>
+                </bibl>
+                <bibl type="journalArticle" xml:id="Schlumberger1916"
+                    corresp="http://zotero.org/users/3169239/items/6IE2NG8N">
+                    <bibl type="abbrev">Schlumberger, 1916</bibl>
+                    <author><forename>G.</forename>
+                        <surname>Schlumberger</surname></author>
+                    <title level="a">Sceaux byzantins inédits (sixième série)</title>
+                    <title level="j">Revue numismatique</title>
+                    <biblScope unit="volume">20 (4e série)</biblScope>
+                    <date>1916</date>
+                    <biblScope unit="page">p. 32-46</biblScope> Available at <ref target="https://gallica.bnf.fr/ark:/12148/bd6t54197256r/f48.item">Gallica</ref>
                 </bibl>
 
                 <!-- Seibt -->
