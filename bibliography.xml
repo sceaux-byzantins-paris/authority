@@ -3230,6 +3230,16 @@
                     <date>1976</date>
                     <series><title level="s">Byzantina Vindobonensia 9</title></series>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Seibt1976a">
+                    <bibl type="abbrev">Seibt, 1976a</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <title level="a">Miszellen zur historischen Geographie von Armenien und Georgien in byzantinischer Zeit</title>
+                    <title level="j">Handes Amsorya</title>
+                    <biblScope unit="volume">90</biblScope>
+                    <date>1976</date>
+                    <biblScope unit="page">p. 633-642</biblScope>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Seibt1987">
                     <bibl type="abbrev">Seibt, 1987</bibl>
                     <author><forename>W.</forename>
