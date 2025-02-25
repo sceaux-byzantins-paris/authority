@@ -2276,6 +2276,17 @@
                     <date>2008</date>
                     <biblScope unit="page">p. 105-132</biblScope>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Karagiorgou2008a"
+                    corresp="http://zotero.org/users/3169239/items/6XPS2IXV">
+                    <bibl type="abbrev">Karagiorgou, 2008a</bibl>
+                    <author><forename>O.</forename>
+                        <surname>Karagiorgou</surname></author>
+                    <title level="a">Περί αλφαβητισμού, αιρέσεων, εικονογραφίας και πολιτικών φιλοδοξιών στα μολυβδόβουλλα του Νικηφόρου Βοτανειάτη (περίπου 1001/2-1081)</title>
+                    <title level="j">Byzantina Symmeikta</title>
+                    <biblScope unit="volume">18</biblScope>
+                    <date>2008</date>
+                    <biblScope unit="page">p. 77–122</biblScope> Available at <ref target="https://doi.org/10.12681/byzsym.464">EIE.gr</ref>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Karagiorgou2009"
                     corresp="http://zotero.org/users/3169239/items/6XPS2IXV">
                     <bibl type="abbrev">Karagiorgou, 2009</bibl>
@@ -2301,8 +2312,8 @@
                     <biblScope unit="volume">26</biblScope>
                     <date>2016</date>
                     <biblScope unit="page">p. 247-308</biblScope> Available at <ref
-                        target="https://ejournals.epublishing.ekt.gr/index.php/bz/article/view/8622/10860"
-                        >EKT.org</ref>
+                        target="https://doi.org/10.12681/byzsym.8622"
+                        >EIE/gr</ref>
                 </bibl>
                 <bibl type="book" xml:id="Karagiorgou2021">
                     <bibl type="abbrev">Karagiorgou, Charalampakis, Malatras, 2021</bibl>
