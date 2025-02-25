@@ -2389,20 +2389,13 @@
                <term xml:lang="el">εξκουβίτωρ</term>
                <term xml:lang="it">xxx</term>
             </item>
-         <item xml:id="of0257"><!--unclear!-->
+         <item xml:id="of0257">
                <term xml:lang="grc">ἐπὶ τῆς ἑταιρείας</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">épi tès hétaireias</term>
                <term xml:lang="de">epi tes hetaireias</term>
                <term xml:lang="bg">xxx</term>
-            <term xml:lang="el">επί της εταιρείας</term>
-               <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">ἐπὶ τῆς μεγάλης ἑταιρείας</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">épi tès mégalès hétaireias</term>
-               <term xml:lang="de">epi tes megales hetaireias</term>
-               <term xml:lang="bg">xxx</term>
-            <term xml:lang="el">επί της μεγάλης εταιρείας</term>
+               <term xml:lang="el">επί της εταιρείας</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0258">
@@ -2700,6 +2693,15 @@
                <term xml:lang="de">trapezites, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">τραπεζίτης, μέγας</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="of0291">
+               <term xml:lang="grc">ἐπὶ τῆς μεγάλης ἑταιρείας</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">épi tès mégalès hétaireias</term>
+               <term xml:lang="de">epi tes megales hetaireias</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">επί της μεγάλης εταιρείας</term>
                <term xml:lang="it">xxx</term>
             </item>
          </list>
