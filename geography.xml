@@ -2978,6 +2978,14 @@
                <placeName xml:lang="el">Δαζιμών</placeName>
                <idno type="pleiades"/>
             </place>
+            <place xml:id="geo0315">
+               <placeName xml:lang="grc">Βρυέλον</placeName>
+               <placeName xml:lang="en">Bryelon (or Brioula)</placeName>
+               <placeName xml:lang="fr">χχχ</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Βρυέλον (Bρίουλα)</placeName>
+               <idno type="pleiades"/>
+            </place>
          </listPlace>
       </body>
    </text>
