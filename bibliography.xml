@@ -966,6 +966,18 @@
                     <series><title level="s">Βυζαντινά Κείμενα και Μελέται = Byzantine Texts and
                             Studies = Textus Bizantini et Dissertationes 20β</title></series>
                 </bibl>
+                <!--Begleres-->
+                <bibl type="book" xml:id="Begleres1916"
+                    corresp="http://zotero.org/users/3169239/items/xxxx">
+                    <bibl type="abbrev">Begleres, 1916</bibl>
+                    <author><forename> G.</forename>
+                        <surname>Begleres</surname></author>
+                    <title level="m">Ο αυτοκράτωρ του Βυζαντίου Νικηφόρος ο Βοτανειάτης: πρωτοπρόεδρος και Δούξ Ελλάδος και Πελοποννήσου</title>
+                    <pubPlace xml:lang="en">Athens</pubPlace>
+                    <pubPlace xml:lang="fr">Athènes</pubPlace>
+                    <publisher>Τυπογραφείον "Εστία"</publisher>
+                    <date>1916</date>
+                      </bibl>
 
                 <!-- Bibicou -->
 
@@ -2319,6 +2331,18 @@
                     <date>2008</date>
                     <biblScope unit="page">p. 105-132</biblScope>
                 </bibl>
+                
+                <bibl type="journalArticle" xml:id="Karagiorgou2008b"
+                    corresp="http://zotero.org/users/3169239/items/ΧΧΧΧΧ">
+                    <bibl type="abbrev">Karagiorgou, 2008b</bibl>
+                    <author><forename>O.</forename>
+                        <surname>Karagiorgou</surname></author>
+                    <title level="a">Περί αλφαβητισμού, αιρέσεων, εικονογραφίας και πολιτικών φιλοδοξιών στα μολυβδόβουλλα του Νικηφόρου Βοτανειάτη (περίπου 1001/2-1081)</title>
+                    <title level="j">Byzantina Symmeikta</title>
+                    <biblScope unit="volume">18</biblScope>
+                    <date>2008</date>
+                    <biblScope unit="page">p.  77-122</biblScope>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Karagiorgou2009"
                     corresp="http://zotero.org/users/3169239/items/6XPS2IXV">
                     <bibl type="abbrev">Karagiorgou, 2009</bibl>
@@ -2507,7 +2531,16 @@
                     <biblScope unit="page">p. 252-262</biblScope></bibl>
 
                 <!-- Laurent -->
-
+                <bibl type="journalArticle" xml:id="Laurent1929">
+                    <bibl type="abbrev">Laurent, 1929</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Laurent</surname></author>
+                    <title level="a">Bulletin de Sigillographie Byzantine: quinze années de découvertes et d’étude (1915–1929)</title>
+                    <title level="j">Byzantion</title>
+                    <biblScope unit="volume">5/1</biblScope>
+                    <date>1929</date>
+                    <biblScope unit="page">p. 571–654</biblScope></bibl>
+                
                 <bibl type="journalArticle" xml:id="Laurent1948">
                     <bibl type="abbrev">Laurent, 1948</bibl>
                     <author><forename>V.</forename>
@@ -3369,6 +3402,17 @@
                     <date>1999</date>
                     <biblScope unit="page">p. 27-36</biblScope>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Seibt2008">
+                    <bibl type="abbrev">Seibt, 2008</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <title level="a">Siegel der Sammlung Orghidan. Eine Nachlese zur Edition V. Laurents</title>
+                    <title level="j">Jahrbuch der österreichischen Byzantinistik</title>
+                    <biblScope unit="volume">53</biblScope>
+                    <date>2008</date>
+                    <biblScope unit="page">p.
+                        195-208</biblScope></bibl>
+                
                 <bibl type="journalArticle" xml:id="Seibt2010"
                     corresp="http://zotero.org/users/3169239/items/53FWMU56">
                     <bibl type="abbrev">Seibt, 2010</bibl>
@@ -3588,6 +3632,26 @@
                         target="https://archive.org/details/byzantinische-forschungen-10-1985/Byzantinische-Forschungen-23-1996/page/109/mode/2up?view=theater"
                         >Archive.org</ref>
                 </bibl>
+                
+             <!--   Vlyssidou-->
+                <bibl type="book" xml:id="VlyssidouEtAl">
+                    <bibl type="abbrev">Vlyssidou et al., 1998</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Vlyssidou</surname></author>
+                    <author><forename>E.</forename>
+                        <surname>Kountoura-Galake</surname></author>
+                    <author><forename>St.</forename>
+                        <surname>Lampakes</surname></author>
+                    <author><forename>T.</forename>
+                        <surname>Lounghis</surname></author>
+                    <author><forename>A.</forename>
+                        <surname> Savvides</surname></author>
+                    <title level="m">Η Μικρά Ασία των θεμάτων. Έρευνες πάνω στη γεωγραφική φυσιογνωμία των Βυζαντινών θεμάτων της Μικράς Ασίας (7ος-11ος αι.)</title>
+                    <pubPlace xml:lang="en">Athens</pubPlace>
+                    <publisher>Εθνικό Ίδρυμα Ερευνών. Ινστιτούτο Βυζαντινών Ερευνών</publisher>                    
+                    <date>1998</date>
+                    <series><title level="s">Ερευνητική Βιβλιοθήκη 1</title></series>
+                </bibl>
 
                 <!-- Volk -->
 
@@ -3614,6 +3678,17 @@
                     <date>2002</date>
                     <biblScope unit="page">p. 243-258</biblScope>
                 </bibl>
+                <bibl type="bookSection" xml:id="Wassiliou2002b">
+                    <bibl type="abbrev">Wassiliou, 2002b</bibl>
+                    <author><forename>A.-K.</forename>
+                        <surname>Wassiliou</surname></author>
+                    <title level="a"> Προσωπογραφία και σφραγιστική : Κριταὶ Καππαδοκίας (10ος – 11ος αι.). Σκέψεις σχετικά με την επιστημονική προσέγγιση του σφραγιστικού υλικού</title>
+                      <title level="m">Πρακτικά ΣΤʹ Πανελληνίου Συνεδρίου για τον Ελληνισμό της Μικράς Ασίας. Ο Ελληνισμός της Μίκρας Ασίας απο την Κλασσικκή Αρχαιότητα ως τον εικοστό αίωνα, Θεσσαλονίκη 24-
+                        26 Nοεμβρίου 2000</title>
+                    <pubPlace>Thessalonike</pubPlace>
+                    <date>2002</date>
+                    <biblScope unit="page">p. 41-54</biblScope>
+                                    </bibl>
                 <bibl type="journalArticle" xml:id="Wassiliou2006">
                     <bibl type="abbrev">Wassiliou, 2006</bibl>
                     <author><forename>A.-K.</forename>
