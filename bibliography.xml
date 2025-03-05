@@ -445,6 +445,7 @@
                     <pubPlace>Sofia</pubPlace>
                     <date>2011</date>
                 </bibl>
+                
 
                 <!-- Khoury -->
 
@@ -2153,6 +2154,33 @@
                     <date>2006</date>
                     <biblScope unit="page">p. 97-143</biblScope>
                 </bibl>
+
+                <bibl type="bookSection" xml:id="Jordanov2015"
+                    corresp="http://zotero.org/users/3169239/items/XXXX">
+                    <bibl type="abbrev">Jordanov, 2015</bibl>
+                    <author><forename>I.</forename>
+                        <surname>Jordanov</surname></author>
+                    <title level="a">Corpus of Byzantine Seals from Bulgaria, Volume 1–3, Sofia, 2003, 2006, 2009. Addenda et Corrigenda (2)</title>
+                    <editor><forename>V.</forename>
+                        <surname>Gyuzelev</surname></editor>
+                    <editor><forename>D.</forename>
+                        <surname>Damyanov</surname></editor>
+                    <editor><forename>I.</forename>
+                        <surname>Bozhilov</surname></editor>
+                    <editor><forename>I.</forename>
+                        <surname>Iliev</surname></editor>
+                    <editor><forename>V.</forename>
+                        <surname>Boneva</surname></editor>
+                    <editor><forename>Hr.</forename>
+                        <surname>Haritonov </surname></editor>
+                    <editor><forename>I.</forename>
+                        <surname>Iordanov  </surname></editor>
+                    <title level="m">Balgariya v 
+                        evropeiskata kultura, nauka, obrazovanie, religiya, vol. 1 (Shumen)</title>
+                    <pubPlace>Shumen</pubPlace>
+                    <date>2015</date>
+                    <biblScope unit="page">p. 223-306</biblScope>
+                       </bibl>
 
                 <bibl type="journalArticle" xml:id="Jordanov1985">
                     <bibl type="abbrev">Jordanov, 1985</bibl>
