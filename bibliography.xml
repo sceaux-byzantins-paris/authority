@@ -485,6 +485,15 @@
                     <publisher>ACHCByz</publisher>
                     <date>2022</date>
                 </bibl>
+                <bibl type="book" xml:id="Stavrakos2010">
+                    <bibl type="abbrev">Stavrakos 2010</bibl>
+                    <author><forename>Ch.</forename>
+                        <surname>Stavrakos</surname></author>
+                    <title level="m">Bleisiegel der Sammlung Savvas Kophopoulos</title>
+                    <pubPlace>Turnhout </pubPlace>
+                    <publisher> Brepols</publisher>
+                    <date>2010</date>
+                </bibl>
 
                 <!-- Köhler-Osbahr -->
 
@@ -3017,6 +3026,26 @@
                     <date>1998</date>
                     <biblScope unit="page">p. 157-182</biblScope>
                 </bibl>
+                <bibl type="bookSection" xml:id="Nesbitt1999"
+                    corresp="http://zotero.org/users/3169239/items/5T8HBNKG">
+                    <bibl type="abbrev">Nesbitt, 1999</bibl>
+                    <author><forename>J.</forename>
+                        <surname>Nesbitt</surname></author>
+                    <title level="a">Byzantine lead seals from the vicinity of the governor’s palace and warehouses</title>
+                    <editor><forename>K. G.</forename>
+                        <surname>Holum</surname></editor>
+                    <editor><forename>A.</forename>
+                        <surname>Raban</surname></editor>
+                    <editor><forename>J.</forename>
+                        <surname>Patrich</surname></editor>
+                    <title level="m">Caesarea papers 2. Herod's temple, the provincial governor's praetorium and granaries, the later harbor, a gold coin hoard, and other studies</title>
+                    <pubPlace xml:lang="en">Portsmouth, Ri</pubPlace>
+                    <pubPlace xml:lang="fr">Portsmouth, Rhode Island</pubPlace>
+                    <date>1999</date>
+                    <biblScope unit="page">p. 129-135</biblScope>
+                    <series><title level="s">Journal of Roman Archaeology, Supplementary Series 35</title></series>
+                </bibl>
+                
                 <bibl type="bookSection" xml:id="Nesbitt2005"
                     corresp="http://zotero.org/users/3169239/items/5T8HBNKG">
                     <bibl type="abbrev">Nesbitt, 2005</bibl>
