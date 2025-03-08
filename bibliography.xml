@@ -3097,6 +3097,16 @@
                     <biblScope unit="page">p. 589-616</biblScope>
                     <series><title level="s">Byzantina Sorbonensia 29</title></series>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Prigent2019">
+                    <bibl type="abbrev">Prigent, 2019</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Prigent</surname></author>
+                    <title level="a">Bulles de plomb inédites pour l’histoire d’Orikos médiéval</title>
+                    <title level="j">SLSA Jahresbericht</title>
+                    <biblScope unit="volume"/>
+                    <date>2019</date>
+                    <biblScope unit="page">p. 135-162</biblScope>
+                </bibl>
 
                 <!-- Ravegnani -->
 
