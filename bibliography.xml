@@ -1553,7 +1553,19 @@
                     <biblScope unit="page">p. 549-582</biblScope> Available at <ref
                         target="https://doi.org/10.3406/numi.2013.3215">Persée</ref>
                 </bibl>
-
+                
+                <!--Erdoğan-->
+                <bibl type="journalArticle" xml:id="Erdoğan2018"
+                    corresp="http://zotero.org/users/3169239/items/XXXXX">
+                    <bibl type="abbrev">Erdoğan, 2018</bibl>
+                    <author><forename>E.</forename>
+                        <surname>Erdoğan</surname></author>
+                    <title level="a">A Selection of Unpublished Lead Seals from the Gaziantep Archeological Museum: Seals Issued by State Officials</title>
+                    <title level="j">Sanat Tarihi Yıllığı Sayı</title>
+                    <biblScope unit="volume">27</biblScope>
+                    <date>2018</date>
+                    <biblScope unit="page">p. 81-99</biblScope>
+                </bibl>
                 <!-- Dédéyan -->
 
                 <bibl type="book" xml:id="Dédéyan2003a"
@@ -1905,7 +1917,19 @@
                     <date>1980</date>
                     <biblScope unit="page">p. 45-180</biblScope>
                 </bibl>
-
+                
+                <!--Grünbart-->
+                <bibl type="journalArticle" xml:id="Grünbart1998"
+                    corresp="http://zotero.org/users/3169239/items/XXXXX">
+                    <bibl type="abbrev">Grünbart, 1998</bibl>
+                    <author><forename>M.</forename>
+                        <surname>Grünbart</surname></author>
+                    <title level="a">Die Familie Apokapes im Lichte neuer Quellen</title>
+                    <title level="j">Studies in Byzantine Sigillography</title>
+                    <biblScope unit="volume">5</biblScope>
+                     <date>1998</date>
+                    <biblScope unit="page">p. 29-41</biblScope>
+                </bibl>
                 <!-- Guillou -->
 
                 <bibl type="book" xml:id="Guillou1972"
@@ -3255,7 +3279,21 @@
                     <biblScope unit="page">p. 589-616</biblScope>
                     <series><title level="s">Byzantina Sorbonensia 29</title></series>
                 </bibl>
-
+                <bibl type="journalArticle" xml:id="PrigentCheynetErdoğan2020"
+                    corresp="http://zotero.org/users/3169239/items/XXXXX">
+                    <bibl type="abbrev">Prigent, Cheynet, Erdoğan, 2020</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Prigent</surname></author>
+                    <author><forename>J.-C.</forename>
+                        <surname>Cheynet</surname></author>
+                    <author><forename>E.</forename>
+                        <surname>Erdoğan</surname></author>
+                    <title level="a"> Les sceaux byzantins du musée de Gaziantep</title>
+                    <title level="j">Revue des études byzantines</title>
+                    <biblScope unit="volume">78</biblScope>
+                    <date>2020</date>
+                    <biblScope unit="page">p. 5-69</biblScope>
+                </bibl>
                 <!-- Ravegnani -->
 
                 <bibl type="bookSection" xml:id="Ravegnani1992"
