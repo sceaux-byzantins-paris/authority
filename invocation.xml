@@ -95,6 +95,15 @@
                     <term xml:lang="el">Θεοτόκε βοήθησε το δούλο σου</term>
                     <term xml:lang="it">xxx</term>
                 </item>
+                <item xml:id="inv009">
+                    <term xml:lang="grc">Σῴζοις, πάναγνε...οἰκέτην</term>
+                    <term xml:lang="en">All-holy One, may you save your servant</term>
+                    <term xml:lang="fr">xxx</term>
+                    <term xml:lang="de">Allheiliger, möge du deinen Diener</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">Πάναγνη, σώσε το δούλο σου</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
             </list>
         </body>
     </text>
