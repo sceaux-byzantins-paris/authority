@@ -104,6 +104,15 @@
                     <term xml:lang="el">Πάναγνη, σώσε το δούλο σου</term>
                     <term xml:lang="it">xxx</term>
                 </item>
+                <item xml:id="inv010">
+                    <term xml:lang="grc">Αγία Τριὰς ὁ Θεὸς ἡμῶν βοήθη</term>
+                    <term xml:lang="en">>Holy Trinity, our God, help</term>
+                    <term xml:lang="fr">xxx</term>
+                    <term xml:lang="de">Heilige Dreifaltigkeit, unser Gott, hilf</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">Aγία Τριάδα, Θεέ μας, βοήθησε</term>
+                    <term xml:lang="it">xxx</term>
+                </item>
             </list>
         </body>
     </text>
