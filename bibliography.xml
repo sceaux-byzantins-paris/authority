@@ -1245,6 +1245,20 @@
                     <date>1997</date>
                     <biblScope unit="page">p. 111-128</biblScope>
                 </bibl>
+                <bibl type="bookSection" xml:id="Cheynet2001">
+                    <bibl type="abbrev">Cheynet, 2001</bibl>
+                    <author><forename>J.-Cl.</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="a">Les ducs d'Antioche sous Michel IV et Constantin IX</title>
+                    <editor><forename>Cl.</forename>
+                        <surname>Sode</surname></editor>
+                    <editor><forename>S.A.</forename>
+                        <surname>Takács</surname></editor>
+                    <title level="m">Novum millennium. Studies on Byzantine history and culture dedicated to Paul Speck</title>
+                    <pubPlace>Aldershot</pubPlace>
+                    <date>2001</date>
+                    <biblScope unit="page">p. 53-63</biblScope>
+                </bibl>
                 <bibl type="bookSection" xml:id="Cheynet2002a"
                     corresp="http://zotero.org/users/3169239/items/3FXPEPCG">
                     <bibl type="abbrev">Cheynet, 2002a</bibl>
@@ -1376,6 +1390,17 @@
                     <pubPlace>Paris</pubPlace>
                     <date>2008</date>
                     <biblScope unit="page">p. 175-195</biblScope>
+                    <series><title level="s">Bilans de recherche 3</title></series>
+                </bibl>
+                <bibl type="bookSection" xml:id="Cheynet2008e">
+                    <bibl type="abbrev">Cheynet, 2008e</bibl>
+                    <author><forename>J.-Cl.</forename>
+                        <surname>Cheynet</surname></author>
+                    <title level="a">Les ducs d’Antioche sous Michel IV et Constantin IX</title>
+                    <title level="m">La société byzantine: l'apport des sceaux</title>
+                    <pubPlace>Paris</pubPlace>
+                    <date>2008</date>
+                    <biblScope unit="page">p. 197-207</biblScope>
                     <series><title level="s">Bilans de recherche 3</title></series>
                 </bibl>
                 <bibl type="journalArticle" xml:id="Cheynet2012"
@@ -2392,17 +2417,17 @@
                     <date>2008</date>
                     <biblScope unit="page">p. 105-132</biblScope>
                 </bibl>
-                
-                <bibl type="journalArticle" xml:id="Karagiorgou2008b"
-                    corresp="http://zotero.org/users/3169239/items/ΧΧΧΧΧ">
-                    <bibl type="abbrev">Karagiorgou, 2008b</bibl>
+
+                <bibl type="journalArticle" xml:id="Karagiorgou2008a"
+                    corresp="http://zotero.org/users/3169239/items/6XPS2IXV">
+                    <bibl type="abbrev">Karagiorgou, 2008</bibl>
                     <author><forename>O.</forename>
                         <surname>Karagiorgou</surname></author>
                     <title level="a">Περί αλφαβητισμού, αιρέσεων, εικονογραφίας και πολιτικών φιλοδοξιών στα μολυβδόβουλλα του Νικηφόρου Βοτανειάτη (περίπου 1001/2-1081)</title>
                     <title level="j">Byzantina Symmeikta</title>
                     <biblScope unit="volume">18</biblScope>
                     <date>2008</date>
-                    <biblScope unit="page">p.  77-122</biblScope>
+                    <biblScope unit="page">p. 77–122</biblScope> Available at <ref target="https://doi.org/10.12681/byzsym.464">EIE.gr</ref>
                 </bibl>
                 <bibl type="journalArticle" xml:id="Karagiorgou2009"
                     corresp="http://zotero.org/users/3169239/items/6XPS2IXV">
@@ -2429,8 +2454,8 @@
                     <biblScope unit="volume">26</biblScope>
                     <date>2016</date>
                     <biblScope unit="page">p. 247-308</biblScope> Available at <ref
-                        target="https://ejournals.epublishing.ekt.gr/index.php/bz/article/view/8622/10860"
-                        >EKT.org</ref>
+                        target="https://doi.org/10.12681/byzsym.8622"
+                        >EIE/gr</ref>
                 </bibl>
                 <bibl type="book" xml:id="Karagiorgou2021">
                     <bibl type="abbrev">Karagiorgou, Charalampakis, Malatras, 2021</bibl>
@@ -3279,6 +3304,7 @@
                     <biblScope unit="page">p. 589-616</biblScope>
                     <series><title level="s">Byzantina Sorbonensia 29</title></series>
                 </bibl>
+
                 <bibl type="journalArticle" xml:id="PrigentCheynetErdoğan2020"
                     corresp="http://zotero.org/users/3169239/items/XXXXX">
                     <bibl type="abbrev">Prigent, Cheynet, Erdoğan, 2020</bibl>
@@ -3294,6 +3320,17 @@
                     <date>2020</date>
                     <biblScope unit="page">p. 5-69</biblScope>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Prigent2019">
+                    <bibl type="abbrev">Prigent, 2019</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Prigent</surname></author>
+                    <title level="a">Bulles de plomb inédites pour l’histoire d’Orikos médiéval</title>
+                    <title level="j">SLSA Jahresbericht</title>
+                    <biblScope unit="volume"/>
+                    <date>2019</date>
+                    <biblScope unit="page">p. 135-162</biblScope>
+                </bibl>
+
                 <!-- Ravegnani -->
 
                 <bibl type="bookSection" xml:id="Ravegnani1992"
@@ -3397,6 +3434,18 @@
                     <date>1891</date>
                     <biblScope unit="page">p. 111-142</biblScope>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Schlumberger1916"
+                    corresp="http://zotero.org/users/3169239/items/6IE2NG8N">
+                    <bibl type="abbrev">Schlumberger, 1916</bibl>
+                    <author><forename>G.</forename>
+                        <surname>Schlumberger</surname></author>
+                    <title level="a">Sceaux byzantins inédits (sixième série)</title>
+                    <title level="j">Revue numismatique</title>
+                    <biblScope unit="volume">20 (4e série)</biblScope>
+                    <date>1916</date>
+                    <biblScope unit="page">p. 32-46</biblScope> Available at <ref target="https://gallica.bnf.fr/ark:/12148/bd6t54197256r/f48.item">Gallica</ref>
+                </bibl>
+
                 <!-- Seibt -->
 
                 <bibl type="book" xml:id="SeibtWassiliou2015">
@@ -3451,6 +3500,16 @@
                     <date>2005</date>
                         </bibl>
                 
+                <bibl type="journalArticle" xml:id="Seibt1976a">
+                    <bibl type="abbrev">Seibt, 1976a</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <title level="a">Miszellen zur historischen Geographie von Armenien und Georgien in byzantinischer Zeit</title>
+                    <title level="j">Handes Amsorya</title>
+                    <biblScope unit="volume">90</biblScope>
+                    <date>1976</date>
+                    <biblScope unit="page">p. 633-642</biblScope>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Seibt1987">
                     <bibl type="abbrev">Seibt, 1987</bibl>
                     <author><forename>W.</forename>

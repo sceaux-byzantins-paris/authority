@@ -2985,6 +2985,14 @@
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Βρυέλον (Bρίουλα)</placeName>
                <idno type="pleiades"/>
+           </place>
+        <place xml:id="geo0316">
+               <placeName xml:lang="grc">xxxxx</placeName>
+               <placeName xml:lang="en">Limnia</placeName>
+               <placeName xml:lang="fr">Limnia</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">xxxxx</placeName>
+               <idno type="pleiades"/>
             </place>
          </listPlace>
       </body>
