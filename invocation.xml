@@ -113,6 +113,22 @@
                     <term xml:lang="el">Aγία Τριάδα, Θεέ μας, βοήθησε</term>
                     <term xml:lang="it">xxx</term>
                 </item>
+                <item xml:id="inv011">
+                    <term xml:lang="grc">Ἅγιε Νικόλαε βοήθει τῷ σῷ δούλῳ</term>
+                    <term xml:lang="en">Saint Nicholas aid your servant</term>
+                    <term xml:lang="fr">Saint Nicolas protège ton serviteur</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                </item>
+                <item xml:id="inv012">
+                    <term xml:lang="grc">Ἅγιε Διμήτριε βοήθει τῷ σῷ δούλῳ</term>
+                    <term xml:lang="en">Saint Demetrios aid your servant</term>
+                    <term xml:lang="fr">Saint Démétrius protège ton serviteur</term>
+                    <term xml:lang="de">xxx</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                </item>
             </list>
         </body>
     </text>
