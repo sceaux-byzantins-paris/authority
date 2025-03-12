@@ -1102,6 +1102,23 @@
                     <date>1929</date>
                     <biblScope unit="page">p. 646-648</biblScope>
                </bibl>
+                
+                <!--Bulgurlu-->
+                <bibl type="bookSection" xml:id="Bulgurlu2019">
+                    <bibl type="abbrev">Bulgurlu, 2019</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Bulgurlu</surname></author>
+                    <title level="a">A Selection of Unpublished Byzantine Lead Seals from the Adnan Aci Collection related to the East</title>
+                    <editor><forename>Zh.</forename>
+                        <surname>Zhekova</surname></editor>
+                    <editor><forename>T.</forename>
+                        <surname>Todorov</surname></editor>
+                    <title level="m">ΑΝΤΙΧΑΡΙΣΜΑΤΟΣ ΕΠΙΣΦΡΑΓΙΣΙΣ. A Tribute to Prof. Ivan Jordanov’s 70th Anniversary</title>
+                    <pubPlace xml:lang="en">Shumen</pubPlace>
+                    <pubPlace xml:lang="fr">Shumen</pubPlace>
+                    <date>2010</date>
+                    <biblScope unit="page">p. 130-144</biblScope>
+                                   </bibl>
 
                 <!-- Campagnolo-Pothitou -->
 
@@ -2165,6 +2182,17 @@
                     <date>2013</date>
                     <biblScope unit="page">p. 449-460</biblScope>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Ivanišević2018"
+                    corresp="http://zotero.org/users/3169239/items/χχχχχ">
+                    <bibl type="abbrev">Ivanišević, 2018</bibl>
+                    <author><forename>I.</forename>
+                        <surname>Ivanišević</surname></author>
+                    <title level="a">New Byzantine seals from Morava (Margum) and Braničevo</title>
+                    <title level="j">Starinar</title>
+                    <biblScope unit="volume">68</biblScope>
+                    <date>2018</date>
+                    <biblScope unit="page">p. 111–124</biblScope>
+                </bibl>
 
                 <!-- Janin -->
 
@@ -2722,6 +2750,30 @@
                     <date>1932</date>
                     <series><title level="s">Archives de l’Orient chrétien 2</title></series>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Laurent1932a"
+                    corresp="http://zotero.org/users/3169239/items/χχχχ">
+                    <bibl type="abbrev">Laurent, 1932a</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Laurent</surname></author>
+                    <title level="a">Mélanges d'épigraphie grecque et de sigillographie byzantine</title>
+                    <title level="j">Echos d'Orient</title>
+                    <biblScope unit="volume">31</biblScope>
+                    <biblScope unit="issue">168</biblScope>
+                    <date>1932</date>
+                    <biblScope unit="page">p. 419-445</biblScope> Available at <ref
+                        target="https://www.persee.fr/doc/rebyz_1146-9447_1932_num_31_168_2731"
+                        >Persée</ref>. </bibl>
+                <bibl type="journalArticle" xml:id="Laurent1934"
+                    corresp="http://zotero.org/users/3169239/items/χχχχ">
+                    <bibl type="abbrev">Laurent, 1934</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Laurent</surname></author>
+                    <title level="a">Les bulles métriques dans la sigillographie byzantine</title>
+                    <title level="j">Hellenika</title>
+                    <biblScope unit="volume">7</biblScope>
+                      <date>1934</date>
+                    <biblScope unit="page">p. 63-71</biblScope></bibl>
+                
                 <bibl type="journalArticle" xml:id="Laurent1933"
                     corresp="http://zotero.org/users/3169239/items/χχχχ">
                     <bibl type="abbrev">Laurent, 1933</bibl>
