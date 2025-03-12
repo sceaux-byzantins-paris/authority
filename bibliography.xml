@@ -3567,6 +3567,17 @@
                     <date>1891</date>
                     <biblScope unit="page">p. 111-142</biblScope>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Schlumberger1905"
+                    corresp=" http://opac.regesta-imperii.de/id/722846">
+                    <bibl type="abbrev">Schlumberger, 1905</bibl>
+                    <author><forename>G.</forename>
+                        <surname>Schlumberger</surname></author>
+                    <title level="a">Sceaux byzantins inédits (cinquième série)</title>
+                    <title level="j">Revue Numismatique</title>
+                    <biblScope unit="volume">9 (4e série)</biblScope>
+                    <date>1905</date>
+                    <biblScope unit="page">p. 321-354</biblScope> Available at <ref target="https://gallica.bnf.fr/ark:/12148/bd6t54197247s/f349.item">Gallica</ref>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Schlumberger1916"
                     corresp="http://zotero.org/users/3169239/items/6IE2NG8N">
                     <bibl type="abbrev">Schlumberger, 1916</bibl>
