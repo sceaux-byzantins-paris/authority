@@ -2619,7 +2619,7 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0284">
-               <term xml:lang="grc">στράτωρ, βασιλικὸς</term>
+               <term xml:lang="grc">στράτωρ, βασιλικός</term>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">stratôr impérial</term>
                <term xml:lang="de">strator, kaiserlich</term>
@@ -2699,14 +2699,24 @@
                <term xml:lang="el">άρχων, βασιλικός</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0293">
+            
+<item xml:id="of0293">
+               <term xml:lang="grc">χαρτουλάριος, βασιλικός</term>
+               <term xml:lang="en">xxx</term>
+               <term xml:lang="fr">chartulaire impérial</term>
+               <term xml:lang="de">chartularios, kaiserlich</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">χαρτουλάριος, βασιλικός</term>
+               <term xml:lang="it">xxx</term>
+   </item>
+           
+           <item xml:id="of0294">
                <term xml:lang="grc">ἄνθρωπος</term>
                <term xml:lang="en">anthropos</term>
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">anthropos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">άνθρωπος</term>
-               <term xml:lang="it">xxx</term>
             </item>
          </list>
       </body>

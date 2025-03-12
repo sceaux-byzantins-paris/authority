@@ -68,7 +68,7 @@
             <place xml:id="geo0004">
                <placeName xml:lang="grc">Πρώτη Κιλικία</placeName>
                <placeName xml:lang="en">xxx</placeName>
-               <placeName xml:lang="fr">(kommerkia de) Cilicie Première</placeName>
+               <placeName xml:lang="fr">Cilicie Première</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Πρώτη Κιλικία</placeName>
             </place>
@@ -2987,7 +2987,7 @@
                <idno type="pleiades"/>
            </place>
         <place xml:id="geo0316">
-               <placeName xml:lang="grc">xxxxx</placeName>
+               <placeName xml:lang="grc">xxxxx</placeName><!-- greek! -->
                <placeName xml:lang="en">Limnia</placeName>
                <placeName xml:lang="fr">Limnia</placeName>
                <placeName xml:lang="it">xxx</placeName>
@@ -2995,14 +2995,43 @@
                <idno type="pleiades"/>
             </place>
             <place xml:id="geo0317">
-               <placeName xml:lang="grc">Δημητριάς</placeName>
+               <placeName xml:lang="grc">Μεθώνη</placeName>
+               <placeName xml:lang="en">Modon</placeName>
+               <placeName xml:lang="fr">Modon</placeName>
+               <placeName xml:lang="it">Modone</placeName>
+               <placeName xml:lang="el">xxxxx</placeName>
+               <idno type="pleiades">570483</idno>
+               <link target="https://pleiades.stoa.org/places/570483"/>
+               <idno type="geonames">257122</idno>
+               <link target="https://www.geonames.org/257122/methoni.html"/>
+            </place>
+            <place xml:id="geo0318">
+               <placeName xml:lang="grc">Μαλάγινα</placeName>
+               <placeName xml:lang="en">Malagina</placeName>
+               <placeName xml:lang="fr">Malagina</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">xxxxx</placeName>
+               <idno type="TIB">13, Malagina</idno>
+               <link target="https://tib.oeaw.ac.at/static/reader/TIB/tib13.html#page/746/mode/2up"/>
+            </place>
+            <place xml:id="geo0319">
+               <placeName xml:lang="grc">Ἰερηχώ</placeName>
+               <placeName xml:lang="en">Iericho</placeName>
+               <placeName xml:lang="fr">Jéricho</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">xxxxx</placeName>
+               <idno type="pleiades">481939</idno>
+               <link target="https://pleiades.stoa.org/places/481939"/>
+            </place>
+           <place xml:id="geo0320">
+            <placeName xml:lang="grc">Δημητριάς</placeName>
                <placeName xml:lang="en">Demetrias</placeName>
                <placeName xml:lang="de">Demetrias</placeName>
                <placeName xml:lang="fr">xx</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Δημητριάς</placeName>
                <idno type="pleiades"/>
-            </place>
+           </place>
          </listPlace>
       </body>
    </text>
