@@ -3023,6 +3023,15 @@
                <idno type="pleiades">481939</idno>
                <link target="https://pleiades.stoa.org/places/481939"/>
             </place>
+           <place xml:id="geo0320">
+            <placeName xml:lang="grc">Δημητριάς</placeName>
+               <placeName xml:lang="en">Demetrias</placeName>
+               <placeName xml:lang="de">Demetrias</placeName>
+               <placeName xml:lang="fr">xx</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Δημητριάς</placeName>
+               <idno type="pleiades"/>
+           </place>
          </listPlace>
       </body>
    </text>
