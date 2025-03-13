@@ -3840,7 +3840,28 @@
                     <publisher>Nauwelaerts</publisher>
                     <date>1980</date>
                 </bibl>
-
+<!--Sode-->
+                <bibl type="bookSection" xml:id="Sode2019"
+                    corresp="http://zotero.org/users/3169239/items/XXXX">
+                    <bibl type="abbrev">Sode, 2019</bibl>
+                    <author><forename>C.</forename>
+                        <surname>Sode</surname></author>
+                    <title level="a">Reaching Beyond the Borders of the Byzantine Empire: The Seals of the epi ton barbaron</title>
+                    <editor><forename>C.</forename>
+                        <surname>Sode</surname></editor>
+                    <editor><forename>S.</forename>
+                        <surname>Günther</surname></editor>
+                    <editor><forename>Qiang</forename>
+                        <surname>Li</surname></editor>
+                         <editor><forename>S.</forename>
+                        <surname>Wahlgren</surname></editor>
+                    <editor><forename>Qiang</forename>
+                        <surname>Zhang</surname></editor>
+                    <title level="m">Byzantium in China: Studies in Honour of Professor Xu Jialing on the Occasion of her Seventieth Birthday</title>
+                    <pubPlace>Changchun</pubPlace>
+                    <date>2019</date>
+                    <biblScope unit="page">p. 173-193</biblScope>
+                       </bibl>
                 <!-- Sokolova -->
 
                 <bibl type="journalArticle" xml:id="Sokolova1986">
