@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LAST MODIFIED: 2023-12-19 -->
+<?xml-model href="https://epidoc.stoa.org/schema/9.5/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Authority list of institutions in SigiDoc</title>
+            <editor xml:id="AS">Alessio Sopracasa</editor>
+            <editor xml:id="MF">Martina Filosa</editor>
+            <editor xml:id="SM">Sima Meziridou</editor>
+            <editor xml:id="NB">Numa Buchs</editor>
+            <editor xml:id="PE">Pia Evening</editor>
+            <editor xml:id="SE">Sofia Efthymoglou</editor>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ANR/DFG DigiByzSeal - Unlocking the Hidden Value of Seals: New
+                    Methodologies for Historical Research in Byzantine Studies</authority>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                        Attribution 4.0 International License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text><!--GERMAN TRANSLATIONS TO BE REVIEWED!-->
+      <body>
+         <list type="institutions">
+            <item xml:id="org0001">
+               <term xml:lang="grc">ἀγέλαι</term>
+               <term xml:lang="en">agelai</term>
+               <term xml:lang="fr">troupeaux</term>
+               <term xml:lang="de">agelai</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">αγέλαι</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0002">
+               <term xml:lang="grc">βασιλικαὶ ἀγέλαι</term>
+               <term xml:lang="en">agelai, imperial</term>
+               <term xml:lang="fr">troupeaux impériaux</term>
+               <term xml:lang="de">agelai, kaiserlich</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">βασιλικαί αγέλαι</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0003">
+               <term xml:lang="grc">σέκρετον τῶν βασιλικῶν ἀρμαμέντων</term>
+               <term xml:lang="en">sekreton of the imperial armamenta</term>
+               <term xml:lang="fr">(bureau des) arsenaux impériaux</term>
+               <term xml:lang="de">sekreton ton basilikon armamenton</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σέκρετον των βασιλικών αρμαμέντων</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0004">
+               <term xml:lang="grc">σέκρετον τοῦ Χριστοῦ Ἀντιφωνήτου</term>
+               <term xml:lang="en">sekreton of Christ Antiphonetes</term>
+               <term xml:lang="fr">sékréton du Christ Antiphônète</term>
+               <term xml:lang="de">sekreton tu Christu Antiphonetu</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σέκρετον του Χριστου Αντιφωνήτου</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0005">
+               <term xml:lang="grc">ἀννώνη</term>
+               <term xml:lang="en">annona</term>
+               <term xml:lang="fr">annone</term>
+               <term xml:lang="de">annone</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">αννώνα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0006">
+               <term xml:lang="grc">δήμος τῶν Βενέτων</term>
+               <term xml:lang="en">demos of the Blues</term>
+               <term xml:lang="fr">(dème des) Bleus</term>
+               <term xml:lang="de">demos ton Beneton</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">δήμος των Βενέτων</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0007">
+               <term xml:lang="grc">βῆλον</term>
+               <term xml:lang="en">Velum</term>
+               <term xml:lang="fr">Velum</term>
+               <term xml:lang="de">Velon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">βήλον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0008">
+               <term xml:lang="grc">βεστιάριον</term>
+               <term xml:lang="en">vestiarion</term>
+               <term xml:lang="fr">vestiarion</term>
+               <term xml:lang="de">vestiarion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">βεστιάριον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0009">
+               <term xml:lang="grc">βεστιάριον, βασιλικόν</term>
+               <term xml:lang="en">vestiarion, imperial</term>
+               <term xml:lang="fr">vestiarion impérial</term>
+               <term xml:lang="de">vestiarion, kaiserlich</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">βεστιάριον, βασιλικόν</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0010"><!--DE unclear!-->
+               <term xml:lang="grc">βίγλης</term>
+               <term xml:lang="en">Vigla</term>
+               <term xml:lang="fr">Veille</term>
+               <term xml:lang="de">Vigles</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">βίγλης</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0011">
+               <term xml:lang="grc">γενικόν</term>
+               <term xml:lang="en">genikon</term>
+               <term xml:lang="fr">génikon</term>
+               <term xml:lang="de">genikon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">γενικόν</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0012">
+               <term xml:lang="grc">δρόμος</term>
+               <term xml:lang="en">dromos</term>
+               <term xml:lang="fr">drome</term>
+               <term xml:lang="de">dromos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">δρόμος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0013">
+               <term xml:lang="grc">εἰδικόν</term>
+               <term xml:lang="en">eidikon</term>
+               <term xml:lang="fr">eidikon</term>
+               <term xml:lang="de">eidikon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">ειδικόν</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0014">
+               <term xml:lang="grc">εἰδικόν, βασιλικόν</term>
+               <term xml:lang="en">eidikon, imperial</term>
+               <term xml:lang="fr">eidikon impérial</term>
+               <term xml:lang="de">eidikon, kaiserlich</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">ειδικόν, βασιλικόν</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0015">
+               <term xml:lang="grc">εἰδικὸς λόγος</term>
+               <term xml:lang="en">eidikos logos</term>
+               <term xml:lang="fr">eidikos logos</term>
+               <term xml:lang="de">eidikos logos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">ειδικὸς λόγος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0016">
+               <term xml:lang="grc">ἔφορος</term>
+               <term xml:lang="en">sekreton of the ephoros</term>
+               <term xml:lang="fr">(sékréton de l') éphore</term>
+               <term xml:lang="de">ephoros</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">έφορος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0017">
+               <term xml:lang="grc">Ἱππόδρομος</term>
+               <term xml:lang="en">Hippodrome</term>
+               <term xml:lang="fr">Hippodrome</term>
+               <term xml:lang="de">hippodromos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Ιππόδρομος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0018">
+               <term xml:lang="grc">σέκρετον τῶν κρίσεων</term>
+               <term xml:lang="en">sekreton of the epi ton kriseon</term>
+               <term xml:lang="fr">(sékréton de l') épi ton kriséôn</term>
+               <term xml:lang="de">sekreton ton kriseon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σέκρετον των κρίσεων</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0019">
+               <term xml:lang="grc">ὀρφανοτροφεῖον</term>
+               <term xml:lang="en">orphanotropheion</term>
+               <term xml:lang="fr">orphelinat</term>
+               <term xml:lang="de">orphanotropheion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">ορφανοτροφείον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0020">
+               <term xml:lang="grc">ὀρφανοτροφεῖον, μέγα</term>
+               <term xml:lang="en">orphanotropheion, mega</term>
+               <term xml:lang="fr">grand orphelinat</term>
+               <term xml:lang="de">orphanotropheion, mega</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">ορφανοτροφείον, μέγα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0021">
+               <term xml:lang="grc">ὀξὺς δρόμος</term>
+               <term xml:lang="en">oxys dromos</term>
+               <term xml:lang="fr">οxys dromos</term>
+               <term xml:lang="de">oxys dromos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">οξύς δρόμος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0022">
+               <term xml:lang="grc">φύλαξ</term>
+               <term xml:lang="en">phylax</term>
+               <term xml:lang="fr">phylax</term>
+               <term xml:lang="de">phylax</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">φύλαξ</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0023">
+               <term xml:lang="grc">δήμος τῶν Πρασίνων</term>
+               <term xml:lang="en">demos of the Green</term>
+               <term xml:lang="fr">(dème des) Verts</term>
+               <term xml:lang="de">demos ton Prasinon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">δήμος των Πρασίνων</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0024">
+               <term xml:lang="grc">σακέλλιον</term>
+               <term xml:lang="en">sakellion</term>
+               <term xml:lang="fr">sacelle</term>
+               <term xml:lang="de">sakellion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σακέλλιον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0025">
+               <term xml:lang="grc">σακέλλη</term>
+               <term xml:lang="en">sakelle</term>
+               <term xml:lang="fr">sacelle</term>
+               <term xml:lang="de">sakelle</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σακέλλη</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0026">
+               <term xml:lang="grc">σακέλλη, βασιλική</term>
+               <term xml:lang="en">sakelle, imperial</term>
+               <term xml:lang="fr">sacelle impériale</term>
+               <term xml:lang="de">sakelle, kaiserlich</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σακέλλη, βασιλική</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0027">
+               <term xml:lang="grc">στρατιωτικόν</term>
+               <term xml:lang="en">stratiotikon</term>
+               <term xml:lang="fr">stratiôtikon</term>
+               <term xml:lang="de">stratiotikon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">στρατιωτικόν</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0028"><!--use unclear!-->
+               <term xml:lang="grc">χρυσοτρίκλινος</term>
+               <term xml:lang="en">Chrysotriklinos</term>
+               <term xml:lang="fr">Chrysotriklinos</term>
+               <term xml:lang="de">Chrysotriklinos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">χρυσοτρίκλινος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0029">
+               <term xml:lang="grc">ὡρρειάριος</term>
+               <term xml:lang="en">horreiarios</term>
+               <term xml:lang="fr">horreiarios</term>
+               <term xml:lang="de">horreiarios</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">ωρρειάριος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0030">
+               <term xml:lang="grc">βλάττιον</term>
+               <term xml:lang="en">blattion</term>
+               <term xml:lang="fr">blattion</term>
+               <term xml:lang="de">blattion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">βλάττιον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0031">
+               <term xml:lang="grc">ἄρχοντες</term>
+               <term xml:lang="en">archontes</term>
+               <term xml:lang="fr">archontes</term>
+               <term xml:lang="de">archontes</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">άρχοντες</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0032">
+               <term xml:lang="grc">χρυσοχείον</term>
+               <term xml:lang="en">chrysocheion</term>
+               <term xml:lang="fr">chrysochéion</term>
+               <term xml:lang="de">chrysocheion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">χρυσοχείον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0033">
+               <term xml:lang="grc">χρυσοκλαβαρία</term>
+               <term xml:lang="en">chrysoklabaria</term>
+               <term xml:lang="fr">chrysoklabaria</term>
+               <term xml:lang="de">chrysoklabaria</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">χρυσοκλαβαρία</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0034">
+               <term xml:lang="grc">εὑαγεῖς οἶκοι</term>
+               <term xml:lang="en">euageis oikoi</term>
+               <term xml:lang="fr"/>
+               <term xml:lang="de">euageis oikoi</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">ευαγείς οίκοι</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0035">
+               <term xml:lang="grc">μητᾶτον, μητᾶτα</term>
+               <term xml:lang="en">mitaton, mitata</term>
+               <term xml:lang="fr">mètaton, mètata</term>
+               <term xml:lang="de">metaton, metata</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">μητάτον, μητάτα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0036">
+               <term xml:lang="grc">βασιλικά κομμέρκια</term>
+               <term xml:lang="en">imperial kommerkia</term>
+               <term xml:lang="fr">xxxx</term>
+               <term xml:lang="de">kaiserliche Kommerkia</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">βασιλικά κομμέρκια</term>
+               <term xml:lang="it">xxx</term>
+                        </item>
+            <item xml:id="org0037">
+               <term xml:lang="grc">ὁῤῥέα, βασιλικά</term>
+               <term xml:lang="en">horrea, imperial</term>
+               <term xml:lang="fr"/>
+               <term xml:lang="de">horrea, kaiserlich</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">ορρέα, βασιλικά</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0038">
+               <term xml:lang="grc">πριβάτα</term>
+               <term xml:lang="la">res privata</term>
+               <term xml:lang="en">res privata</term>
+               <term xml:lang="fr">res privata</term>
+               <term xml:lang="de">privata</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">πριβάτα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0039">
+               <term xml:lang="grc">θείοι θησαυροῖ</term>
+               <term xml:lang="la">sacræ largitiones</term>
+               <term xml:lang="en">sacræ largitiones</term>
+               <term xml:lang="fr">largesses sacrêes</term>
+               <term xml:lang="de">theoi thesauroi</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">θείοι θησαυροί</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0040">
+               <term xml:lang="grc">σταύλος, σταύλοι</term>
+               <term xml:lang="en">stable(s)</term>
+               <term xml:lang="fr">étable(s)</term>
+               <term xml:lang="de">staulos, stauloi</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σταύλος, σταύλοι</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0041">
+               <term xml:lang="grc">σταύλος, βασιλικός; σταύλοι, βασιλικοί</term>
+               <term xml:lang="en">stable(s), imperial</term>
+               <term xml:lang="fr">étable(s) impériale(s)</term>
+               <term xml:lang="de">staulos, kaiserlich; stauloi, kaiserlich</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σταύλος, βασιλικός; σταύλοι, βασιλικοί</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0042">
+               <term xml:lang="grc">ὕδάτα</term>
+               <term xml:lang="en">hydata</term>
+               <term xml:lang="fr">eaux</term>
+               <term xml:lang="de">hydata</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">ύδατα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0043">
+               <term xml:lang="grc">λαμία</term>
+               <term xml:lang="en">lamia</term>
+               <term xml:lang="fr">lamia</term>
+               <term xml:lang="de">lamia</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">λαμία</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0044">
+               <term xml:lang="grc">ἄρτον</term>
+               <term xml:lang="en">arton</term>
+               <term xml:lang="fr">arton</term>
+               <term xml:lang="de">arton</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">άρτον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0045">
+               <term xml:lang="grc">ἀποθήκη</term>
+               <term xml:lang="en">apotheke</term>
+               <term xml:lang="fr">apothèque</term>
+               <term xml:lang="de">apotheke</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">αποθήκη</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0046">
+               <term xml:lang="grc">ἐργοδοσία</term>
+               <term xml:lang="en">ergodosia</term>
+               <term xml:lang="fr">ergodosia</term>
+               <term xml:lang="de">ergodosia</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">εργοδοσία</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0047">
+               <term xml:lang="grc">θεῖος οἶκος</term>
+               <term xml:lang="en">domus divina</term>
+               <term xml:lang="fr">maison divine</term>
+               <term xml:lang="de">theios oikos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">θείος οίκος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0048">
+               <term xml:lang="grc">κουρατωρίκιον</term>
+               <term xml:lang="en">kouratorikion</term>
+               <term xml:lang="fr">kouratôrikion</term>
+               <term xml:lang="de">kuratorikion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">κουρατωρίκιον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0049">
+               <term xml:lang="grc">κουρατωρίκιον, μέγα</term>
+               <term xml:lang="en">kouratorikion, mega</term>
+               <term xml:lang="fr">grand kouratôrikion</term>
+               <term xml:lang="de">kuratorikion, mega</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">κουρατωρίκιον, μέγα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0050">
+               <term xml:lang="grc">πραιτώριον</term>
+               <term xml:lang="en">praitorion</term>
+               <term xml:lang="fr">prétoire</term>
+               <term xml:lang="de">praitorion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">πραιτώριον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0051"><!--DE unclear!-->
+               <term xml:lang="grc">ὀφφικία</term>
+               <term xml:lang="en">offikia</term>
+               <term xml:lang="fr">offices</term>
+               <term xml:lang="de">offikia</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">οφφίκια</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0052"><!--DE unclear!-->
+               <term xml:lang="grc">βασιλικὰ ὀφφικία</term>
+               <term xml:lang="en">offikia, imperial</term>
+               <term xml:lang="fr">offices impériaux</term>
+               <term xml:lang="de">ophphikia, kaiserlich</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">βασιλικά οφφίκια</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0053">
+               <term xml:lang="grc">Μάγγανα</term>
+               <term xml:lang="en">Magnana</term>
+               <term xml:lang="fr">Manganes</term>
+               <term xml:lang="de">Mangana</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μάγγανα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0054">
+               <term xml:lang="grc">Πέτριον</term>
+               <term xml:lang="en">Petrion</term>
+               <term xml:lang="fr">Pétrion</term>
+               <term xml:lang="de">Petrion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Πέτριον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0055">
+               <term xml:lang="grc">ἄρκλα</term>
+               <term xml:lang="en">arkla</term>
+               <term xml:lang="fr">Archives</term>
+               <term xml:lang="de">arkla</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">άρκλα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0056">
+               <term xml:lang="grc">κῆνσος</term>
+               <term xml:lang="en">kensos</term>
+               <term xml:lang="fr">census</term>
+               <term xml:lang="de">kensos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">κήνσος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0057">
+               <term xml:lang="grc">βασιλεύς, μέγας</term>
+               <term xml:lang="en">basileus, megas</term>
+               <term xml:lang="fr">grand empereur</term>
+               <term xml:lang="de">basileus, megas</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">βασιλεύς, μέγας</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0058">
+               <term xml:lang="grc">τράπεζα</term>
+               <term xml:lang="en">trapeza</term>
+               <term xml:lang="fr">table</term>
+               <term xml:lang="de">trapeza</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">τράπεζα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0059">
+               <term xml:lang="grc">λογοθέσιον</term>
+               <term xml:lang="en">logothesion</term>
+               <term xml:lang="fr">logothésion</term>
+               <term xml:lang="de">logothesion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">λογοθέσιον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0060">
+               <term xml:lang="grc">κογχύλη</term>
+               <term xml:lang="en">konchyle</term>
+               <term xml:lang="fr">konchyle</term>
+               <term xml:lang="de">konchyle</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">κογχύλη</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0061">
+               <term xml:lang="grc">ἀξιώματα</term>
+               <term xml:lang="en">axiomata</term>
+               <term xml:lang="fr">dignités</term>
+               <term xml:lang="de">axiomata</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">αξιώματα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0062">
+               <term xml:lang="grc">Μονὴ Παναγίας τῶν Βλαχερνῶν</term>
+               <term xml:lang="en">Panagia of the Blachernai (monastery)</term>
+               <term xml:lang="fr">xxx</term>
+               <term xml:lang="de">Mone Panagias ton Blachernon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή Παναγίας των Βλαχερνών</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0063">
+               <term xml:lang="grc">ἐκκλησία τῆς Ἁγίας Σοφίας</term>
+               <term xml:lang="en">Hagia Sophia (church)</term>
+               <term xml:lang="fr">xxx</term>
+               <term xml:lang="de">ekklesia tes Hagias Sophias</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">εκκλησία της Αγίας Σοφίας</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0064">
+               <term xml:lang="grc">Μεγάλη ἐκκλησία</term>
+               <term xml:lang="en">Great Church</term>
+               <term xml:lang="fr">Grande Église</term>
+               <term xml:lang="de">Megale ekklesia</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μεγάλη εκκλησία</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0065">
+               <term xml:lang="grc">Μονὴ Ἐλαιοβωμῶν</term>
+               <term xml:lang="en">Elaiobomon (monastery)</term>
+               <term xml:lang="fr">xxx</term>
+               <term xml:lang="de">Mone Elaiobomon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή Ελαιοβωμών</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0066">
+               <term xml:lang="grc">Μονὴ Στουδίου</term>
+               <term xml:lang="en">Stoudios (monastery)</term>
+               <term xml:lang="fr">monastère de Stoudios</term>
+               <term xml:lang="de">Mone Studio (Studioskloster)</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή Στουδίου</term>
+               <term xml:lang="it">monastero di Studio</term>
+            </item>
+            <item xml:id="org0067">
+               <term xml:lang="grc">Μονὴ Παντοκράτορος</term>
+               <term xml:lang="en">Christ Pantokrator (monastery)</term>
+               <term xml:lang="fr">monastère du Christ Pantocrator</term>
+               <term xml:lang="de">Mone Pantokratoros (Pantokratorkloster)</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή Παντοκράτορος</term>
+               <term xml:lang="it">monastero di Cristo Pantocratore</term>
+            </item>
+            <item xml:id="org0068">
+               <term xml:lang="grc">Μονὴ τῆς Συνοικίας</term>
+               <term xml:lang="en">Synoikia (monastery)</term>
+               <term xml:lang="fr">monastère de Synoikia</term>
+               <term xml:lang="de">Mone tes Sunoikias</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή της Συνοικίας</term>
+               <term xml:lang="it">monastero di Synoikia</term>
+            </item>
+            <item xml:id="org0069">
+               <term xml:lang="grc">Μονὴ Μωλιβωτοῦ</term>
+               <term xml:lang="en">St. Nicholas Moliboton (monastery)</term>
+               <term xml:lang="fr">monastère de Saint Nicholas Molibôton</term>
+               <term xml:lang="de">Mone Molibotu (Kloster des Hl. Nicholaos Moliboton)</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή Μωλιβωτού</term>
+               <term xml:lang="it">monastero di San Nicola Molibotone</term>
+            </item>
+            <item xml:id="org0070">
+               <term xml:lang="grc">ἐκκλησία τῆς Ἁγίας Σιὼν καὶ τοῦ Ἁγίου ζωηφόρου Τάφου</term>
+               <term xml:lang="en">Holy Mount Sion and Holy Sepulchre of Jerusalem (church)</term>
+               <term xml:lang="fr">xxx</term>
+               <term xml:lang="de">ekklesia tes Hagias Sion kai tu Hagiu zoephoru Taphu (Kirche des Heiligen Berges Zion und des Heiligen Grabes)</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">εκκλησία της Αγίας Σιὼν και του Αγίου ζωηφόρου Τάφου</term>
+               <term xml:lang="it">Chiesa del Santo Monte Sion e del Santo Sepolcro di Gerusalemme</term>
+            </item>
+            <item xml:id="org0071">
+               <term xml:lang="grc">Μονὴ Ὀρόβων</term>
+               <term xml:lang="en">Orobon (monastery)</term>
+               <term xml:lang="fr">Monastère d'Orobon</term>
+               <term xml:lang="de">Mone Orobon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή Ορόβων</term>
+               <term xml:lang="it">Monastero di Orobon</term>
+            </item>
+            <item xml:id="org0072">
+               <term xml:lang="grc">Μονὴ τοῦ Ἁγίου Εἰσαυροῦ</term>
+               <term xml:lang="en">St. Isauros (monastery)</term>
+               <term xml:lang="fr">Monastère de Saint Isauros</term>
+               <term xml:lang="de">Mone tu Hagiu Eisauru (Kloster des Heiligen Isauros)</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή του Αγίου Ισαύρου</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0073">
+               <term xml:lang="grc">Μονὴ Ἀνατέλλοντος</term>
+               <term xml:lang="en">Anatellon (monastery)</term>
+               <term xml:lang="fr">monastère d'Anatellôn</term>
+               <term xml:lang="de">Mone Anatellontos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή Ανατέλλοντος</term>
+               <term xml:lang="it">monastero di Anatellon</term>
+            </item>
+            <item xml:id="org0074">
+               <term xml:lang="grc">Μονὴ Λακάπας</term>
+               <term xml:lang="en">Lakape/Lakapas (monastery)</term>
+               <term xml:lang="fr">monastère de Lakapè</term>
+               <term xml:lang="de">Mone Lakapas</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή Λακάπας</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0075">
+               <term xml:lang="grc">Μονὴ τοῦ Ἁγίου Ἀββᾶ Κύρου</term>
+               <term xml:lang="en">Abba Kyros (monastery)</term>
+               <term xml:lang="fr">xxx</term>
+               <term xml:lang="de">Mone tu Hagiu Abba Kyru</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μονή του Αγίου Αββά Κύρου</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0076">
+               <term xml:lang="grc">Νέα Ἐκκλησία</term>
+               <term xml:lang="en">New Church</term>
+               <term xml:lang="fr">Église de la Néa</term>
+               <term xml:lang="de">Nea ekklesia</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Νέα Εκκλησία</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0077">
+               <term xml:lang="grc">Σαμψών</term>
+               <term xml:lang="en">Sampson</term>
+               <term xml:lang="fr">Sampsôn</term>
+               <term xml:lang="de">Sampson</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Σαμψών</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0078">
+               <term xml:lang="grc">Εὔβουλος</term>
+               <term xml:lang="en">Euboulos</term>
+               <term xml:lang="fr">Euboulos</term>
+               <term xml:lang="de">Eubulos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Εύβουλος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0079">
+               <term xml:lang="grc">Τροπαιόφορος</term>
+               <term xml:lang="en">Tropaiophoros</term>
+               <term xml:lang="fr">Tropaiophore</term>
+               <term xml:lang="de">Tropaiophoros</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Τροπαιόφορος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0080">
+               <term xml:lang="grc"/>
+               <term xml:lang="en"/>
+               <term xml:lang="fr"/>
+               <term xml:lang="de"/>
+               <term xml:lang="bg"/>
+               <term xml:lang="el"/>
+               <term xml:lang="it"/>
+            </item>
+            <item xml:id="org0081">
+               <term xml:lang="grc"/>
+               <term xml:lang="en"/>
+               <term xml:lang="fr"/>
+               <term xml:lang="de"/>
+               <term xml:lang="bg"/>
+               <term xml:lang="el"/>
+               <term xml:lang="it"/>
+            </item>
+            <item xml:id="org0082">
+               <term xml:lang="grc"/>
+               <term xml:lang="en"/>
+               <term xml:lang="fr"/>
+               <term xml:lang="de"/>
+               <term xml:lang="bg"/>
+               <term xml:lang="el"/>
+               <term xml:lang="it"/>
+            </item>
+            <item xml:id="org0083">
+               <term xml:lang="grc"/>
+               <term xml:lang="en"/>
+               <term xml:lang="fr"/>
+               <term xml:lang="de"/>
+               <term xml:lang="bg"/>
+               <term xml:lang="el"/>
+               <term xml:lang="it"/>
+            </item>
+            <item xml:id="org0084">
+               <term xml:lang="grc">μονὴ Ἀμινσοῦ</term>
+               <term xml:lang="en">Amisos/Aminsos (monastery)</term>
+               <term xml:lang="fr">Amisos/Aminsos (monastère)</term>
+               <term xml:lang="de">mone Aminsu</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">μονή Αμινσού</term>
+               <term xml:lang="it">Amisos/Aminsos (monastero)</term>
+            </item>
+            <item xml:id="org0085">
+               <term xml:lang="grc">Μυρέλαιον</term>
+               <term xml:lang="en">Myrelaion</term>
+               <term xml:lang="fr">Myrélaion</term>
+               <term xml:lang="de">Myrelaion</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Μυρέλαιον</term>
+               <term xml:lang="it">Myrelaion</term>
+            </item>
+            <item xml:id="org0086">
+               <term xml:lang="grc">σχολαί</term>
+               <term xml:lang="la">scholæ</term>
+               <term xml:lang="en">scholai</term>
+               <term xml:lang="fr">scholes</term>
+               <term xml:lang="de">scholai</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σχολαί</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0087">
+               <term xml:lang="grc">σχολή, ὄγδοη</term>
+               <term xml:lang="en">eighth schole</term>
+               <term xml:lang="fr">huitième schole</term>
+               <term xml:lang="de">schole, ogdoe</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">σχολή, όγδοη</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0088">
+               <term xml:lang="grc">πλώϊμον</term>
+               <term xml:lang="en">fleet</term>
+               <term xml:lang="fr">flotte</term>
+               <term xml:lang="de">ploimon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">πλώιμον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0089">
+               <term xml:lang="grc">κόρτη</term>
+               <term xml:lang="en">tent</term>
+               <term xml:lang="fr">tente</term>
+               <term xml:lang="de">korte</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">κόρτη</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0090">
+               <term xml:lang="grc">Ἐξκουβίτοι</term>
+               <term xml:lang="en">Exkoubitoi</term>
+               <term xml:lang="fr">Excubites</term>
+               <term xml:lang="de">Exkubitoi</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Εξκουβίτοι</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0091">
+               <term xml:lang="grc">τοῦλδον</term>
+               <term xml:lang="en">touldon</term>
+               <term xml:lang="fr">touldon</term>
+               <term xml:lang="de">tuldon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">τούλδον</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0092">
+               <term xml:lang="grc">Νοὐμερα</term>
+               <term xml:lang="en">Noumera</term>
+               <term xml:lang="fr">Nouméra</term>
+               <term xml:lang="de">Numera</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Νούμερα</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0093">
+               <term xml:lang="grc">Ὀπτιμάτοι</term>
+               <term xml:lang="en">Optimatoi</term>
+               <term xml:lang="fr">Optimates</term>
+               <term xml:lang="de">Optimatoi</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Οπτιμάτοι</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0094">
+               <term xml:lang="grc">Ἰκανάτοι</term>
+               <term xml:lang="en">Hikanatoi</term>
+               <term xml:lang="fr">Hikanates</term>
+               <term xml:lang="de">Ikanatoi</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Ικανάτοι</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0095">
+               <term xml:lang="grc">ὑπουργία</term>
+               <term xml:lang="en">hypourgia</term>
+               <term xml:lang="fr">hypourgia</term>
+               <term xml:lang="de">hypurgia</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">υπουργία</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0096">
+               <term xml:lang="grc">στόλος</term>
+               <term xml:lang="en">fleet</term>
+               <term xml:lang="fr">flotte</term>
+               <term xml:lang="de">stolos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">στόλος</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0097">
+               <term xml:lang="grc">Ἀριθμός</term>
+               <term xml:lang="en"/>
+               <term xml:lang="fr">Arithmos</term>
+               <term xml:lang="de">Arithmos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Αριθμός</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0098">
+               <term xml:lang="grc">Λαυσιακόν</term>
+               <term xml:lang="en"/>
+               <term xml:lang="fr">Lausiakon</term>
+               <term xml:lang="de">Lausiakon</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">Λαυσιακόν</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0099">
+               <term xml:lang="grc">στρατός</term>
+               <term xml:lang="en"/>
+               <term xml:lang="fr">armée</term>
+               <term xml:lang="de">stratos</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">στρατός</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+            <item xml:id="org0100">
+               <term xml:lang="grc">φοιδεράτοι</term>
+               <term xml:lang="en"/>
+               <term xml:lang="fr">fédérés</term>
+               <term xml:lang="de">phoideratoi</term>
+               <term xml:lang="bg">xxx</term>
+               <term xml:lang="el">φοιδεράτοι</term>
+               <term xml:lang="it">xxx</term>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>
