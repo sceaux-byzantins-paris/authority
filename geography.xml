@@ -95,7 +95,7 @@
             </place>
             <place xml:id="geo0008">
                <placeName xml:lang="grc">Ἔδεσσα</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Edessa</placeName>
                <placeName xml:lang="fr">Edesse</placeName>
                <placeName xml:lang="fr">xxx</placeName>
                <placeName xml:lang="el">Έδεσσα</placeName>
@@ -111,35 +111,35 @@
             </place>
             <place xml:id="geo0010">
                <placeName xml:lang="grc">Κωνσταντινούπολις</placeName>
-               <placeName xml:lang="en">xxx</placeName>
-               <placeName xml:lang="fr">(patriarcat de) Constsantinople</placeName>
+               <placeName xml:lang="en">Constsantinople</placeName>
+               <placeName xml:lang="fr">Constsantinople</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Κωνσταντινούπολη</placeName>
             </place>
             <place xml:id="geo0011">
                <placeName xml:lang="grc">Ἀδρανεία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Adraneia</placeName>
                <placeName xml:lang="fr">Adraneia</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Αδρανεία</placeName>
             </place>
             <place xml:id="geo0012">
                <placeName xml:lang="grc">Αττάλεια</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Attaleia</placeName>
                <placeName xml:lang="fr">Attaleia</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Αττάλεια</placeName>
             </place>
             <place xml:id="geo0013">
                <placeName xml:lang="grc">Ταρσός</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Tarsos</placeName>
                <placeName xml:lang="fr">Tarse</placeName>
                <placeName xml:lang="el">Ταρσός</placeName>
             </place>
             <place xml:id="geo0014">
                <placeName xml:lang="grc">Βάρατα</placeName>
                <!-- alternative: Βάρετα -->
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Barata</placeName>
                <placeName xml:lang="fr">Barata</placeName>
                <!-- alt.: Baréta -->
                <placeName xml:lang="it">xxx</placeName>
@@ -155,21 +155,21 @@
             </place>
             <place xml:id="geo0016">
                <placeName xml:lang="grc">Ἀνατολικοί</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Anatolikoi</placeName>
                <placeName xml:lang="fr">Anatoliques</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Ανατολικοί</placeName>
             </place>
             <place xml:id="geo0017">
                <placeName xml:lang="grc">Ἀναζαρβός</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Anazarbos</placeName>
                <placeName xml:lang="fr">(thème d') Anazarbe</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Ανάζαρβος</placeName>
             </place>
             <place xml:id="geo0018">
                <placeName xml:lang="grc">Άρμενιάκων</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Armeniakoi</placeName>
                <placeName xml:lang="fr">Arméniaques</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Αρμενιάκων</placeName>
@@ -184,14 +184,14 @@
             </place>
             <place xml:id="geo0020">
                <placeName xml:lang="grc">Βουλγαρία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Boulgaria</placeName>
                <placeName xml:lang="fr">Bulgarie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Βουλγαρία</placeName>
             </place>
             <place xml:id="geo0021">
                <placeName xml:lang="grc">Καππαδοκία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Cappadocia</placeName>
                <placeName xml:lang="fr">Cappadoce</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Καππαδοκία</placeName>
@@ -212,14 +212,14 @@
             <place xml:id="geo0023">
                <!--why is Κιβυρραιῶται and no Κιβυρραιωτών, as the armeniakon above-->
                <placeName xml:lang="grc">Κιβυρραιῶται</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Kibyrrhaiotai</placeName>
                <placeName xml:lang="fr">Cibyrrhéotes</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Κιβυρραιώτες</placeName>
             </place>
             <place xml:id="geo0024">
                <placeName xml:lang="grc">Κιλικία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Cilicia</placeName>
                <placeName xml:lang="fr">Cilicie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Κιλικία</placeName>
@@ -228,14 +228,14 @@
             </place>
             <place xml:id="geo0025">
                <placeName xml:lang="grc">Κρήτη</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Crete</placeName>
                <placeName xml:lang="fr">Crète</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Κρήτη</placeName>
             </place>
             <place xml:id="geo0026">
                <placeName xml:lang="grc">Λοπάδιον</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Lopadion</placeName>
                <placeName xml:lang="fr">Lopadion</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Λοπάδιον</placeName>
@@ -257,70 +257,70 @@
             </place>
             <place xml:id="geo0028">
                <placeName xml:lang="grc">Ἐλλὰς</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Ellas</placeName>
                <placeName xml:lang="fr">Hellade</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Ελλάς</placeName>
             </place>
             <place xml:id="geo0029">
                <placeName xml:lang="grc">Ἰσαυρία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Isauria</placeName>
                <placeName xml:lang="fr">Isaurie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Ισαυρία</placeName>
             </place>
             <place xml:id="geo0030">
                <placeName xml:lang="grc">Ιταλία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Italia</placeName>
                <placeName xml:lang="fr">Italie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Ιταλία</placeName>
             </place>
             <place xml:id="geo0031">
                <placeName xml:lang="grc">Ἀρμενία Δ'</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Armenia IV</placeName>
                <placeName xml:lang="fr">Arménie quatrième</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Aρμενία Δ'</placeName>
             </place>
             <place xml:id="geo0032">
                <placeName xml:lang="grc">Καραβισιάνοι</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Karabisianoi</placeName>
                <placeName xml:lang="fr">Carabisiens</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Καραβισιάνοι</placeName>
             </place>
             <place xml:id="geo0033">
                <placeName xml:lang="grc">Λογγοβαρδία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Langobardia</placeName>
                <placeName xml:lang="fr">Longobardie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Λογγοβαρδία</placeName>
             </place>
             <place xml:id="geo0034">
                <placeName xml:lang="grc">Λυδία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Lydia</placeName>
                <placeName xml:lang="fr">Lydie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Λυδία</placeName>
             </place>
             <place xml:id="geo0035">
                <placeName xml:lang="grc">Λυκανδός</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Lykandos</placeName>
                <placeName xml:lang="fr">Lykandos</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Λυκανδός</placeName>
             </place>
             <place xml:id="geo0036">
                <placeName xml:lang="grc">Μακεδονία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Makedonia</placeName>
                <placeName xml:lang="fr">Macédoine</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Μακεδονία</placeName>
             </place>
             <place xml:id="geo0037">
                <placeName xml:lang="grc">Κέρκυρα</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Kerkyra</placeName>
                <placeName xml:lang="fr">(archevêché de) Corfou</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Κέρκυρα</placeName>
@@ -354,49 +354,49 @@
             </place>
             <place xml:id="geo0040">
                <placeName xml:lang="grc">Δύσις</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">West</placeName>
                <placeName xml:lang="fr">Occident</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Δύση</placeName>
             </place>
             <place xml:id="geo0041">
                <placeName xml:lang="grc">Ἀνατολή</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">East</placeName>
                <placeName xml:lang="fr">Orient</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Ανατολή</placeName>
             </place>
             <place xml:id="geo0042">
                <placeName xml:lang="grc">Σαμψών</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Sampson</placeName>
                <placeName xml:lang="fr">Samsôn</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Σαμψών</placeName>
             </place>
             <place xml:id="geo0043">
                <placeName xml:lang="grc">Παφλαγονία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Paphlagonia</placeName>
                <placeName xml:lang="fr">Paphlagonie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Παφλαγονία</placeName>
             </place>
             <place xml:id="geo0044">
                <placeName xml:lang="grc">Παραδούναβον</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Paradounabon</placeName>
                <placeName xml:lang="fr">Paradounabon</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Παραδούναβο</placeName>
             </place>
             <place xml:id="geo0045">
                <placeName xml:lang="grc">Πελοπόννησος</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Peloponnese</placeName>
                <placeName xml:lang="fr">Péloponnèse</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Πελοπόννησος</placeName>
             </place>
             <place xml:id="geo0046">
                <placeName xml:lang="grc">Πισιδία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Pisidia</placeName>
                <placeName xml:lang="fr">Pisidie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Πισιδία</placeName>
@@ -405,7 +405,7 @@
             </place>
             <place xml:id="geo0047">
                <placeName xml:lang="grc">Σερβία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Serbia</placeName>
                <placeName xml:lang="fr">Serbie</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
@@ -421,21 +421,21 @@
             </place>
             <place xml:id="geo0048">
                <placeName xml:lang="grc">Θρᾴκη</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Thrace</placeName>
                <placeName xml:lang="fr">Thrace</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Θράκη</placeName>
             </place>
             <place xml:id="geo0049">
                <placeName xml:lang="grc">Στρατονικεία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Stratonikeia</placeName>
                <placeName xml:lang="fr">Stratonicée</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Στρατονίκεια</placeName>
             </place>
             <place xml:id="geo0050">
                <placeName xml:lang="grc">Σόλοι</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Soloi</placeName>
                <placeName xml:lang="fr">Soloi</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Σόλοι</placeName>
@@ -449,63 +449,59 @@
             </place>
             <place xml:id="geo0051">
                <placeName xml:lang="grc">Τιβεριούπολις</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Tiberioupolis</placeName>
                <placeName xml:lang="fr">Tibérioupolis</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Τιβεριούπολη</placeName>
             </place>
             <place xml:id="geo0052">
                <placeName xml:lang="grc">Ἀρμενία Μεγάλη</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Great Armenia</placeName>
                <placeName xml:lang="fr">Grande Arménie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Αρμενία Μεγάλη</placeName>
             </place>
             <place xml:id="geo0053">
-               <placeName xml:lang="grc">Βουλγαρία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
-               <placeName xml:lang="fr">(archévêché de) Bulgarie</placeName>
-               <placeName xml:lang="it">xxx</placeName>
-               <placeName xml:lang="el">Βουλγαρία</placeName>
+               <placeName xml:lang="grc"/>
             </place>
             <place xml:id="geo0054">
                <placeName xml:lang="grc">Κεφαλληνία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Kephallenia</placeName>
                <placeName xml:lang="fr">Céphalonie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Κεφαλληνία</placeName>
             </place>
             <place xml:id="geo0055">
                <placeName xml:lang="grc">Χαλδία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Chaldia</placeName>
                <placeName xml:lang="fr">Chaldée</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Χαλδία</placeName>
             </place>
             <place xml:id="geo0056"><!-- but see geo0189 -->
                <placeName xml:lang="grc">Χερσών</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Cherson</placeName>
                <placeName xml:lang="fr">Cherson</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Χερσόνα</placeName>
             </place>
             <place xml:id="geo0057">
                <placeName xml:lang="grc">Κολώνεια</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Koloneia</placeName>
                <placeName xml:lang="fr">Colonée</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Κολώνεια</placeName>
             </place>
             <place xml:id="geo0058">
                <placeName xml:lang="grc">Διοκλεία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Diokleia</placeName>
                <placeName xml:lang="fr">Dioclée</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Διόκλεια</placeName>
             </place>
             <place xml:id="geo0059"><!-- a people -->
                <placeName xml:lang="grc">Δρουγουβῖται</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Drougobitai</placeName>
                <placeName xml:lang="fr">Drougobitai</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Δρουγουβίτες</placeName>
@@ -527,42 +523,42 @@
             </place>
             <place xml:id="geo0061">
                <placeName xml:lang="grc">Γοτθογραικία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Gothograeci</placeName>
                <placeName xml:lang="fr">(commandement des) Gothograeci</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Γοτθογραικία</placeName>
             </place>
             <place xml:id="geo0062">
                <placeName xml:lang="grc">Ὁνωριάς</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Onorias</placeName>
                <placeName xml:lang="fr">Honoriade</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Ονωριάς</placeName>
             </place>
             <place xml:id="geo0063">
                <placeName xml:lang="grc">Μεσοποταμία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Mesopotamia</placeName>
                <placeName xml:lang="fr">Mésopotamie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Μεσοποταμία</placeName>
             </place>
             <place xml:id="geo0064">
                <placeName xml:lang="grc">Νικόπολις</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Nikopolis</placeName>
                <placeName xml:lang="fr">Nicopolis</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Νικόπολη</placeName>
             </place>
             <place xml:id="geo0065">
                <placeName xml:lang="grc">Ὀπτιμάτοι</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Optimatoi</placeName>
                <placeName xml:lang="fr">Optimates</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Οπτιμάτοι</placeName>
             </place>
             <place xml:id="geo0066">
                <placeName xml:lang="grc">Σάμος</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Samos</placeName>
                <placeName xml:lang="fr">Samos</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Σάμος</placeName>
@@ -584,21 +580,21 @@
             </place>
             <place xml:id="geo0068">
                <placeName xml:lang="grc">Σικελία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Sicily</placeName>
                <placeName xml:lang="fr">Sicile</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Σικελία</placeName>
             </place>
             <place xml:id="geo0069">
                <placeName xml:lang="grc">Βαασπρακανία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Vaspourakan</placeName>
                <placeName xml:lang="fr">Vaspourakan</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Βαασπρακανία</placeName>
             </place>
             <place xml:id="geo0070">
                <placeName xml:lang="grc">Τουρκία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Tourkia</placeName>
                <placeName xml:lang="fr">Tourkia</placeName>
                <placeName xml:lang="de">xxx</placeName>
                <placeName xml:lang="bg">xxx</placeName>
@@ -613,7 +609,7 @@
             </place>
             <place xml:id="geo0071">
                <placeName xml:lang="grc">Ἀρμενία Αʹ</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Armenia I</placeName>
                <placeName xml:lang="fr">(kommerkia d') Arménie Première</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Αρμενία Αʹ</placeName>
@@ -621,7 +617,7 @@
             <place xml:id="geo0072">
                <placeName xml:lang="la">Byzacena</placeName>
                <placeName xml:lang="grc">Βυζάκιον</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Byzacena</placeName>
                <placeName xml:lang="fr">(commandement de) Byzacène</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Βυζακηνή</placeName>
@@ -635,14 +631,14 @@
             </place>
             <place xml:id="geo0074">
                <placeName xml:lang="grc">Δαλματία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Dalmatia</placeName>
                <placeName xml:lang="fr">Dalmatie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Δαλματία</placeName>
             </place>
             <place xml:id="geo0075">
                <placeName xml:lang="grc">Γαλατία</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Galatia</placeName>
                <placeName xml:lang="fr">Galatie</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Γαλατία</placeName>
@@ -652,7 +648,7 @@
             <place xml:id="geo0076">
                <placeName xml:lang="grc">Ἑλενόποντος</placeName>
                <!-- spelling to be verified -->
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Hellenopontos</placeName>
                <placeName xml:lang="fr">Hellénopont</placeName>
                <!-- Hélénopont? -->
                <placeName xml:lang="it">xxx</placeName>
@@ -660,21 +656,21 @@
             </place>
             <place xml:id="geo0077">
                <placeName xml:lang="grc">Έλλήσποντος</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Hellespontos</placeName>
                <placeName xml:lang="fr">Hellespont</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Eλλήσποντος</placeName>
             </place>
             <place xml:id="geo0078">
                <placeName xml:lang="grc">Kομμαγηνή</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Kommagene</placeName>
                <placeName xml:lang="fr">Commagène</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Kομμαγηνή</placeName>
             </place>
             <place xml:id="geo0079">
                <placeName xml:lang="grc">Κυκλάδες</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Cyclades</placeName>
                <placeName xml:lang="fr">Cyclades</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Κυκλάδες</placeName>
@@ -685,7 +681,7 @@
             </place>
             <place xml:id="geo0080">
                <placeName xml:lang="grc">Ῥόδαντος</placeName>
-               <placeName xml:lang="en">xxx</placeName>
+               <placeName xml:lang="en">Rhodantos</placeName>
                <placeName xml:lang="fr">Rhodandos</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Ρόδανδος</placeName>
