@@ -4971,6 +4971,10 @@
                     <pubPlace xml:lang="en">Rijswijk (The Netherlands)</pubPlace>
                     <pubPlace xml:lang="fr">Rijswijk (Pays-Bas)</pubPlace> available at <ref
                         target="https://www.biddr.com/auctions/nbsauctions/">Biddr.com</ref>. </bibl>
+                <bibl xml:id="Sternberg">
+                    <bibl type="abbrev">Frank Sternberg</bibl>
+                    <title level="m">Frank Sternberg</title>
+                    <pubPlace>Zürich</pubPlace></bibl>
                 <bibl type="book" xml:id="ZacosSpink2"
                     corresp="http://zotero.org/users/3169239/items/PBP7I9NQ">
                     <bibl type="abbrev">Spink Auction 132, coll. Zacos, part 2, 1999</bibl>
