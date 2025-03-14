@@ -54,32 +54,32 @@
             <item xml:id="of0003">
                <term xml:lang="grc">ἐπὶ τοῦ οἰκιστικοῦ</term>
                <term xml:lang="en">epi tou oikistikou</term>
-               <term xml:lang="fr">xxx</term>
+               <term xml:lang="fr">épi tou oikistikou</term>
                <term xml:lang="de">epi tu oikistiku</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0004">
-               <term xml:lang="grc">xxx</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">xxx</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="grc">ἐπὶ τῆς βασιλικῆς τραπέζης</term>
+               <term xml:lang="en">epi tes basilikes trapezes</term>
+               <term xml:lang="fr">épi tès basilikès trapèzès</term>
+               <term xml:lang="de">epi tes basilikes trapezes</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">επί της βασιλικής τραπέζης</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0005">
-               <term xml:lang="grc">xxx</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">xxx</term>
-               <term xml:lang="de">xxx</term>
+               <term xml:lang="grc">ἐπὶ τοῦ εἰδικοῦ λόγου</term>
+               <term xml:lang="en">épi tou eidikou logou</term>
+               <term xml:lang="fr">épi tou eidikou logou</term>
+               <term xml:lang="de">epi tu eidiku logu</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">επί του ειδικού λόγου</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0006">
-               <term xml:lang="grc">xxx</term>
+               <term xml:lang="grc"/>
                <term xml:lang="en">dux</term>
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">xxx</term>
@@ -87,26 +87,26 @@
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0007">
-               <term xml:lang="grc">xxx</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">xxx</term>
+            <item xml:id="of0007"><!-- translations to be cheched -->
+               <term xml:lang="grc">μειζότερος, δεσποτικός</term>
+               <term xml:lang="en">meizoteros of the emperor</term>
+               <term xml:lang="fr">meizotéros de l'empereur</term>
                <term xml:lang="de">xxx</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">xxx</term>
+               <term xml:lang="el">μειζότερος, δεσποτικός</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0008">
-               <term xml:lang="la">prefectus annonas</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">xxx</term>
+               <term xml:lang="la">præfectus annonæ</term>
+               <term xml:lang="en">præfectus annonæ</term>
+               <term xml:lang="fr">préfet de l'annone</term>
                <term xml:lang="de">xxx</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
-               <term xml:lang="it">xxx</term>
+               <term xml:lang="it">prefetto dell'annone</term>
             </item>
             <item xml:id="of0009">
-               <term xml:lang="grc">xxx</term>
+               <term xml:lang="grc"/>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">xxx</term>
@@ -115,7 +115,7 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0010">
-               <term xml:lang="grc">xxx</term>
+               <term xml:lang="grc"/>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">xxx</term>
@@ -124,7 +124,7 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0011">
-               <term xml:lang="grc">xxx</term>
+               <term xml:lang="grc"/>
                <term xml:lang="en">xxx</term>
                <term xml:lang="fr">xxx</term>
                <term xml:lang="de">xxx</term>
@@ -135,11 +135,11 @@
             <item xml:id="of0012">
                <term xml:lang="la">præfectus</term>
                <term xml:lang="en">præfectus</term>
-               <term xml:lang="fr">xxx</term>
+               <term xml:lang="fr">préfet</term>
                <term xml:lang="de">xxx</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">præfectus</term>
-               <term xml:lang="it">xxx</term>
+               <term xml:lang="it">prefetto</term>
             </item>
             <item xml:id="of0013">
                <term xml:lang="la">præfectus insularum</term>
@@ -152,7 +152,7 @@
             </item>
             <item xml:id="of0014">
                <term xml:lang="grc">ἀβυδικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">abydikos</term>
                <term xml:lang="fr">abydikos</term>
                <term xml:lang="de">abydikos</term>
                <term xml:lang="bg">xxx</term>
@@ -161,7 +161,7 @@
             </item>
             <item xml:id="of0015">
                <term xml:lang="grc">ἀκόλουθος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">akolouthos</term>
                <term xml:lang="fr">akolouthos</term>
                <term xml:lang="de">akoluthos</term>
                <term xml:lang="bg">xxx</term>
@@ -170,7 +170,7 @@
             </item>
             <item xml:id="of0016">
                <term xml:lang="grc">ἀναγραφεύς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">anagrapheus</term>
                <term xml:lang="fr">anagrapheus</term>
                <term xml:lang="de">anagrapheus</term>
                <term xml:lang="bg">xxx</term>
@@ -179,7 +179,7 @@
             </item>
             <item xml:id="of0017">
                <term xml:lang="grc">ἀννονάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">annonarios</term>
                <term xml:lang="fr">annonarios</term>
                <term xml:lang="de">annonarios</term>
                <term xml:lang="bg">xxx</term>
@@ -188,7 +188,7 @@
             </item>
             <item xml:id="of0018">
                <term xml:lang="grc">ἀννονάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">annonarios, imperial</term>
                <term xml:lang="fr">annonarios impérial</term>
                <term xml:lang="de">annonarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -197,7 +197,7 @@
             </item>
             <item xml:id="of0019">
                <term xml:lang="grc">ἀννωνέπαρχος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">eparch of the annona</term>
                <term xml:lang="fr">éparque de l'annone</term>
                <term xml:lang="de">annoneparchos</term>
                <term xml:lang="bg">xxx</term>
@@ -206,7 +206,7 @@
             </item>
             <item xml:id="of0020">
                <term xml:lang="grc">ἀντιγραφεύς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">antigrapheus</term>
                <term xml:lang="fr">antigrapheus</term>
                <term xml:lang="de">antigrapheus</term>
                <term xml:lang="bg">xxx</term>
@@ -215,8 +215,8 @@
             </item>
             <item xml:id="of0021">
                <term xml:lang="grc">ἀντιπροσωπῶν</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">antiprosopôn</term>
+               <term xml:lang="en">antiprosopon</term>
+               <term xml:lang="fr">antiprosôpôn</term>
                <term xml:lang="de">antiprosopon</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">αντιπροσώπων</term>
@@ -224,7 +224,7 @@
             </item>
             <item xml:id="of0022">
                <term xml:lang="grc">ἀπογραφεὺς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">apographeus</term>
                <term xml:lang="fr">apographeus</term>
                <term xml:lang="de">apographeus</term>
                <term xml:lang="bg">xxx</term>
@@ -233,8 +233,8 @@
             </item>
             <item xml:id="of0023">
                <term xml:lang="grc">ἀρκάριος</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">archarios</term>
+               <term xml:lang="en">arkarios</term>
+               <term xml:lang="fr">arkarios</term>
                <term xml:lang="de">arkarios</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">αρκάριος</term>
@@ -242,7 +242,7 @@
             </item>
             <item xml:id="of0024">
                <term xml:lang="grc">ἀτρικλίνης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">atriklines</term>
                <term xml:lang="fr">atriklinès</term>
                <term xml:lang="de">atriklines</term>
                <term xml:lang="bg">xxx</term>
@@ -251,7 +251,7 @@
             </item>
             <item xml:id="of0025">
                <term xml:lang="grc">ἀτρικλίνης, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">atriklines, imperial</term>
                <term xml:lang="fr">atriklinès impérial</term>
                <term xml:lang="de">atriklines, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -260,7 +260,7 @@
             </item>
             <item xml:id="of0026">
                <term xml:lang="grc">ἀσηκρῆτις</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">asekretis</term>
                <term xml:lang="fr">asèkrètis</term>
                <term xml:lang="de">asekretis</term>
                <term xml:lang="bg">xxx</term>
@@ -269,8 +269,8 @@
             </item>
             <item xml:id="of0027">
                <term xml:lang="grc">πρωτοασηκρῆτις</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">protoasèkrètis</term>
+               <term xml:lang="en">protoasekretis</term>
+               <term xml:lang="fr">prôtoasèkrètis</term>
                <term xml:lang="de">protoasekretis</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">πρωτοασηκρήτις</term>
@@ -278,7 +278,7 @@
             </item>
             <item xml:id="of0028">
                <term xml:lang="grc">ἀρχίατρος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">archiatros</term>
                <term xml:lang="fr">archiatros</term>
                <term xml:lang="de">archiatros</term>
                <term xml:lang="bg">xxx</term>
@@ -287,7 +287,7 @@
             </item>
             <item xml:id="of0029">
                <term xml:lang="grc">ἀρχίατρος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">archiatros, imperial</term>
                <term xml:lang="fr">archiatros impérial</term>
                <term xml:lang="de">archiatros, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -296,7 +296,7 @@
             </item>
             <item xml:id="of0030">
                <term xml:lang="grc">ἀργυροπράτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">argyroprates</term>
                <term xml:lang="fr">argyroprate</term>
                <term xml:lang="de">argyroprates</term>
                <term xml:lang="bg">xxx</term>
@@ -305,7 +305,7 @@
             </item>
             <item xml:id="of0031">
                <term xml:lang="grc">ἄρχων</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">archon</term>
                <term xml:lang="fr">archonte</term>
                <term xml:lang="de">archon</term>
                <term xml:lang="bg">xxx</term>
@@ -314,7 +314,7 @@
             </item>
             <item xml:id="of0032">
                <term xml:lang="grc">ἀσάβανις</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">asabanis</term>
                <term xml:lang="fr">asabanis</term>
                <term xml:lang="de">asabanis</term>
                <term xml:lang="bg">xxx</term>
@@ -323,7 +323,7 @@
             </item>
             <item xml:id="of0033">
                <term xml:lang="grc">αὐγουστάλιος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">augoustalios</term>
                <term xml:lang="fr">augoustalios</term>
                <term xml:lang="de">augustalios</term>
                <term xml:lang="bg">xxx</term>
@@ -332,7 +332,7 @@
             </item>
             <item xml:id="of0034">
                <term xml:lang="grc">βαΐουλος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">baioulos</term>
                <term xml:lang="fr">baïoulos</term>
                <term xml:lang="de">baiulos</term>
                <term xml:lang="bg">xxx</term>
@@ -341,7 +341,7 @@
             </item>
             <item xml:id="of0035">
                <term xml:lang="grc">βασιλεοπάτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">basileopator</term>
                <term xml:lang="fr">basiléopatôr</term>
                <term xml:lang="de">basileopator</term>
                <term xml:lang="bg">xxx</term>
@@ -350,7 +350,7 @@
             </item>
             <item xml:id="of0036">
                <term xml:lang="grc">βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">basilikos</term>
                <term xml:lang="fr">basilikos</term>
                <term xml:lang="de">basilikos</term>
                <term xml:lang="bg">xxx</term>
@@ -359,7 +359,7 @@
             </item>
             <item xml:id="of0037">
                <term xml:lang="grc">βεστιάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">vestiarios</term>
                <term xml:lang="fr">vestiarios</term>
                <term xml:lang="de">vestiarios</term>
                <term xml:lang="bg">xxx</term>
@@ -368,7 +368,7 @@
             </item>
             <item xml:id="of0038">
                <term xml:lang="grc">βεστιοπράτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">vestioprates</term>
                <term xml:lang="fr">vestioprate</term>
                <term xml:lang="de">vestioprates</term>
                <term xml:lang="bg">xxx</term>
@@ -377,8 +377,8 @@
             </item>
             <item xml:id="of0039">
                <term xml:lang="grc">βουλλωτής</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">boullôtè</term>
+               <term xml:lang="en">boullotes</term>
+               <term xml:lang="fr">boullôtès</term>
                <term xml:lang="de">bullotes</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">βουλλωτής</term>
@@ -386,7 +386,7 @@
             </item>
             <item xml:id="of0040">
                <term xml:lang="grc">βικάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">vicar</term>
                <term xml:lang="fr">vicaire</term>
                <term xml:lang="de">vikarios</term>
                <term xml:lang="bg">xxx</term>
@@ -395,8 +395,8 @@
             </item>
             <item xml:id="of0041">
                <term xml:lang="grc">γεννηματάς</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">gennimata</term>
+               <term xml:lang="en">gennematas</term>
+               <term xml:lang="fr">gennèmatas</term>
                <term xml:lang="de">gennematas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">γεννηματάς</term>
@@ -404,7 +404,7 @@
             </item>
             <item xml:id="of0042">
                <term xml:lang="grc">γηροκόμος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">gerokomos</term>
                <term xml:lang="fr">gèrokomos</term>
                <term xml:lang="de">gerokomos</term>
                <term xml:lang="bg">xxx</term>
@@ -413,25 +413,25 @@
             </item>
             <item xml:id="of0043">
                <term xml:lang="grc">γηροτρόφος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">gerotrophos</term>
                <term xml:lang="fr">gèrotrophos</term>
                <term xml:lang="de">gerotrophos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">xxx</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0044"><!--unclear!-->
-               <term xml:lang="grc">γραμματικός (βασιλικός)</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grammatikos</term>
-               <term xml:lang="de">grammatikos</term>
+            <item xml:id="of0044">
+               <term xml:lang="grc">γραμματικός, βασιλικός</term>
+               <term xml:lang="en">grammatikos, imperial</term>
+               <term xml:lang="fr">grammatikos, impérial</term>
+               <term xml:lang="de">grammatikos, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">γραμματικός (βασιλικός)</term>
+               <term xml:lang="el">γραμματικός, βασιλικός</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0045">
                <term xml:lang="grc">δεκανός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">dekanos</term>
                <term xml:lang="fr">dekanos</term>
                <term xml:lang="de">dekanos</term>
                <term xml:lang="bg">xxx</term>
@@ -440,7 +440,7 @@
             </item>
             <item xml:id="of0046">
                <term xml:lang="grc">δεύτερος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">deuteros</term>
                <term xml:lang="fr">deutéros</term>
                <term xml:lang="de">deuteros</term>
                <term xml:lang="bg">xxx</term>
@@ -449,8 +449,8 @@
             </item>
             <item xml:id="of0047">
                <term xml:lang="grc">δικαγκελλάριος</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">dicancellarios</term>
+               <term xml:lang="en">dikankellarios</term>
+               <term xml:lang="fr">dikankellarios</term>
                <term xml:lang="de">dikankellarios</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">δικαγκελλάριος</term>
@@ -458,25 +458,25 @@
             </item>
             <item xml:id="of0048">
                <term xml:lang="grc">δήμαρχος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">demarchos</term>
                <term xml:lang="fr">démarque</term>
                <term xml:lang="de">demarchos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">δήμαρχος</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0049"><!--grc greek spelling correct?-->
-               <term xml:lang="grc">δικαιδότης</term>
-               <term xml:lang="en">xxx</term>
+            <item xml:id="of0049">
+               <term xml:lang="grc">δικαιοδότης</term>
+               <term xml:lang="en">dikaiodotes</term>
                <term xml:lang="fr">dikaiodotès</term>
-               <term xml:lang="de">dikaidotes</term>
+               <term xml:lang="de">dikaiodotes</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">δικαιδότης</term>
+               <term xml:lang="el">δικαιοδότης</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0050">
                <term xml:lang="grc">δικαιοφύλαξ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">dikaiophylax</term>
                <term xml:lang="fr">dikaiophylax</term>
                <term xml:lang="de">dikaiophylax</term>
                <term xml:lang="bg">xxx</term>
@@ -485,25 +485,25 @@
             </item>
             <item xml:id="of0051">
                <term xml:lang="grc">δικαστής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">dikastes</term>
                <term xml:lang="fr">dikastès</term>
                <term xml:lang="de">dikastes</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">δικαστής</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0052"><!--unclear!-->
-               <term xml:lang="grc">διοικητής (βασιλικός)</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">diœcète</term>
-               <term xml:lang="de">dioiketes</term>
+            <item xml:id="of0052">
+               <term xml:lang="grc">διοικητής, βασιλικός</term>
+               <term xml:lang="en">dioiketes, imperial</term>
+               <term xml:lang="fr">diœcète, impérial</term>
+               <term xml:lang="de">dioiketes, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">διοικητής (βασιλικός)</term>
+               <term xml:lang="el">διοικητής, βασιλικός</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0053">
                <term xml:lang="grc">δοκιμαστής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">dokimastes</term>
                <term xml:lang="fr">dokimastès</term>
                <term xml:lang="de">dokimastes</term>
                <term xml:lang="bg">xxx</term>
@@ -512,25 +512,25 @@
             </item>
             <item xml:id="of0054">
                <term xml:lang="grc">ἑβδομάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">hebdomarios</term>
                <term xml:lang="fr">hebdomarios</term>
                <term xml:lang="de">hebdomarios</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">εβδομάριος</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0055"><!--unclear!-->
-               <term xml:lang="grc">έγγιστάριος (βασιλικός)</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">engistrarios</term>
-               <term xml:lang="de">engistrarios</term>
+            <item xml:id="of0055">
+               <term xml:lang="grc">έγγιστάριος, βασιλικός</term>
+               <term xml:lang="en">engistrarios, imperial</term>
+               <term xml:lang="fr">engistrarios, impérial</term>
+               <term xml:lang="de">engistrarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">έγγιστάριος (βασιλικός)</term>
+               <term xml:lang="el">έγγιστάριος, βασιλικός</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0056">
                <term xml:lang="grc">εἰδικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">eidikos</term>
                <term xml:lang="fr">eidikos</term>
                <term xml:lang="de">eidikos</term>
                <term xml:lang="bg">xxx</term>
@@ -539,7 +539,7 @@
             </item>
             <item xml:id="of0057">
                <term xml:lang="grc">ἐμβολάτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">embolator</term>
                <term xml:lang="fr">embolatôr</term>
                <term xml:lang="de">embolator</term>
                <term xml:lang="bg">xxx</term>
@@ -548,7 +548,7 @@
             </item>
             <item xml:id="of0058">
                <term xml:lang="grc">ἐξάκτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">exaktor</term>
                <term xml:lang="fr">exaktôr</term>
                <term xml:lang="de">exaktor</term>
                <term xml:lang="bg">xxx</term>
@@ -556,8 +556,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0059">
-               <term xml:lang="grc">ἐξισωτής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">ἐξισώτης</term>
+               <term xml:lang="en">exisotes</term>
                <term xml:lang="fr">exisôtès</term>
                <term xml:lang="de">exisotes</term>
                <term xml:lang="bg">xxx</term>
@@ -565,8 +565,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0060">
-               <term xml:lang="grc">ἐξπελλευτὴς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">ἐξπελλευτής</term>
+               <term xml:lang="en">expelleutes</term>
                <term xml:lang="fr">expelleutès</term>
                <term xml:lang="de">expelleutes</term>
                <term xml:lang="bg">xxx</term>
@@ -584,7 +584,7 @@
             </item>
             <item xml:id="of0062">
                <term xml:lang="grc">ἐπαρχικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">eparchikos</term>
                <term xml:lang="fr">éparchikos</term>
                <term xml:lang="de">eparchikos</term>
                <term xml:lang="bg">xxx</term>
@@ -593,7 +593,7 @@
             </item>
             <item xml:id="of0063">
                <term xml:lang="grc">ἐπείκτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epeiktes</term>
                <term xml:lang="fr">épeiktès</term>
                <term xml:lang="de">epeiktes</term>
                <term xml:lang="bg">xxx</term>
@@ -602,50 +602,43 @@
             </item>
             <item xml:id="of0064">
                <term xml:lang="grc">ἐπείκτης, βασιλικὸς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epeiktes, imperial</term>
                <term xml:lang="fr">épeiktès impérial</term>
                <term xml:lang="de">epeiktes, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">επείκτης, βασιλικὸς</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0065"><!--unclear!-->
+            <item xml:id="of0065">
                <term xml:lang="grc">(ἐ)πιγκέρνης</term>
-               <term xml:lang="en">pinkernes</term>
-               <term xml:lang="fr">pinkernès</term>
-               <term xml:lang="de">pinkernes</term>
+               <term xml:lang="en">(é)pinkernes</term>
+               <term xml:lang="fr">pincerne</term>
+               <term xml:lang="de">(e)pinkernes</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">(ε)πιγκέρνης</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0066">
                <term xml:lang="grc">ἐπισκεπτίτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">episkeptites</term>
                <term xml:lang="fr">épiskeptitès</term>
                <term xml:lang="de">episkeptites</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">επισκεπτίτης</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0067"><!--unclear-->
+            <item xml:id="of0067">
                <term xml:lang="grc">ἐπὶ τῆς τραπέζης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tes trapezes</term>
                <term xml:lang="fr">épi tès trapèzès</term>
                <term xml:lang="de">epi tes trapezes</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">επί της τραπέζης</term>
                <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">ἐπὶ τῆς βασιλικῆς τραπέζης</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">épi tès basilikès trapèzès</term>
-               <term xml:lang="de">epi tes basilikes trapezes</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">επί της βασιλικής τραπέζης</term>
-               <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0068">
                <term xml:lang="grc">ἐπὶ τοῦ κοιτῶνος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tou koitonos</term>
                <term xml:lang="fr">épi tou koitônos</term>
                <term xml:lang="de">epi tu koitonos</term>
                <term xml:lang="bg">xxx</term>
@@ -654,7 +647,7 @@
             </item>
             <item xml:id="of0069">
                <term xml:lang="grc">ἐπὶ τῆς σακέλλης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tes sakelles</term>
                <term xml:lang="fr">épi tès sakellès</term>
                <term xml:lang="de">epi tes sakelles</term>
                <term xml:lang="bg">xxx</term>
@@ -663,7 +656,7 @@
             </item>
             <item xml:id="of0070">
                <term xml:lang="grc">ἐπὶ τοῦ Χρυσοτρικλίνου</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tou Chrysotriklinou</term>
                <term xml:lang="fr">épi tou Chrysotriklinou</term>
                <term xml:lang="de">epi tu Chrysotriklinu</term>
                <term xml:lang="bg">xxx</term>
@@ -672,7 +665,7 @@
             </item>
             <item xml:id="of0071">
                <term xml:lang="grc">ἐπὶ τῶν δεήσεων</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi ton deeseon</term>
                <term xml:lang="fr">épi ton déèséon</term>
                <term xml:lang="de">epi ton deeseon</term>
                <term xml:lang="bg">xxx</term>
@@ -681,7 +674,7 @@
             </item>
             <item xml:id="of0072">
                <term xml:lang="grc">ἐπὶ τῶν οἰκειακῶν</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi ton oikeiakon</term>
                <term xml:lang="fr">épi tôn oikeiakôn</term>
                <term xml:lang="de">epi ton oikeiakon</term>
                <term xml:lang="bg">xxx</term>
@@ -690,7 +683,7 @@
             </item>
             <item xml:id="of0073">
                <term xml:lang="grc">ἐπὶ τοῦ κανικλείου</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tou kanikleiou</term>
                <term xml:lang="fr">épi tou kanikleiou</term>
                <term xml:lang="de">epi tu kanikleiu</term>
                <term xml:lang="bg">xxx</term>
@@ -699,7 +692,7 @@
             </item>
             <item xml:id="of0074">
                <term xml:lang="grc">ἐπὶ τῶν βαρβάρων</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi ton barbaron</term>
                <term xml:lang="fr">épi tôn barbarôn</term>
                <term xml:lang="de">epi ton barbaron</term>
                <term xml:lang="bg">xxx</term>
@@ -708,7 +701,7 @@
             </item>
             <item xml:id="of0075">
                <term xml:lang="grc">ἐπὶ τῶν κρίσεων</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi ton kriseon</term>
                <term xml:lang="fr">épi tôn kriséôn</term>
                <term xml:lang="de">epi ton kriseon</term>
                <term xml:lang="bg">xxx</term>
@@ -717,32 +710,25 @@
             </item>
             <item xml:id="of0076">
                <term xml:lang="grc">ἐπὶ τοῦ Ἀβύδου</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tou Abydou</term>
                <term xml:lang="fr">épi tou Abydou</term>
                <term xml:lang="de">epi tu Abydu</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">επί τουἈβύδου</term>
+               <term xml:lang="el">επί του Ἀβύδου</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0077">
                <term xml:lang="grc">ἐπὶ τοῦ εἰδικοῦ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tou eidikou</term>
                <term xml:lang="fr">épi tou eidikou</term>
                <term xml:lang="de">epi tu eidiku</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">επί του ειδικού</term>
                <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">ἐπὶ τοῦ εἰδικοῦ λόγου</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">épi tou eidikou logou</term>
-               <term xml:lang="de">epi tu eidiku logu</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">επί του ειδικού λόγου</term>
-               <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0078">
                <term xml:lang="grc">ἐπὶ τοῦ Λαμπροῦ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tou Lamprou</term>
                <term xml:lang="fr">épi tou Lamprou</term>
                <term xml:lang="de">epi tu Lampru</term>
                <term xml:lang="bg">xxx</term>
@@ -751,8 +737,8 @@
             </item>
             <item xml:id="of0079">
                <term xml:lang="grc">ἐπὶ τῆς καταστάσεως</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">épi tes katastaseos</term>
+               <term xml:lang="en">epi tes katastaseos</term>
+               <term xml:lang="fr">épi tès katastaseos</term>
                <term xml:lang="de">epi tes katastaseos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">επί της καταστάσεως</term>
@@ -760,7 +746,7 @@
             </item>
             <item xml:id="of0080">
                <term xml:lang="grc">ἐπὶ τοῦ οἰκειακοῦ βεστιαρίου</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tou oikeiakou vestiariou</term>
                <term xml:lang="fr">épi tou oikeiakou vestiariou</term>
                <term xml:lang="de">epi tu oikeiaku vestiariu</term>
                <term xml:lang="bg">xxx</term>
@@ -769,8 +755,8 @@
             </item>
             <item xml:id="of0081">
                <term xml:lang="grc">ἐπὶ τῶν βασιλικῶν προσελεύσεων</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">épi ton basilikon proséleuséôn</term>
+               <term xml:lang="en">epi ton basilikon proseleuseon</term>
+               <term xml:lang="fr">épi tôn basilikon proséleuséôn</term>
                <term xml:lang="de">epi ton basilikon proseleuseon</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">επί των βασιλικών προσελεύσεων</term>
@@ -778,8 +764,8 @@
             </item>
             <item xml:id="of0082">
                <term xml:lang="grc">ἐπὶ τῶν ὀρφανῶν</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">épi ton orphanôn</term>
+               <term xml:lang="en">epi ton orphanon</term>
+               <term xml:lang="fr">épi tôn orphanôn</term>
                <term xml:lang="de">epi ton orphanon</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">επί των ορφανών</term>
@@ -787,7 +773,7 @@
             </item>
             <item xml:id="of0083">
                <term xml:lang="grc">ἐπόπτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epoptes</term>
                <term xml:lang="fr">épopte</term>
                <term xml:lang="de">epoptes</term>
                <term xml:lang="bg">xxx</term>
@@ -796,7 +782,7 @@
             </item>
             <item xml:id="of0084">
                <term xml:lang="grc">ἐργαστηριάρχης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">ergasteriarches</term>
                <term xml:lang="fr">ergastèriarque</term>
                <term xml:lang="de">ergasteriarches</term>
                <term xml:lang="bg">xxx</term>
@@ -805,7 +791,7 @@
             </item>
             <item xml:id="of0085">
                <term xml:lang="grc">ἑρμηνευτής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">hermeneutes</term>
                <term xml:lang="fr">herméneutès</term>
                <term xml:lang="de">hermeneutes</term>
                <term xml:lang="bg">xxx</term>
@@ -814,7 +800,7 @@
             </item>
             <item xml:id="of0086">
                <term xml:lang="grc">ἔφορος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">ephoros</term>
                <term xml:lang="fr">éphore</term>
                <term xml:lang="de">ephoros</term>
                <term xml:lang="bg">xxx</term>
@@ -823,7 +809,7 @@
             </item>
             <item xml:id="of0087">
                <term xml:lang="grc">ζυγοστάτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">zygostates</term>
                <term xml:lang="fr">zygostatès</term>
                <term xml:lang="de">zygostates</term>
                <term xml:lang="bg">xxx</term>
@@ -832,7 +818,7 @@
             </item>
             <item xml:id="of0088">
                <term xml:lang="grc">ζυγοστάτης, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">zygostates, imperial</term>
                <term xml:lang="fr">zygostatès impérial</term>
                <term xml:lang="de">zygostates, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -841,7 +827,7 @@
             </item>
             <item xml:id="of0089">
                <term xml:lang="grc">θεσμογράφος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">thesmographos</term>
                <term xml:lang="fr">thesmographe</term>
                <term xml:lang="de">thesmographos</term>
                <term xml:lang="bg">xxx</term>
@@ -850,7 +836,7 @@
             </item>
             <item xml:id="of0090">
                <term xml:lang="grc">θεσμοφύλαξ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">thesmophylax</term>
                <term xml:lang="fr">thesmophylax</term>
                <term xml:lang="de">thesmophylax</term>
                <term xml:lang="bg">xxx</term>
@@ -859,8 +845,8 @@
             </item>
             <item xml:id="of0091">
                <term xml:lang="grc">ἰατρός</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">médecin</term>
+               <term xml:lang="en">iatros (physician)</term>
+               <term xml:lang="fr">iatros (médecin)</term>
                <term xml:lang="de">iatros (Arzt)</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">ιατρός</term>
@@ -868,8 +854,8 @@
             </item>
             <item xml:id="of0092">
                <term xml:lang="grc">ἰατρός, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">médecin impérial</term>
+               <term xml:lang="en">iatros (physician), imperial</term>
+               <term xml:lang="fr">iatros (médecin) impérial</term>
                <term xml:lang="de">iatros (Arzt), kaiserlich</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">ιατρός, βασιλικός</term>
@@ -877,7 +863,7 @@
             </item>
             <item xml:id="of0093">
                <term xml:lang="grc">καγκελλάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kankellarios</term>
                <term xml:lang="fr">kankellarios</term>
                <term xml:lang="de">kankellarios</term>
                <term xml:lang="bg">xxx</term>
@@ -886,7 +872,7 @@
             </item>
             <item xml:id="of0094">
                <term xml:lang="grc">πρωτοκαγκελλάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protokankellarios</term>
                <term xml:lang="fr">prôtokankellarios</term>
                <term xml:lang="de">protokankellarios</term>
                <term xml:lang="bg">xxx</term>
@@ -895,7 +881,7 @@
             </item>
             <item xml:id="of0095">
                <term xml:lang="grc">κένσωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kensor</term>
                <term xml:lang="fr">kensôr</term>
                <term xml:lang="de">kensor</term>
                <term xml:lang="bg">xxx</term>
@@ -904,7 +890,7 @@
             </item>
             <item xml:id="of0096">
                <term xml:lang="grc">κιννάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kinnarios</term>
                <term xml:lang="fr">kinnarios</term>
                <term xml:lang="de">kinnarios</term>
                <term xml:lang="bg">xxx</term>
@@ -913,7 +899,7 @@
             </item>
             <item xml:id="of0097">
                <term xml:lang="grc">κιννάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kinnarios, imperial</term>
                <term xml:lang="fr">kinnarios impérial</term>
                <term xml:lang="de">kinnarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -922,7 +908,7 @@
             </item>
             <item xml:id="of0098">
                <term xml:lang="grc">κοιαίστωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">quæstor</term>
                <term xml:lang="fr">questeur</term>
                <term xml:lang="de">koiaistor</term>
                <term xml:lang="bg">xxx</term>
@@ -931,7 +917,7 @@
             </item>
             <item xml:id="of0099">
                <term xml:lang="grc">κοιτωνίτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">koitonites</term>
                <term xml:lang="fr">koitônitès</term>
                <term xml:lang="de">koitonites</term>
                <term xml:lang="bg">xxx</term>
@@ -940,7 +926,7 @@
             </item>
             <item xml:id="of0100">
                <term xml:lang="grc">κόμης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">komes</term>
                <term xml:lang="fr">comte</term>
                <term xml:lang="de">komes</term>
                <term xml:lang="bg">xxx</term>
@@ -949,8 +935,8 @@
             </item>
             <item xml:id="of0101">
                <term xml:lang="grc">κόμης, μέγας</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand comte</term>
+               <term xml:lang="en">komes, megas</term>
+               <term xml:lang="fr">comte, grand</term>
                <term xml:lang="de">komes, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">κόμης, μέγας</term>
@@ -958,7 +944,7 @@
             </item>
             <item xml:id="of0102">
                <term xml:lang="grc">κομμερκιάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kommerkiarios</term>
                <term xml:lang="fr">commerciaire</term>
                <term xml:lang="de">kommerkiarios</term>
                <term xml:lang="bg">xxx</term>
@@ -967,8 +953,8 @@
             </item>
             <item xml:id="of0103">
                <term xml:lang="grc">κομμερκιάριος, γενικός</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">génikos kommerkiarios</term>
+               <term xml:lang="en">kommerkiarios, genikos</term>
+               <term xml:lang="fr">kommerkiarios, génikos</term>
                <term xml:lang="de">kommerkiarios, genikos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">κομμερκιάριος, γενικός</term>
@@ -976,8 +962,8 @@
             </item>
             <item xml:id="of0104">
                <term xml:lang="grc">κομμερκιάριος, μέγας</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand commerciaire</term>
+               <term xml:lang="en">kommerkiarios, megas</term>
+               <term xml:lang="fr">commerciaire, grand</term>
                <term xml:lang="de">kommerkiarios, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">κομμερκιάριος, μέγας</term>
@@ -985,7 +971,7 @@
             </item>
             <item xml:id="of0105">
                <term xml:lang="grc">κομμερκιάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kommerkiarios, imperial</term>
                <term xml:lang="fr">commerciaire impérial</term>
                <term xml:lang="de">kommerkiarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -994,7 +980,7 @@
             </item>
             <item xml:id="of0106">
                <term xml:lang="grc">κοσμικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kosmikos</term>
                <term xml:lang="fr">kosmikos</term>
                <term xml:lang="de">kosmikos</term>
                <term xml:lang="bg">xxx</term>
@@ -1003,7 +989,7 @@
             </item>
             <item xml:id="of0107">
                <term xml:lang="grc">κουράτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kourator</term>
                <term xml:lang="fr">curateur</term>
                <term xml:lang="de">kurator</term>
                <term xml:lang="bg">xxx</term>
@@ -1012,8 +998,8 @@
             </item>
             <item xml:id="of0108">
                <term xml:lang="grc">κουράτωρ, μέγας</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand curateur</term>
+               <term xml:lang="en">kourator, megas</term>
+               <term xml:lang="fr">curateur, grand</term>
                <term xml:lang="de">kurator, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">κουράτωρ, μέγας</term>
@@ -1021,7 +1007,7 @@
             </item>
             <item xml:id="of0109">
                <term xml:lang="grc">κουράτωρ, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kourator, imperial</term>
                <term xml:lang="fr">curateur impérial</term>
                <term xml:lang="de">kurator, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1030,7 +1016,7 @@
             </item>
             <item xml:id="of0110">
                <term xml:lang="grc">πρωτοκουράτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protokourator</term>
                <term xml:lang="fr">protocurateur</term>
                <term xml:lang="de">protokurator</term>
                <term xml:lang="bg">xxx</term>
@@ -1039,7 +1025,7 @@
             </item>
             <item xml:id="of0111">
                <term xml:lang="grc">κούρσωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">koursor</term>
                <term xml:lang="fr">koursôr</term>
                <term xml:lang="de">kursor</term>
                <term xml:lang="bg">xxx</term>
@@ -1066,17 +1052,17 @@
             </item>
             <item xml:id="of0114">
                <term xml:lang="grc">λογαριαστής</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">logasriaste</term>
-               <term xml:lang="de">logaristes</term>
+               <term xml:lang="en">logariastes</term>
+               <term xml:lang="fr">logariaste</term>
+               <term xml:lang="de">logariastes</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">λογαριαστής</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0115">
                <term xml:lang="grc">λογαριαστής, μέγας</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand logariaste</term>
+               <term xml:lang="en">logariastes, megas</term>
+               <term xml:lang="fr">logariaste, grand</term>
                <term xml:lang="de">logariastes, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">λογαριαστής, μέγας</term>
@@ -1084,7 +1070,7 @@
             </item>
             <item xml:id="of0116">
                <term xml:lang="grc">λογοθέτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">logothetes</term>
                <term xml:lang="fr">logothète</term>
                <term xml:lang="de">logothetes</term>
                <term xml:lang="bg">xxx</term>
@@ -1093,7 +1079,7 @@
             </item>
             <item xml:id="of0117">
                <term xml:lang="grc">λογοθέτης, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">logothetes, imperial</term>
                <term xml:lang="fr">logothète impérial</term>
                <term xml:lang="de">logothetes, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1102,19 +1088,18 @@
             </item>
             <item xml:id="of0118">
                <term xml:lang="grc">λογοθέτης, γενικός</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">genikos logothétès</term>
+               <term xml:lang="en">logothetes, genikos</term>
+               <term xml:lang="fr">logothétès, génikos</term>
                <term xml:lang="de">logothetes, genikos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">λογοθέτης, γενικός</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0119">
-               <!--isn't it μάγιστρος?-->
-               <term xml:lang="grc">μαγίστρος</term>
+               <term xml:lang="grc">μάγιστρος</term>
                <term xml:lang="la">magister</term>
                <term xml:lang="en">magistros</term>
-               <term xml:lang="fr">maître</term>
+               <term xml:lang="fr">magistre</term>
                <term xml:lang="de">magistros</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">μάγιστρος</term>
@@ -1122,7 +1107,7 @@
             </item>
             <item xml:id="of0120">
                <term xml:lang="grc">μαγιστριανός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">magistrianos</term>
                <term xml:lang="fr">magistrianos</term>
                <term xml:lang="de">magistrianos</term>
                <term xml:lang="bg">xxx</term>
@@ -1131,7 +1116,7 @@
             </item>
             <item xml:id="of0121">
                <term xml:lang="grc">μαγιστριανός, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">magistrianos, imperial</term>
                <term xml:lang="fr">magistrianos impérial</term>
                <term xml:lang="de">magistrianos, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1140,8 +1125,8 @@
             </item>
             <item xml:id="of0122">
                <term xml:lang="grc">μαΐστωρ</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">maïstor</term>
+               <term xml:lang="en">maistor</term>
+               <term xml:lang="fr">maïstôr</term>
                <term xml:lang="de">maïstor</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">μαΐστωρ</term>
@@ -1149,7 +1134,7 @@
             </item>
             <item xml:id="of0123">
                <term xml:lang="grc">μακελλάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">butcher</term>
                <term xml:lang="fr">boucher</term>
                <term xml:lang="de">makellarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1158,7 +1143,7 @@
             </item>
             <item xml:id="of0124">
                <term xml:lang="grc">μανδάτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">mandator</term>
                <term xml:lang="fr">mandatôr</term>
                <term xml:lang="de">mandator</term>
                <term xml:lang="bg">xxx</term>
@@ -1167,7 +1152,7 @@
             </item>
             <item xml:id="of0125">
                <term xml:lang="grc">μανδάτωρ, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">mandator, imperial</term>
                <term xml:lang="fr">mandatôr impérial</term>
                <term xml:lang="de">mandator, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1176,32 +1161,25 @@
             </item>
             <item xml:id="of0126">
                <term xml:lang="grc">πρωτομανδάτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protomandator</term>
                <term xml:lang="fr">prôtomandatôr</term>
                <term xml:lang="de">protomandator</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">πρωτομανδάτωρ</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0127"><!--unclear! commented out, to be reviewed-->
+            <item xml:id="of0127">
                <term xml:lang="grc">μειζότερος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">meizoteros</term>
                <term xml:lang="fr">meizotéros</term>
                <term xml:lang="de">meizoteros</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">μειζότερος</term>
                <term xml:lang="it">xxx</term>
-               <!--<term xml:lang="grc">μειζότερος, δεσποτικός</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">meizotéros de l'empereur</term>
-               <term xml:lang="de">xxx</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">μειζότερος, δεσποτικός</term>
-               <term xml:lang="it">xxx</term>-->
             </item>
             <item xml:id="of0128">
                <term xml:lang="grc">μειζότερος, βασιλικὸς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">meizoteros, imperial</term>
                <term xml:lang="fr">meizotéros impérial</term>
                <term xml:lang="de">meizoteros, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1210,8 +1188,8 @@
             </item>
             <item xml:id="of0129">
                <term xml:lang="grc">μειζότερος, μέγας</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand meizotéros</term>
+               <term xml:lang="en">meizoteros, megas</term>
+               <term xml:lang="fr">meizotéros, grand</term>
                <term xml:lang="de">meizoteros, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">μειζότερος, μέγας</term>
@@ -1219,7 +1197,7 @@
             </item>
             <item xml:id="of0130">
                <term xml:lang="grc">μεσάζων</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">mesazon</term>
                <term xml:lang="fr">mésazôn</term>
                <term xml:lang="de">mesazon</term>
                <term xml:lang="bg">xxx</term>
@@ -1228,7 +1206,7 @@
             </item>
             <item xml:id="of0131">
                <term xml:lang="grc">μεταξάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">metaxarios</term>
                <term xml:lang="fr">metaxarios</term>
                <term xml:lang="de">metaxarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1237,7 +1215,7 @@
             </item>
             <item xml:id="of0132">
                <term xml:lang="grc">μετρητής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">metretes</term>
                <term xml:lang="fr">métrète</term>
                <term xml:lang="de">metretes</term>
                <term xml:lang="bg">xxx</term>
@@ -1246,7 +1224,7 @@
             </item>
             <item xml:id="of0133">
                <term xml:lang="grc">μοδεράτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">moderator</term>
                <term xml:lang="fr">modératôr</term>
                <term xml:lang="de">moderator</term>
                <term xml:lang="bg">xxx</term>
@@ -1255,7 +1233,7 @@
             </item>
             <item xml:id="of0134">
                <term xml:lang="grc">μονητάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">monetarios</term>
                <term xml:lang="fr">monètarios</term>
                <term xml:lang="de">monetarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1264,7 +1242,7 @@
             </item>
             <item xml:id="of0135">
                <term xml:lang="grc">μυστικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">mystikos</term>
                <term xml:lang="fr">mystikos</term>
                <term xml:lang="de">mystikos</term>
                <term xml:lang="bg">xxx</term>
@@ -1273,7 +1251,7 @@
             </item>
             <item xml:id="of0136">
                <term xml:lang="grc">μυστογράφος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">mystographos</term>
                <term xml:lang="fr">mystographe</term>
                <term xml:lang="de">mystographos</term>
                <term xml:lang="bg">xxx</term>
@@ -1282,7 +1260,7 @@
             </item>
             <item xml:id="of0137">
                <term xml:lang="grc">μυστογράφισσα</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">mystographissa</term>
                <term xml:lang="fr">mystographissa</term>
                <term xml:lang="de">mystographissa</term>
                <term xml:lang="bg">xxx</term>
@@ -1291,7 +1269,7 @@
             </item>
             <item xml:id="of0138">
                <term xml:lang="grc">μυστολέκτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">mystolektes</term>
                <term xml:lang="fr">mystolekte</term>
                <term xml:lang="de">mystolektes</term>
                <term xml:lang="bg">xxx</term>
@@ -1300,7 +1278,7 @@
             </item>
             <item xml:id="of0139">
                <term xml:lang="grc">νιψιστάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">nipsistarios</term>
                <term xml:lang="fr">nipsistarios</term>
                <term xml:lang="de">nipsistarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1309,7 +1287,7 @@
             </item>
             <item xml:id="of0140">
                <term xml:lang="grc">νιψιστάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">nipsistarios, impérial</term>
                <term xml:lang="fr">nipsistarios impérial</term>
                <term xml:lang="de">nipsistarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1318,7 +1296,7 @@
             </item>
             <item xml:id="of0141">
                <term xml:lang="grc">νομικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">nomikos</term>
                <term xml:lang="fr">nomikos</term>
                <term xml:lang="de">nomikos</term>
                <term xml:lang="bg">xxx</term>
@@ -1327,7 +1305,7 @@
             </item>
             <item xml:id="of0142">
                <term xml:lang="grc">νοσοκόμος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">nosokomos</term>
                <term xml:lang="fr">nosokomos</term>
                <term xml:lang="de">nosokomos</term>
                <term xml:lang="bg">xxx</term>
@@ -1336,7 +1314,7 @@
             </item>
             <item xml:id="of0143">
                <term xml:lang="grc">νοτάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">notary</term>
                <term xml:lang="fr">notaire</term>
                <term xml:lang="de">notarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1345,8 +1323,8 @@
             </item>
             <item xml:id="of0144">
                <term xml:lang="grc">νοτάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">notaire impérial</term>
+               <term xml:lang="en">notarios, imperial</term>
+               <term xml:lang="fr">notarios impérial</term>
                <term xml:lang="de">notarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">νοτάριος, βασιλικός</term>
@@ -1354,7 +1332,7 @@
             </item>
             <item xml:id="of0145">
                <term xml:lang="grc">ξενοδóχος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">xenodochos</term>
                <term xml:lang="fr">xénodoque</term>
                <term xml:lang="de">xenodochos</term>
                <term xml:lang="bg">xxx</term>
@@ -1363,7 +1341,7 @@
             </item>
             <item xml:id="of0146">
                <term xml:lang="grc">οἰκειακός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">oikeiakos</term>
                <term xml:lang="fr">oikeiakos</term>
                <term xml:lang="de">oikeiakos</term>
                <term xml:lang="bg">xxx</term>
@@ -1372,7 +1350,7 @@
             </item>
             <item xml:id="of0147">
                <term xml:lang="grc">οἰκιστικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">oikistikos</term>
                <term xml:lang="fr">oikistikos</term>
                <term xml:lang="de">oikistikos</term>
                <term xml:lang="bg">xxx</term>
@@ -1381,7 +1359,7 @@
             </item>
             <item xml:id="of0148">
                <term xml:lang="grc">οἰκονόμος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">oikonomos</term>
                <term xml:lang="fr">économe</term>
                <term xml:lang="de">oikonomos</term>
                <term xml:lang="bg">xxx</term>
@@ -1390,8 +1368,8 @@
             </item>
             <item xml:id="of0149">
                <term xml:lang="grc">οἰκονόμος, μέγας</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand économe</term>
+               <term xml:lang="en">oikonomos, megas</term>
+               <term xml:lang="fr">économe, grand</term>
                <term xml:lang="de">oikonomos, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">οικονόμος, μέγας</term>
@@ -1399,7 +1377,7 @@
             </item>
             <item xml:id="of0150">
                <term xml:lang="grc">ὀρφανοτρόφος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">orphanotrophos</term>
                <term xml:lang="fr">orphanotrophe</term>
                <term xml:lang="de">orphanotrophos</term>
                <term xml:lang="bg">xxx</term>
@@ -1408,8 +1386,8 @@
             </item>
             <item xml:id="of0151">
                <term xml:lang="grc">ὀρφανοτρόφος, μέγας</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand orphanotrophe</term>
+               <term xml:lang="en">orphanotrophos, megas</term>
+               <term xml:lang="fr">orphanotrophe, grand</term>
                <term xml:lang="de">orphanotrophos, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">ορφανοτρόφος, μέγας</term>
@@ -1417,7 +1395,7 @@
             </item>
             <item xml:id="of0152">
                <term xml:lang="grc">ὀστιάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">ostiarios</term>
                <term xml:lang="fr">ostiaire</term>
                <term xml:lang="de">ostiarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1426,7 +1404,7 @@
             </item>
             <item xml:id="of0153">
                <term xml:lang="grc">παλατῖνος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">palatinos</term>
                <term xml:lang="fr">palatinos</term>
                <term xml:lang="de">palatinos</term>
                <term xml:lang="bg">xxx</term>
@@ -1435,7 +1413,7 @@
             </item>
             <item xml:id="of0154">
                <term xml:lang="grc">παπίας</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">papias</term>
                <term xml:lang="fr">papias</term>
                <term xml:lang="de">papias</term>
                <term xml:lang="bg">xxx</term>
@@ -1444,7 +1422,7 @@
             </item>
             <item xml:id="of0155">
                <term xml:lang="grc">παραθαλασσίτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">parathalassites</term>
                <term xml:lang="fr">parathalassitès</term>
                <term xml:lang="de">parathalassites</term>
                <term xml:lang="bg">xxx</term>
@@ -1453,7 +1431,7 @@
             </item>
             <item xml:id="of0156">
                <term xml:lang="grc">παρακοιμώμενος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">parakoimomenos</term>
                <term xml:lang="fr">parakoimômène</term>
                <term xml:lang="de">parakoimomenos</term>
                <term xml:lang="bg">xxx</term>
@@ -1462,7 +1440,7 @@
             </item>
             <item xml:id="of0157">
                <term xml:lang="grc">πιστικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">pistikos</term>
                <term xml:lang="fr">pistikos</term>
                <term xml:lang="de">pistikos</term>
                <term xml:lang="bg">xxx</term>
@@ -1471,7 +1449,7 @@
             </item>
             <item xml:id="of0158">
                <term xml:lang="grc">πιστικός, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">pistikos, imperial</term>
                <term xml:lang="fr">pistikos impérial</term>
                <term xml:lang="de">pistikos, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1480,7 +1458,7 @@
             </item>
             <item xml:id="of0159">
                <term xml:lang="grc">πραγματευτής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">pragmateutes</term>
                <term xml:lang="fr">pragmateutès</term>
                <term xml:lang="de">pragmateutes</term>
                <term xml:lang="bg">xxx</term>
@@ -1489,7 +1467,7 @@
             </item>
             <item xml:id="of0160">
                <term xml:lang="grc">πραιπόσιτος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">praipositos</term>
                <term xml:lang="fr">préposite</term>
                <term xml:lang="de">praipositos</term>
                <term xml:lang="bg">xxx</term>
@@ -1498,7 +1476,7 @@
             </item>
             <item xml:id="of0161">
                <term xml:lang="grc">πραίτωρ</term>
-               <term xml:lang="en">praetor</term>
+               <term xml:lang="en">prætor</term>
                <term xml:lang="fr">préteur</term>
                <term xml:lang="de">praitor</term>
                <term xml:lang="bg">xxx</term>
@@ -1507,7 +1485,7 @@
             </item>
             <item xml:id="of0162">
                <term xml:lang="grc">πράκτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">praktor</term>
                <term xml:lang="fr">praktôr</term>
                <term xml:lang="de">praktor</term>
                <term xml:lang="bg">xxx</term>
@@ -1516,7 +1494,7 @@
             </item>
             <item xml:id="of0163">
                <term xml:lang="grc">πριμικήριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">primikerios</term>
                <term xml:lang="fr">primicier</term>
                <term xml:lang="de">primikerios</term>
                <term xml:lang="bg">xxx</term>
@@ -1525,7 +1503,7 @@
             </item>
             <item xml:id="of0164">
                <term xml:lang="grc">πριμικήριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">primikerios, imperial</term>
                <term xml:lang="fr">primicier impérial</term>
                <term xml:lang="de">primikerios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1534,7 +1512,7 @@
             </item>
             <item xml:id="of0165">
                <term xml:lang="grc">πρόεδρος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">proedros</term>
                <term xml:lang="fr">proèdre</term>
                <term xml:lang="de">proedros</term>
                <term xml:lang="bg">xxx</term>
@@ -1543,7 +1521,7 @@
             </item>
             <item xml:id="of0166">
                <term xml:lang="grc">προηγητής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">proegetes</term>
                <term xml:lang="fr">proègètès</term>
                <term xml:lang="de">proegetes</term>
                <term xml:lang="bg">xxx</term>
@@ -1552,7 +1530,7 @@
             </item>
             <item xml:id="of0167">
                <term xml:lang="grc">προνοητής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">pronoetes</term>
                <term xml:lang="fr">pronoètès</term>
                <term xml:lang="de">pronoetes</term>
                <term xml:lang="bg">xxx</term>
@@ -1561,7 +1539,7 @@
             </item>
             <item xml:id="of0168">
                <term xml:lang="grc">προνοητής, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">pronoetes, imperial</term>
                <term xml:lang="fr">pronoètès impérial</term>
                <term xml:lang="de">pronoetes, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1570,7 +1548,7 @@
             </item>
             <item xml:id="of0169">
                <term xml:lang="grc">πρωτεύων</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">proteuon</term>
                <term xml:lang="fr">prôteuôn</term>
                <term xml:lang="de">proteuon</term>
                <term xml:lang="bg">xxx</term>
@@ -1579,7 +1557,7 @@
             </item>
             <item xml:id="of0170">
                <term xml:lang="grc">πρωτοβεστιάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protovestiarios</term>
                <term xml:lang="fr">protovestiaire</term>
                <term xml:lang="de">protovestiarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1588,8 +1566,8 @@
             </item>
             <item xml:id="of0171">
                <term xml:lang="grc">πρωτοκυνηγός</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">protokynègos</term>
+               <term xml:lang="en">protokynegos</term>
+               <term xml:lang="fr">prôtokynègos</term>
                <term xml:lang="de">protokynegos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">πρωτοκυνηγός</term>
@@ -1597,7 +1575,7 @@
             </item>
             <item xml:id="of0172">
                <term xml:lang="grc">πρωτονοτάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protonotarios</term>
                <term xml:lang="fr">protonotaire</term>
                <term xml:lang="de">protonotarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1606,7 +1584,7 @@
             </item>
             <item xml:id="of0173">
                <term xml:lang="grc">πρωτονοτάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protonotarios, imperial</term>
                <term xml:lang="fr">protonotaire impérial</term>
                <term xml:lang="de">protonotarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1615,7 +1593,7 @@
             </item>
             <item xml:id="of0174">
                <term xml:lang="grc">πτωχοτρόφος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">ptochotrophos</term>
                <term xml:lang="fr">ptôchotrophos</term>
                <term xml:lang="de">ptochotrophos</term>
                <term xml:lang="bg">xxx</term>
@@ -1624,7 +1602,7 @@
             </item>
             <item xml:id="of0175">
                <term xml:lang="grc">ῥαίκτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">raiktor</term>
                <term xml:lang="fr">recteur</term>
                <term xml:lang="de">raiktor</term>
                <term xml:lang="bg">xxx</term>
@@ -1633,7 +1611,7 @@
             </item>
             <item xml:id="of0176">
                <term xml:lang="grc">ῥεγεωνάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">regeonarios</term>
                <term xml:lang="fr">régéônarios</term>
                <term xml:lang="de">regeonarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1642,7 +1620,7 @@
             </item>
             <item xml:id="of0177">
                <term xml:lang="grc">σακελλάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">sakellarios, imperial</term>
                <term xml:lang="fr">sacellaire impérial</term>
                <term xml:lang="de">sakellarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1651,7 +1629,7 @@
             </item>
             <item xml:id="of0178">
                <term xml:lang="grc">σεβαστοφόρος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">sebastophoros</term>
                <term xml:lang="fr">sébastophore</term>
                <term xml:lang="de">sebastophoros</term>
                <term xml:lang="bg">xxx</term>
@@ -1660,7 +1638,7 @@
             </item>
             <item xml:id="of0179">
                <term xml:lang="grc">σηρικάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">serikarios</term>
                <term xml:lang="fr">sèricaire</term>
                <term xml:lang="de">serikarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1669,7 +1647,7 @@
             </item>
             <item xml:id="of0180">
                <term xml:lang="grc">σκρίβων</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">skribon</term>
                <term xml:lang="fr">skribôn</term>
                <term xml:lang="de">skribon</term>
                <term xml:lang="bg">xxx</term>
@@ -1678,7 +1656,7 @@
             </item>
             <item xml:id="of0181">
                <term xml:lang="grc">σκρίβων, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">skribon, imperial</term>
                <term xml:lang="fr">skribôn impérial</term>
                <term xml:lang="de">skribon, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1687,7 +1665,7 @@
             </item>
             <item xml:id="of0182">
                <term xml:lang="grc">σκρινιάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">skriniarios</term>
                <term xml:lang="fr">scriniaire</term>
                <term xml:lang="de">skriniarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1696,7 +1674,7 @@
             </item>
             <item xml:id="of0183">
                <term xml:lang="grc">σύμπονος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">symponos</term>
                <term xml:lang="fr">symponos</term>
                <term xml:lang="de">symponos</term>
                <term xml:lang="bg">xxx</term>
@@ -1705,7 +1683,7 @@
             </item>
             <item xml:id="of0184">
                <term xml:lang="grc">σχολάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">scholarios</term>
                <term xml:lang="fr">scholarios</term>
                <term xml:lang="de">scholarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1714,7 +1692,7 @@
             </item>
             <item xml:id="of0185">
                <term xml:lang="grc">σχολάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">scholarios, imperial</term>
                <term xml:lang="fr">scholarios impérial</term>
                <term xml:lang="de">scholarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1723,7 +1701,7 @@
             </item>
             <item xml:id="of0186">
                <term xml:lang="grc">ταβουλλάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">taboullarios</term>
                <term xml:lang="fr">taboullarios</term>
                <term xml:lang="de">tabullarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1732,7 +1710,7 @@
             </item>
             <item xml:id="of0187">
                <term xml:lang="grc">ταβουλλάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">taboullarios, imperial</term>
                <term xml:lang="fr">taboullarios impérial</term>
                <term xml:lang="de">tabullarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -1741,7 +1719,7 @@
             </item>
             <item xml:id="of0188">
                <term xml:lang="grc">ὕπατος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">hypatos</term>
                <term xml:lang="fr">hypatos</term>
                <term xml:lang="de">hypatos</term>
                <term xml:lang="bg">xxx</term>
@@ -1750,7 +1728,7 @@
             </item>
             <item xml:id="of0189">
                <term xml:lang="grc">ταξεώτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">taxeotes</term>
                <term xml:lang="fr">taxéôtès</term>
                <term xml:lang="de">taxeotes</term>
                <term xml:lang="bg">xxx</term>
@@ -1759,7 +1737,7 @@
             </item>
             <item xml:id="of0190">
                <term xml:lang="grc">τραπεζίτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">trapezites</term>
                <term xml:lang="fr">trapézitès</term>
                <term xml:lang="de">trapezites</term>
                <term xml:lang="bg">xxx</term>
@@ -1768,7 +1746,7 @@
             </item>
             <item xml:id="of0191">
                <term xml:lang="grc">τρακτευτής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">trakteutes</term>
                <term xml:lang="fr">trakteutès</term>
                <term xml:lang="de">trakteutes</term>
                <term xml:lang="bg">xxx</term>
@@ -1777,7 +1755,7 @@
             </item>
             <item xml:id="of0192">
                <term xml:lang="grc">φύλαξ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">phylax</term>
                <term xml:lang="fr">phylax</term>
                <term xml:lang="de">phylax</term>
                <term xml:lang="bg">xxx</term>
@@ -1786,7 +1764,7 @@
             </item>
             <item xml:id="of0193">
                <term xml:lang="grc">χαρτουλάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">chartoularios</term>
                <term xml:lang="fr">chartulaire</term>
                <term xml:lang="de">chartularios</term>
                <term xml:lang="bg">xxx</term>
@@ -1795,8 +1773,8 @@
             </item>
             <item xml:id="of0194">
                <term xml:lang="grc">μέγας χαρτουλάριος</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand chartulaire</term>
+               <term xml:lang="en">chartoularios, megas</term>
+               <term xml:lang="fr">chartulaire, grand</term>
                <term xml:lang="de">chartularios, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">χαρτουλάριος, μέγας</term>
@@ -1804,7 +1782,7 @@
             </item>
             <item xml:id="of0195">
                <term xml:lang="grc">χρυσοτελής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">chrysoteles</term>
                <term xml:lang="fr">chrysotelès</term>
                <term xml:lang="de">chrysoteles</term>
                <term xml:lang="bg">xxx</term>
@@ -1813,7 +1791,7 @@
             </item>
             <item xml:id="of0196">
                <term xml:lang="grc">δικασπόλος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">dikaspolos</term>
                <term xml:lang="fr">dikaspolos</term>
                <term xml:lang="de">dikaspolos</term>
                <term xml:lang="bg">xxx</term>
@@ -1822,7 +1800,7 @@
             </item>
             <item xml:id="of0197">
                <term xml:lang="grc">ὡρρειάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">horreiarios</term>
                <term xml:lang="fr">hôrreiarios</term>
                <term xml:lang="de">horreiarios</term>
                <term xml:lang="bg">xxx</term>
@@ -1831,7 +1809,7 @@
             </item>
             <item xml:id="of0198">
                <term xml:lang="grc">ἀναγνώστης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">anagnostes</term>
                <term xml:lang="fr">lecteur</term>
                <term xml:lang="de">anagnostes</term>
                <term xml:lang="bg">xxx</term>
@@ -1839,21 +1817,21 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0199">
-               <term xml:lang="grc">ἀποκρισάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">ἀποκρισιάριος</term>
+               <term xml:lang="en">apokrisiarios</term>
                <term xml:lang="fr">apocrisiaire</term>
-               <term xml:lang="de">apokrisarios</term>
+               <term xml:lang="de">apokrisiarios</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">αποκρισάριος</term>
+               <term xml:lang="el">αποκρισιάριος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0200">
-               <term xml:lang="grc">ἀποκρισάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">ἀποκρισιάριος, βασιλικός</term>
+               <term xml:lang="en">apokrisiarios, imperial</term>
                <term xml:lang="fr">apocrisiaire impérial</term>
-               <term xml:lang="de">apokrisarios, kaiserlich</term>
+               <term xml:lang="de">apokrisiarios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">αποκρισάριος, βασιλικός</term>
+               <term xml:lang="el">αποκρισιάριος, βασιλικός</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0201">
@@ -1876,7 +1854,7 @@
             </item>
             <item xml:id="of0203">
                <term xml:lang="grc">διδάσκαλος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">didaskalos</term>
                <term xml:lang="fr">didascale</term>
                <term xml:lang="de">didaskalos</term>
                <term xml:lang="bg">xxx</term>
@@ -1885,7 +1863,7 @@
             </item>
             <item xml:id="of0204">
                <term xml:lang="grc">ἔκδικος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">ekdikos</term>
                <term xml:lang="fr">ekdikos</term>
                <term xml:lang="de">ekdikos</term>
                <term xml:lang="bg">xxx</term>
@@ -1894,7 +1872,7 @@
             </item>
             <item xml:id="of0205">
                <term xml:lang="grc">ἐκκλησιέκδικος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">ekklesiekdikos</term>
                <term xml:lang="fr">ekklèsiekdikos</term>
                <term xml:lang="de">ekklesiekdikos</term>
                <term xml:lang="bg">xxx</term>
@@ -1946,32 +1924,32 @@
                <term xml:lang="el">καθηγούμενος</term>
                <term xml:lang="it">categumeno</term>
             </item>
-            <item xml:id="of0211"><!--unclear!-->
-               <term xml:lang="grc">κανστρήσιος</term>
-               <term xml:lang="en">kanstrisios</term>
-               <term xml:lang="fr">kanstrisios</term>
-               <term xml:lang="de">kanstresios</term>
+            <item xml:id="of0211">
+               <term xml:lang="grc">καστρήσιος</term>
+               <term xml:lang="en">kastresios</term>
+               <term xml:lang="fr">kastrèsios</term>
+               <term xml:lang="de">kastresios</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">κανστρήσιος</term>
-               <term xml:lang="it">canstrisio</term>
+               <term xml:lang="el">καστρήσιος</term>
+               <term xml:lang="it">castrisio</term>
             </item>
             <item xml:id="of0212">
                <term xml:lang="grc">κληρικός</term>
-               <term xml:lang="en">cleric</term>
-               <term xml:lang="fr">clerc</term>
+               <term xml:lang="en">klerikos</term>
+               <term xml:lang="fr">klerikos</term>
                <term xml:lang="de">klerikos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">κληρικός</term>
-               <term xml:lang="it">chierico</term>
+               <term xml:lang="it">klerikos</term>
             </item>
             <item xml:id="of0213">
                <term xml:lang="grc">κληρικός, βασιλικὸς</term>
-               <term xml:lang="en">cleric, imperial</term>
-               <term xml:lang="fr">clerc impérial</term>
+               <term xml:lang="en">klerikos, imperial</term>
+               <term xml:lang="fr">klerikos impérial</term>
                <term xml:lang="de">klerikos, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">κληρικός, βασιλικός</term>
-               <term xml:lang="it">chierico imperiale</term>
+               <term xml:lang="it">klerikos imperiale</term>
             </item>
             <item xml:id="of0214">
                <term xml:lang="grc">μητροπολίτης</term>
@@ -1983,7 +1961,7 @@
                <term xml:lang="it">metropolita</term>
             </item>
             <item xml:id="of0215">
-               <term xml:lang="grc">μοναχὴ</term>
+               <term xml:lang="grc">μοναχή</term>
                <term xml:lang="en">nun</term>
                <term xml:lang="fr">moniale</term>
                <term xml:lang="de">monache (Nonne)</term>
@@ -1992,7 +1970,7 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0216">
-               <term xml:lang="grc">μοναχὸς</term>
+               <term xml:lang="grc">μοναχός</term>
                <term xml:lang="en">monk</term>
                <term xml:lang="fr">moine</term>
                <term xml:lang="de">monachos (Mönch)</term>
@@ -2001,8 +1979,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0217">
-               <term xml:lang="grc">νοτάριος, πατριαρχικὸς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">νοτάριος, πατριαρχικός</term>
+               <term xml:lang="en">notarios, patriarchal</term>
                <term xml:lang="fr">notaire patriarcal</term>
                <term xml:lang="de">notarios, patriarchikos</term>
                <term xml:lang="bg">xxx</term>
@@ -2010,50 +1988,36 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0218">
-               <term xml:lang="grc">οἰκονόμος</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">économe</term>
-               <term xml:lang="de">oikonomos</term>
+               <term xml:lang="grc">πατριάρχης, οἰκουμενικός</term>
+               <term xml:lang="en">patriarch, ecumenical</term>
+               <term xml:lang="fr">patriarche oecuménique</term>
+               <term xml:lang="de">patriarches, oikumenikos</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">οικονόμος</term>
-               <term xml:lang="it">xxx</term>
+               <term xml:lang="el">πατριάρχης, οικουμενικός</term>
+               <term xml:lang="it">patriarca ecumenico</term>
             </item>
-            <item xml:id="of0219"><!--unclear!-->
+            <item xml:id="of0219">
                <term xml:lang="grc">πατριάρχης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">patriarch</term>
                <term xml:lang="fr">patriarche</term>
                <term xml:lang="de">patriarches</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">πατριάρχης</term>
-               <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">οἰκουμενικὸς πατριάρχης</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">patriarche oecuménique</term>
-               <term xml:lang="de">oikumenikos patriarches</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">οικουμενικός πατριάρχης</term>
-               <term xml:lang="it">xxx</term>
+               <term xml:lang="it">patriarca</term>
             </item>
-            <item xml:id="of0220"><!--unclear-->
+            <item xml:id="of0220">
                <term xml:lang="grc">ποιμενάρχης</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">archevêque</term>
+               <term xml:lang="en">poimenarches</term>
+               <term xml:lang="fr">poimenarchès</term>
                <term xml:lang="de">poimenarches</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">ποιμενάρχης</term>
                <term xml:lang="it">xxx</term>
-               <term xml:lang="grc">ποιμενάρχης Βουλγάρων</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">archevêque des Bulgares</term>
-               <term xml:lang="de">poimenarches der Bulgaren</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">ποιμενάρχης Βουλγάρων</term>
-               <term xml:lang="it">xxx</term>
             </item>
-         <item xml:id="of0221"><!--unclear!-->
-               <term xml:lang="grc">ποιμὴν</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">pasteur</term>
+         <item xml:id="of0221">
+            <term xml:lang="grc">ποιμήν</term>
+            <term xml:lang="en">poimen</term>
+            <term xml:lang="fr">poimen</term>
                <term xml:lang="de">poimen</term>
                <term xml:lang="bg">xxx</term>
             <term xml:lang="el">ποιμήν</term>
@@ -2061,7 +2025,7 @@
             </item>
             <item xml:id="of0222">
                <term xml:lang="grc">πρεσβύτερος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">priest</term>
                <term xml:lang="fr">prêtre</term>
                <term xml:lang="de">presbyteros</term>
                <term xml:lang="bg">xxx</term>
@@ -2070,7 +2034,7 @@
             </item>
             <item xml:id="of0223">
                <term xml:lang="grc">πρωτοπρεσβύτερος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protopresbyteros</term>
                <term xml:lang="fr">prôtopresbytéros</term>
                <term xml:lang="de">protopresbyteros</term>
                <term xml:lang="bg">xxx</term>
@@ -2078,17 +2042,17 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0224">
-               <term xml:lang="grc">πρόεδρος</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">proèdre</term>
-               <term xml:lang="de">proedros</term>
-               <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">πρόεδρος</term>
-               <term xml:lang="it">xxx</term>
+               <term xml:lang="grc"/>
+               <term xml:lang="en"></term>
+               <term xml:lang="fr"></term>
+               <term xml:lang="de"></term>
+               <term xml:lang="bg"></term>
+               <term xml:lang="el"></term>
+               <term xml:lang="it"></term>
             </item>
             <item xml:id="of0225">
                <term xml:lang="grc">πρωτέκδικος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protekdikos</term>
                <term xml:lang="fr">prôtekdikos</term>
                <term xml:lang="de">protekdikos</term>
                <term xml:lang="bg">xxx</term>
@@ -2097,7 +2061,7 @@
             </item>
             <item xml:id="of0226">
                <term xml:lang="grc">πρωτόθρονος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protothronos</term>
                <term xml:lang="fr">prôtothronos</term>
                <term xml:lang="de">protothronos</term>
                <term xml:lang="bg">xxx</term>
@@ -2105,8 +2069,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0227">
-               <term xml:lang="grc">πρωτοπαπὰς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">πρωτοπαπάς</term>
+               <term xml:lang="en">protopapas</term>
                <term xml:lang="fr">prôtopapas</term>
                <term xml:lang="de">protopapas</term>
                <term xml:lang="bg">xxx</term>
@@ -2115,7 +2079,7 @@
             </item>
             <item xml:id="of0228">
                <term xml:lang="grc">πρώτος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protos</term>
                <term xml:lang="fr">prôtos</term>
                <term xml:lang="de">protos</term>
                <term xml:lang="bg">xxx</term>
@@ -2123,17 +2087,17 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0229">
-               <term xml:lang="grc">ῥαιφερενδάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">ῥεφερενδάριος</term>
+               <term xml:lang="en">referendarios</term>
                <term xml:lang="fr">référendaire</term>
-               <term xml:lang="de">raipherendarios</term>
+               <term xml:lang="de">repherendarios</term>
                <term xml:lang="bg">xxx</term>
-               <term xml:lang="el">ραιφερενδάριος</term>
+               <term xml:lang="el">ρεφερενδάριος</term>
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0230">
-               <term xml:lang="grc">σεκρετικὸς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">σεκρετικός</term>
+               <term xml:lang="en">sekretikos</term>
                <term xml:lang="fr">sékrétikos</term>
                <term xml:lang="de">sekretikos</term>
                <term xml:lang="bg">xxx</term>
@@ -2142,7 +2106,7 @@
             </item>
             <item xml:id="of0231">
                <term xml:lang="grc">σκευοφύλαξ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">skeuophylax</term>
                <term xml:lang="fr">skeuophylax</term>
                <term xml:lang="de">skeuophylax</term>
                <term xml:lang="bg">xxx</term>
@@ -2151,16 +2115,16 @@
             </item>
             <item xml:id="of0232">
                <term xml:lang="grc">σύγκελλος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">synkellos</term>
                <term xml:lang="fr">syncelle</term>
                <term xml:lang="de">synkellos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">σύγκελλος</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0233"><!--grc greek spelling correct?-->
-               <term xml:lang="grc">πρωτοσὐγγελος</term>
-               <term xml:lang="en">xxx</term>
+            <item xml:id="of0233">
+               <term xml:lang="grc">πρωτοσὐγκελλος</term>
+               <term xml:lang="en">protosynkellos</term>
                <term xml:lang="fr">protosyncelle</term>
                <term xml:lang="de">protosynkellos</term>
                <term xml:lang="bg">xxx</term>
@@ -2169,7 +2133,7 @@
             </item>
             <item xml:id="of0234">
                <term xml:lang="grc">καθηγητής</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kathegetes</term>
                <term xml:lang="fr">kathègètès</term>
                <term xml:lang="de">kathegetes</term>
                <term xml:lang="bg">xxx</term>
@@ -2178,7 +2142,7 @@
             </item>
             <item xml:id="of0235">
                <term xml:lang="grc">χαριστικάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">charistikarios</term>
                <term xml:lang="fr">charisticaire</term>
                <term xml:lang="de">charistikarios</term>
                <term xml:lang="bg">xxx</term>
@@ -2187,7 +2151,7 @@
             </item>
             <item xml:id="of0236">
                <term xml:lang="grc">χαρτοφύλαξ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">chartophylax</term>
                <term xml:lang="fr">chartophylax</term>
                <term xml:lang="de">chartophylax</term>
                <term xml:lang="bg">xxx</term>
@@ -2196,7 +2160,7 @@
             </item>
             <item xml:id="of0237">
                <term xml:lang="grc">ὑπολόγιος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">hypologios</term>
                <term xml:lang="fr">hypologios</term>
                <term xml:lang="de">hypologios</term>
                <term xml:lang="bg">xxx</term>
@@ -2204,10 +2168,10 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0238">
-               <term xml:lang="grc">xxx</term>
+               <term xml:lang="grc"/>
                <term xml:lang="la">magister militum</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">maître des milices</term>
+               <term xml:lang="en">magister militum</term>
+               <term xml:lang="fr">magister militum</term>
                <term xml:lang="de">magister militum</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">magister militum</term>
@@ -2215,7 +2179,7 @@
             </item>
             <item xml:id="of0239">
                <term xml:lang="grc">ἀρχηγέτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">archegetes</term>
                <term xml:lang="fr">archègétès</term>
                <term xml:lang="de">archegetes</term>
                <term xml:lang="bg">xxx</term>
@@ -2224,7 +2188,7 @@
             </item>
             <item xml:id="of0240">
                <term xml:lang="grc">βαρδάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">bardarios</term>
                <term xml:lang="fr">bardarios</term>
                <term xml:lang="de">bardarios</term>
                <term xml:lang="bg">xxx</term>
@@ -2233,7 +2197,7 @@
             </item>
             <item xml:id="of0241">
                <term xml:lang="grc">βεστιαρίτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">vestiarites</term>
                <term xml:lang="fr">vestiarite</term>
                <term xml:lang="de">vestiarites</term>
                <term xml:lang="bg">xxx</term>
@@ -2242,7 +2206,7 @@
             </item>
             <item xml:id="of0242">
                <term xml:lang="grc">δεκουρίων</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">dekourion</term>
                <term xml:lang="fr">décurion</term>
                <term xml:lang="de">dekurion</term>
                <term xml:lang="bg">xxx</term>
@@ -2251,7 +2215,7 @@
             </item>
             <item xml:id="of0243">
                <term xml:lang="grc">δομέστικος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">domestikos</term>
                <term xml:lang="fr">domestique</term>
                <term xml:lang="de">domestikos</term>
                <term xml:lang="bg">xxx</term>
@@ -2259,9 +2223,9 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0244">
-               <term xml:lang="grc">μέγας δομέστικος</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand domestique</term>
+               <term xml:lang="grc">δομέστικος, μέγας</term>
+               <term xml:lang="en">domestikos, megas</term>
+               <term xml:lang="fr">domestique, grand</term>
                <term xml:lang="de">domestikos, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">δομέστικος, μέγας </term>
@@ -2269,7 +2233,7 @@
             </item>
             <item xml:id="of0245">
                <term xml:lang="grc">δοὺξ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">doux</term>
                <term xml:lang="fr">duc</term>
                <term xml:lang="de">dux</term>
                <term xml:lang="bg">xxx</term>
@@ -2277,9 +2241,9 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0246">
-               <term xml:lang="grc">μέγας δοὺξ</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand duc</term>
+               <term xml:lang="grc">δοὺξ, μέγας</term>
+               <term xml:lang="en">dux, megas</term>
+               <term xml:lang="fr">duc, grand</term>
                <term xml:lang="de">dux, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">δούκας, μέγας</term>
@@ -2287,7 +2251,7 @@
             </item>
             <item xml:id="of0247">
                <term xml:lang="grc">δουκινάτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">doukinator</term>
                <term xml:lang="fr">doukinatôr</term>
                <term xml:lang="de">dukinator</term>
                <term xml:lang="bg">xxx</term>
@@ -2296,7 +2260,7 @@
             </item>
             <item xml:id="of0248">
                <term xml:lang="grc">δρακονάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">drakonarios</term>
                <term xml:lang="fr">drakonarios</term>
                <term xml:lang="de">drakonarios</term>
                <term xml:lang="bg">xxx</term>
@@ -2305,7 +2269,7 @@
             </item>
             <item xml:id="of0249">
                <term xml:lang="grc">δρουγγάριος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">droungarios</term>
                <term xml:lang="fr">drongaire</term>
                <term xml:lang="de">drungarios</term>
                <term xml:lang="bg">xxx</term>
@@ -2313,9 +2277,9 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0250">
-               <term xml:lang="grc">μέγας δρουγγάριος</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand drongaire</term>
+               <term xml:lang="grc">δρουγγάριος, μέγας</term>
+               <term xml:lang="en">droungarios, megas</term>
+               <term xml:lang="fr">drongaire, grand</term>
                <term xml:lang="de">drungarios, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">δρουγγάριος, μέγας</term>
@@ -2323,7 +2287,7 @@
             </item>
             <item xml:id="of0251">
                <term xml:lang="grc">ἐκ προσώπου</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">ek prosopou</term>
                <term xml:lang="fr">ek prosôpou</term>
                <term xml:lang="de">ek prosopu</term>
                <term xml:lang="bg">xxx</term>
@@ -2332,7 +2296,7 @@
             </item>
             <item xml:id="of0252">
                <term xml:lang="grc">ἐκ προσώπου, βασιλικοῦ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">ek prosopou, imperial</term>
                <term xml:lang="fr">ek prosôpou impérial</term>
                <term xml:lang="de">ek prosopu, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -2341,7 +2305,7 @@
             </item>
             <item xml:id="of0253">
                <term xml:lang="grc">ἒξαρχος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">exarchos</term>
                <term xml:lang="fr">exarque</term>
                <term xml:lang="de">exarchos</term>
                <term xml:lang="bg">xxx</term>
@@ -2349,8 +2313,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0254">
-               <term xml:lang="grc">ἐξαρτιστὴς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">ἐξαρτιστής</term>
+               <term xml:lang="en">exartistes</term>
                <term xml:lang="fr">exartistès</term>
                <term xml:lang="de">exartistes</term>
                <term xml:lang="bg">xxx</term>
@@ -2358,8 +2322,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0255">
-               <term xml:lang="grc">ἐξαρτιστὴς, βασιλικὸς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">ἐξαρτιστής, βασιλικός</term>
+               <term xml:lang="en">exartistes, imperial</term>
                <term xml:lang="fr">exartistès impérial</term>
                <term xml:lang="de">exartistes, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -2368,7 +2332,7 @@
             </item>
             <item xml:id="of0256">
                <term xml:lang="grc">ἐξκουβίτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">exkoubitor</term>
                <term xml:lang="fr">exkoubitôr</term>
                <term xml:lang="de">exkubitor</term>
                <term xml:lang="bg">xxx</term>
@@ -2377,7 +2341,7 @@
             </item>
          <item xml:id="of0257">
                <term xml:lang="grc">ἐπὶ τῆς ἑταιρείας</term>
-               <term xml:lang="en">xxx</term>
+            <term xml:lang="en">epi tes hetaireias</term>
                <term xml:lang="fr">épi tès hétaireias</term>
                <term xml:lang="de">epi tes hetaireias</term>
                <term xml:lang="bg">xxx</term>
@@ -2386,7 +2350,7 @@
             </item>
             <item xml:id="of0258">
                <term xml:lang="grc">ἐπὶ τοῦ Πανθέου</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tou Pantheou</term>
                <term xml:lang="fr">épi tou Panthéou</term>
                <term xml:lang="de">epi tu Pantheu</term>
                <term xml:lang="bg">xxx</term>
@@ -2395,8 +2359,8 @@
             </item>
             <item xml:id="of0259">
                <term xml:lang="grc">ἐπὶ τοῦ μαγγλαβίου</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">épi tou magglabiou</term>
+               <term xml:lang="en">epi tou manglabiou</term>
+               <term xml:lang="fr">épi tou manglabiou</term>
                <term xml:lang="de">epi tu manglabiu</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">επί του μαγγλαβίου</term>
@@ -2404,26 +2368,26 @@
             </item>
             <item xml:id="of0260">
                <term xml:lang="grc">ἐπὶ τῶν βασιλικῶν</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">épi ton basilikôn</term>
+               <term xml:lang="en">epi ton basilikon</term>
+               <term xml:lang="fr">épi tôn basilikôn</term>
                <term xml:lang="de">epi ton basilikon</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">επί των βασιλικών</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0261"><!--grc greek spirit correct?-->
+            <item xml:id="of0261">
                <term xml:lang="grc">ἐταιρειάρχης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">hetaireiarches</term>
                <term xml:lang="fr">hétériarque</term>
                <term xml:lang="de">hetaireiarches</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">εταιρειάρχης</term>
                <term xml:lang="it">xxx</term>
             </item>
-            <item xml:id="of0262"><!--grc greek spirit correct?-->
-               <term xml:lang="grc">μέγας ἐταιρειάρχης</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand hétériarque</term>
+            <item xml:id="of0262">
+               <term xml:lang="grc">ἐταιρειάρχης, μέγας</term>
+               <term xml:lang="en">hetaireiarches, megas</term>
+               <term xml:lang="fr">hétériarque, grand</term>
                <term xml:lang="de">hetaireiarches, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">εταιρειάρχης, μέγας</term>
@@ -2431,7 +2395,7 @@
             </item>
             <item xml:id="of0263">
                <term xml:lang="grc">κατεπάνω</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">katepano</term>
                <term xml:lang="fr">catépan</term>
                <term xml:lang="de">katepano</term>
                <term xml:lang="bg">xxx</term>
@@ -2440,7 +2404,7 @@
             </item>
             <item xml:id="of0264">
                <term xml:lang="grc">κλεισουράρχης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kleisourarches</term>
                <term xml:lang="fr">clisourarque</term>
                <term xml:lang="de">kleisurarches</term>
                <term xml:lang="bg">xxx</term>
@@ -2449,7 +2413,7 @@
             </item>
             <item xml:id="of0265">
                <term xml:lang="grc">κρατῶν</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">kraton</term>
                <term xml:lang="fr">kratôn</term>
                <term xml:lang="de">kraton</term>
                <term xml:lang="bg">xxx</term>
@@ -2457,8 +2421,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0266">
-               <term xml:lang="grc">λογοθέτης, στρατιωτικὸς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">λογοθέτης, στρατιωτικός</term>
+               <term xml:lang="en">logothetes of the stratiotikon</term>
                <term xml:lang="fr">logothète du stratiôtikon</term>
                <term xml:lang="de">logothetes, stratiotikos</term>
                <term xml:lang="bg">xxx</term>
@@ -2467,7 +2431,7 @@
             </item>
             <item xml:id="of0267"><!--German unclear-->
                <term xml:lang="grc">μαγγλαβίτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">manglabites</term>
                <term xml:lang="fr">manglavite</term>
                <term xml:lang="de">manglabites</term>
                <term xml:lang="bg">xxx</term>
@@ -2476,7 +2440,7 @@
             </item>
             <item xml:id="of0268">
                <term xml:lang="grc">μεράρχης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">merarches</term>
                <term xml:lang="fr">mérarque</term>
                <term xml:lang="de">merarches</term>
                <term xml:lang="bg">xxx</term>
@@ -2485,7 +2449,7 @@
             </item>
             <item xml:id="of0269">
                <term xml:lang="grc">μονοστράτηγος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">monostrategos</term>
                <term xml:lang="fr">monostratège</term>
                <term xml:lang="de">monostrategos</term>
                <term xml:lang="bg">xxx</term>
@@ -2494,7 +2458,7 @@
             </item>
             <item xml:id="of0270">
                <term xml:lang="grc">ὀπτίων</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">option</term>
                <term xml:lang="fr">optiôn</term>
                <term xml:lang="de">option</term>
                <term xml:lang="bg">xxx</term>
@@ -2503,7 +2467,7 @@
             </item>
             <item xml:id="of0271">
                <term xml:lang="grc">παραφύλαξ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">paraphylax</term>
                <term xml:lang="fr">paraphylax</term>
                <term xml:lang="de">paraphylax</term>
                <term xml:lang="bg">xxx</term>
@@ -2511,8 +2475,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0272">
-               <term xml:lang="grc">παραφύλαξ, βασιλικὸς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">παραφύλαξ, βασιλικός</term>
+               <term xml:lang="en">paraphylax, imperial</term>
                <term xml:lang="fr">paraphylax impérial</term>
                <term xml:lang="de">paraphylax, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -2521,7 +2485,7 @@
             </item>
             <item xml:id="of0273">
                <term xml:lang="grc">πρόξιμος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">proximos</term>
                <term xml:lang="fr">proximos</term>
                <term xml:lang="de">proximos</term>
                <term xml:lang="bg">xxx</term>
@@ -2530,7 +2494,7 @@
             </item>
             <item xml:id="of0274">
                <term xml:lang="grc">προτίκτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protiktor</term>
                <term xml:lang="fr">protiktôr</term>
                <term xml:lang="de">protiktor</term>
                <term xml:lang="bg">xxx</term>
@@ -2539,7 +2503,7 @@
             </item>
             <item xml:id="of0275">
                <term xml:lang="grc">πρωτάρχης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protarches</term>
                <term xml:lang="fr">protarque</term>
                <term xml:lang="de">protarches</term>
                <term xml:lang="bg">xxx</term>
@@ -2548,7 +2512,7 @@
             </item>
             <item xml:id="of0276">
                <term xml:lang="grc">πρωτοκένταρχος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protokentarchos</term>
                <term xml:lang="fr">protocentarque</term>
                <term xml:lang="de">protokentarchos</term>
                <term xml:lang="bg">xxx</term>
@@ -2557,7 +2521,7 @@
             </item>
             <item xml:id="of0277">
                <term xml:lang="grc">πρωτοστράτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">protostrator</term>
                <term xml:lang="fr">protstratôr</term>
                <term xml:lang="de">protostrator</term>
                <term xml:lang="bg">xxx</term>
@@ -2565,8 +2529,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0278">
-               <term xml:lang="grc">στρατευτὴς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">στρατευτής</term>
+               <term xml:lang="en">strateutes</term>
                <term xml:lang="fr">strateutès</term>
                <term xml:lang="de">strateutes</term>
                <term xml:lang="bg">xxx</term>
@@ -2574,8 +2538,8 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0279">
-               <term xml:lang="grc">στρατηγὸς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="grc">στρατηγός</term>
+               <term xml:lang="en">strategos</term>
                <term xml:lang="fr">stratège</term>
                <term xml:lang="de">strategos</term>
                <term xml:lang="bg">xxx</term>
@@ -2584,7 +2548,7 @@
             </item>
             <item xml:id="of0280">
                <term xml:lang="grc">στρατήγισσα</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">strategissa</term>
                <term xml:lang="fr">stratègissa</term>
                <term xml:lang="de">strategissa</term>
                <term xml:lang="bg">xxx</term>
@@ -2593,7 +2557,7 @@
             </item>
             <item xml:id="of0281">
                <term xml:lang="grc">στρατηλάτης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">stratelates</term>
                <term xml:lang="fr">stratèlate</term>
                <term xml:lang="de">stratelates</term>
                <term xml:lang="bg">xxx</term>
@@ -2602,7 +2566,7 @@
             </item>
             <item xml:id="of0282">
                <term xml:lang="grc">στρατοπεδάρχης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">stratopedarches</term>
                <term xml:lang="fr">stratopédarque</term>
                <term xml:lang="de">stratopedarches</term>
                <term xml:lang="bg">xxx</term>
@@ -2611,7 +2575,7 @@
             </item>
             <item xml:id="of0283">
                <term xml:lang="grc">στράτωρ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">strator</term>
                <term xml:lang="fr">stratôr</term>
                <term xml:lang="de">strator</term>
                <term xml:lang="bg">xxx</term>
@@ -2620,7 +2584,7 @@
             </item>
             <item xml:id="of0284">
                <term xml:lang="grc">στράτωρ, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">strator, imperial</term>
                <term xml:lang="fr">stratôr impérial</term>
                <term xml:lang="de">strator, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
@@ -2629,7 +2593,7 @@
             </item>
             <item xml:id="of0285">
                <term xml:lang="grc">ταγματοφύλαξ</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">tagmatophylax</term>
                <term xml:lang="fr">tagmatophylax</term>
                <term xml:lang="de">tagmatophylax</term>
                <term xml:lang="bg">xxx</term>
@@ -2638,7 +2602,7 @@
             </item>
             <item xml:id="of0286">
                <term xml:lang="grc">ταξιάρχης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">taxiarches</term>
                <term xml:lang="fr">taxiarque</term>
                <term xml:lang="de">taxiarches</term>
                <term xml:lang="bg">xxx</term>
@@ -2647,7 +2611,7 @@
             </item>
             <item xml:id="of0287">
                <term xml:lang="grc">τοποτηρητὴς</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">topoteretes</term>
                <term xml:lang="fr">topotèrètès</term>
                <term xml:lang="de">topoteretes</term>
                <term xml:lang="bg">xxx</term>
@@ -2656,7 +2620,7 @@
             </item>
             <item xml:id="of0288">
                <term xml:lang="grc">τουρμάρχης</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">tourmarches</term>
                <term xml:lang="fr">tourmarque</term>
                <term xml:lang="de">turmarches</term>
                <term xml:lang="bg">xxx</term>
@@ -2665,7 +2629,7 @@
             </item>
             <item xml:id="of0289">
                <term xml:lang="grc">ὑποστράτηγος</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">hypostrategos</term>
                <term xml:lang="fr">hypostratège</term>
                <term xml:lang="de">hypostrategos</term>
                <term xml:lang="bg">xxx</term>
@@ -2673,9 +2637,9 @@
                <term xml:lang="it">xxx</term>
             </item>
             <item xml:id="of0290">
-               <term xml:lang="grc">μέγας τραπεζίτης</term>
-               <term xml:lang="en">xxx</term>
-               <term xml:lang="fr">grand trapézitès</term>
+               <term xml:lang="grc">τραπεζίτης, μέγας</term>
+               <term xml:lang="en">trapezites, megas</term>
+               <term xml:lang="fr">trapézitès, grand</term>
                <term xml:lang="de">trapezites, megas</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">τραπεζίτης, μέγας</term>
@@ -2683,7 +2647,7 @@
             </item>
             <item xml:id="of0291">
                <term xml:lang="grc">ἐπὶ τῆς μεγάλης ἑταιρείας</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">epi tes megales hetaireias</term>
                <term xml:lang="fr">épi tès mégalès hétaireias</term>
                <term xml:lang="de">epi tes megales hetaireias</term>
                <term xml:lang="bg">xxx</term>
@@ -2692,28 +2656,26 @@
             </item>
             <item xml:id="of0292">
                <term xml:lang="grc">ἄρχων, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">archon, imperial</term>
                <term xml:lang="fr">archonte impérial</term>
                <term xml:lang="de">archon, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">άρχων, βασιλικός</term>
                <term xml:lang="it">xxx</term>
             </item>
-            
-<item xml:id="of0293">
+            <item xml:id="of0293">
                <term xml:lang="grc">χαρτουλάριος, βασιλικός</term>
-               <term xml:lang="en">xxx</term>
+               <term xml:lang="en">chartoularios, imperial</term>
                <term xml:lang="fr">chartulaire impérial</term>
                <term xml:lang="de">chartularios, kaiserlich</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">χαρτουλάριος, βασιλικός</term>
                <term xml:lang="it">xxx</term>
-   </item>
-           
+            </item>
            <item xml:id="of0294">
                <term xml:lang="grc">ἄνθρωπος</term>
                <term xml:lang="en">anthropos</term>
-               <term xml:lang="fr">xxx</term>
+              <term xml:lang="fr">anthropos</term>
                <term xml:lang="de">anthropos</term>
                <term xml:lang="bg">xxx</term>
                <term xml:lang="el">άνθρωπος</term>
