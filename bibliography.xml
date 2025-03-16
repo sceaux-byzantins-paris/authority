@@ -1156,23 +1156,25 @@
                         target="http://cimec.ro/Arheologie/dacia.digital/1933-3-4/imagepages/image318.html"
                         >Cimec</ref>
                 </bibl>
-                
-             <!--   Caseau-->
+
+                <!--   Caseau-->
                 <bibl type="bookSection" xml:id="Caseau2011"
                     corresp="http://zotero.org/users/3169239/items/xxxxxx">
                     <bibl type="abbrev">Caseau, 2011</bibl>
                     <author><forename>B.</forename>
                         <surname>Caseau</surname></author>
-                    <title level="a">Saint Mark, a family saint? The Iconography of the Xeroi Seals</title>
+                    <title level="a">Saint Mark, a family saint? The Iconography of the Xeroi
+                        Seals</title>
                     <author><forename>Ch.</forename>
                         <surname>Stavrakos</surname></author>
                     <author><forename>B.</forename>
                         <surname>Papadopoulou </surname></author>
-                    <title level="m">Epeironde: Proceedings of the 10th International Symposium of Byzantine Sigillography (Ioannina 1.–3. October 2009)</title>
+                    <title level="m">Epeironde: Proceedings of the 10th International Symposium of
+                        Byzantine Sigillography (Ioannina 1.–3. October 2009)</title>
                     <pubPlace>Wiesbaden</pubPlace>
                     <date>2011</date>
                     <biblScope unit="page">p. 81–109</biblScope>
-                                   </bibl>
+                </bibl>
 
                 <!-- Catalano -->
 
@@ -3002,7 +3004,7 @@
                     <date>1991</date>
                     <series><title level="s">Научное наследство 19</title></series>
                 </bibl>
-                
+
                 <bibl type="book" xml:id="Lihačev1911"
                     corresp="http://zotero.org/users/3169239/items/xxxxx">
                     <bibl type="abbrev">Lihačev, 1911</bibl>
@@ -3011,8 +3013,8 @@
                     <title level="m">Istoričesko značenie italo-grečsoj ikonopisi</title>
                     <pubPlace xml:lang="en">Petersburg</pubPlace>
                     <pubPlace xml:lang="fr">Saint-Pétersbourg</pubPlace>
-                          <date>1911</date>
-                                   </bibl>
+                    <date>1911</date>
+                </bibl>
                 <!-- Lounghis -->
 
                 <bibl type="journalArticle" xml:id="Lounghis1991"
@@ -3786,6 +3788,21 @@
                     <date>1999</date>
                     <biblScope unit="page">p. 27-36</biblScope>
                 </bibl>
+                <bibl type="journalArticle" xml:id="Seibt2003">
+                    <bibl type="abbrev">Seibt, 2003</bibl>
+                    <author><forename>W.</forename>
+                        <surname>Seibt</surname></author>
+                    <author><forename>N.</forename>
+                        <surname>Seibt</surname></author>
+                    <title level="a">Siegel der Sammlung Orghidan. Eine Nachlese zur Edition V.
+                        Laurents</title>
+                    <title level="j">Jahrbuch der Österreichischen Byzantinistik</title>
+                    <biblScope unit="volume">53</biblScope>
+                    <date>2003</date>
+                    <biblScope unit="page">p. 195-203</biblScope> Available at <ref
+                        target="https://archive.org/details/Jahrbuch-der-osterreichischen-byzantinistik/JOB%2053%202003/page/194/mode/2up?view=theater"
+                        >archive.org</ref>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Seibt2008">
                     <bibl type="abbrev">Seibt, 2008</bibl>
                     <author><forename>W.</forename>
@@ -3878,28 +3895,30 @@
                     <publisher>Nauwelaerts</publisher>
                     <date>1980</date>
                 </bibl>
-<!--Sode-->
+                <!--Sode-->
                 <bibl type="bookSection" xml:id="Sode2019"
                     corresp="http://zotero.org/users/3169239/items/XXXX">
                     <bibl type="abbrev">Sode, 2019</bibl>
                     <author><forename>C.</forename>
                         <surname>Sode</surname></author>
-                    <title level="a">Reaching Beyond the Borders of the Byzantine Empire: The Seals of the epi ton barbaron</title>
+                    <title level="a">Reaching Beyond the Borders of the Byzantine Empire: The Seals
+                        of the epi ton barbaron</title>
                     <editor><forename>C.</forename>
                         <surname>Sode</surname></editor>
                     <editor><forename>S.</forename>
                         <surname>Günther</surname></editor>
                     <editor><forename>Qiang</forename>
                         <surname>Li</surname></editor>
-                         <editor><forename>S.</forename>
+                    <editor><forename>S.</forename>
                         <surname>Wahlgren</surname></editor>
                     <editor><forename>Qiang</forename>
                         <surname>Zhang</surname></editor>
-                    <title level="m">Byzantium in China: Studies in Honour of Professor Xu Jialing on the Occasion of her Seventieth Birthday</title>
+                    <title level="m">Byzantium in China: Studies in Honour of Professor Xu Jialing
+                        on the Occasion of her Seventieth Birthday</title>
                     <pubPlace>Changchun</pubPlace>
                     <date>2019</date>
                     <biblScope unit="page">p. 173-193</biblScope>
-                       </bibl>
+                </bibl>
                 <!-- Sokolova -->
 
                 <bibl type="journalArticle" xml:id="Sokolova1986">
