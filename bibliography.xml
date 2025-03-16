@@ -1156,6 +1156,23 @@
                         target="http://cimec.ro/Arheologie/dacia.digital/1933-3-4/imagepages/image318.html"
                         >Cimec</ref>
                 </bibl>
+                
+             <!--   Caseau-->
+                <bibl type="bookSection" xml:id="Caseau2011"
+                    corresp="http://zotero.org/users/3169239/items/xxxxxx">
+                    <bibl type="abbrev">Caseau, 2011</bibl>
+                    <author><forename>B.</forename>
+                        <surname>Caseau</surname></author>
+                    <title level="a">Saint Mark, a family saint? The Iconography of the Xeroi Seals</title>
+                    <author><forename>Ch.</forename>
+                        <surname>Stavrakos</surname></author>
+                    <author><forename>B.</forename>
+                        <surname>Papadopoulou </surname></author>
+                    <title level="m">Epeironde: Proceedings of the 10th International Symposium of Byzantine Sigillography (Ioannina 1.–3. October 2009)</title>
+                    <pubPlace>Wiesbaden</pubPlace>
+                    <date>2011</date>
+                    <biblScope unit="page">p. 81–109</biblScope>
+                                   </bibl>
 
                 <!-- Catalano -->
 
@@ -2816,6 +2833,16 @@
                     <biblScope unit="page">p. 35–53</biblScope> Available at <ref
                         target="https://www.persee.fr/doc/rebyz_1146-9447_1933_num_32_169_2739"
                         >Persée</ref>. </bibl>
+                <bibl type="journalArticle" xml:id="Laurent1936"
+                    corresp="http://zotero.org/users/3169239/items/χχχχ">
+                    <bibl type="abbrev">Laurent, 1936</bibl>
+                    <author><forename>V.</forename>
+                        <surname>Laurent</surname></author>
+                    <title level="a">Erithos - Akozer, deux patronymes supposes</title>
+                    <title level="j">Hellenika</title>
+                    <biblScope unit="volume">9</biblScope>
+                    <date>1936</date>
+                    <biblScope unit="page">p. 21–25</biblScope></bibl>
 
                 <bibl type="journalArticle" xml:id="Laurent1939"
                     corresp="http://zotero.org/users/3169239/items/WHLBV7L9">
@@ -2975,6 +3002,17 @@
                     <date>1991</date>
                     <series><title level="s">Научное наследство 19</title></series>
                 </bibl>
+                
+                <bibl type="book" xml:id="Lihačev1911"
+                    corresp="http://zotero.org/users/3169239/items/xxxxx">
+                    <bibl type="abbrev">Lihačev, 1911</bibl>
+                    <author><forename>N. P.</forename>
+                        <surname>Lihačev</surname></author>
+                    <title level="m">Istoričesko značenie italo-grečsoj ikonopisi</title>
+                    <pubPlace xml:lang="en">Petersburg</pubPlace>
+                    <pubPlace xml:lang="fr">Saint-Pétersbourg</pubPlace>
+                          <date>1911</date>
+                                   </bibl>
                 <!-- Lounghis -->
 
                 <bibl type="journalArticle" xml:id="Lounghis1991"
