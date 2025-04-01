@@ -840,7 +840,40 @@
 
                 <!-- BOOKS AND ARTICLES by author's name -->
                 <!-- in case of multiple authors, the reference is under the first one -->
-
+               
+                <!-- Ahrweiler -->
+                
+                <bibl type="journalArticle" xml:id="Glykatzi-Ahrweiler1960">
+                    <bibl type="abbrev">Glykatzi-Ahrweiler, 1960</bibl>
+                    <author><forename>Hélène</forename>
+                        <surname>Glykatzi-Ahrweiler</surname></author>
+                    <title level="a">Recherches sur l'administration de l'Empire byzantin aux IXe-XIe siècles</title>
+                    <title level="j">BCH</title>
+                    <biblScope unit="volume">84</biblScope>
+                    <date>1960</date>
+                    <biblScope unit="page">p. 1-111</biblScope>
+                </bibl>
+                <bibl type="book" xml:id="Ahrweiler1966">
+                    <bibl type="abbrev">Ahrweiler, 1966</bibl>
+                    <author><forename>Hélène</forename>
+                        <surname>Ahrweiler</surname></author>
+                    <title level="m">Byzance et la mer. La marine de guerre, la politique et les institutions maritimes de Byzance aux VIIe-XVe siècles</title>
+                    <pubPlace>Paris</pubPlace>
+                    <publisher>Presses Universitaires de France</publisher>
+                    <date>1966</date>
+                    <series><title level="s">Bibliothèque byzantine 5</title></series>
+                </bibl>
+                <bibl type="journalArticle" xml:id="Ahrweiler1965">
+                    <bibl type="abbrev">Ahrweiler, 1965</bibl>
+                    <author><forename>Hélène</forename>
+                        <surname>Ahrweiler</surname></author>
+                    <title level="a">L'histoire et la géographie de la région de Smyrne entre les deux occupations turques (1081-1317), particulièrement au XIIIe siècle</title>
+                    <title level="j">TM</title>
+                    <biblScope unit="volume">1</biblScope>
+                    <date>1965</date>
+                    <biblScope unit="page">p. 139-140</biblScope>
+                </bibl>
+                
                 <!-- Alekseenko -->
 
                 <bibl type="journalArticle" xml:id="Alexeenko2003">
@@ -903,6 +936,27 @@
                     <biblScope unit="volume">11</biblScope>
                     <date>2012</date>
                     <biblScope unit="page">p. 57-87</biblScope>
+                </bibl>
+
+                <!-- Angold -->
+                
+                <bibl type="book" xml:id="Angold1975">
+                    <bibl type="abbrev">Angold, 1975</bibl>
+                    <author><forename>Michael</forename>
+                        <surname>Angold</surname></author>
+                    <title level="m">A Byzantine Government in Exile. Government and Society under the Lascarids of Nicaea, 1204-1261</title>
+                    <pubPlace>Oxford</pubPlace>
+                    <publisher>Oxford University Press</publisher>
+                    <date>1975</date>
+                </bibl>
+                <bibl type="book" xml:id="Angold1995">
+                    <bibl type="abbrev">Angold, 1995</bibl>
+                    <author><forename>Michael</forename>
+                        <surname>Angold</surname></author>
+                    <title level="m">Church and Society in Byzantium under the Comnenoi, 1081-1261</title>
+                    <pubPlace>Cambridge</pubPlace>
+                    <publisher>Cambridge University Press</publisher>
+                    <date>1995</date>
                 </bibl>
 
                 <!-- Banaji -->
@@ -1043,9 +1097,9 @@
                     <date>1998</date>
                     <biblScope unit="page">p. 50-66</biblScope>
                 </bibl>
-
+                
                 <!-- Bourdara -->
-
+                
                 <bibl type="book" xml:id="Bourdara1981"
                     corresp="http://zotero.org/users/3169239/items/PDWUKJEJ">
                     <bibl type="abbrev">Bourdara, 1981</bibl>
@@ -1056,6 +1110,18 @@
                     <pubPlace xml:lang="en">Athens</pubPlace>
                     <pubPlace xml:lang="fr">Athènes</pubPlace>
                     <date>1981</date>
+                </bibl>
+                
+                <!-- Brandes -->
+                
+                <bibl type="book" xml:id="Brandes2002">
+                    <bibl type="abbrev">Brandes, 2002</bibl>
+                    <author><forename>Wolfram</forename>
+                        <surname>Brandes</surname></author>
+                    <title level="m">Finanzverwaltung in Krisenzeiten. Untersuchungen zur byzantinischen Administration im 6.-9. Jahrhundert</title>
+                    <series><title level="s">Forschungen zur byzantinischen Rechtsgeschichte 25</title></series>
+                    <pubPlace>Frankfurt am Main</pubPlace>
+                    <date>2002</date>
                 </bibl>
 
                 <!-- Braunlin -->
@@ -1090,6 +1156,19 @@
                     <publisher>Cambridge University Press</publisher>
                     <date>2011</date>
                 </bibl>
+                
+                <!-- Bryer -->
+                
+                <bibl type="book" xml:id="BryerWinfield1985">
+                    <bibl type="abbrev">Bryer, Winfield, 1985</bibl>
+                    <author><forename>Anthony</forename>
+                        <surname>Bryer</surname></author>
+                    <author><forename>David</forename>
+                        <surname>Winfield</surname></author>
+                    <title level="m">The Byzantine Monuments and Topography of the Pontos I-II</title>
+                    <pubPlace>Washington, D.C.</pubPlace>
+                    <date>1985</date>
+                </bibl>
 
                 <!-- Buckler -->
 
@@ -1106,7 +1185,40 @@
                     <biblScope unit="page">p. 646-648</biblScope>
                 </bibl>
 
+                <!-- Bulgakova -->
+                
+                <bibl type="book" xml:id="Bulgakova2004">
+                    <bibl type="abbrev">Bulgakova, 2004</bibl>
+                    <author><forename>Victoria</forename>
+                        <surname>Bulgakova</surname></author>
+                    <title level="m">Byzantinische Bleisiegel in Osteuropa. Die Funde auf dem Territorium Altrusslands</title>
+                    <series><title level="s">Mainzer Veröffentlichungen zur Byzantinistik 6</title></series>
+                    <pubPlace>Wiesbaden</pubPlace>
+                    <date>2004</date>
+                </bibl>
+
                 <!--Bulgurlu-->
+                
+                <bibl type="journalArticle" xml:id="BulgurluIlasli2003">
+                    <bibl type="abbrev">Bulgurlu, Ilasli, 2003</bibl>
+                    <author><forename>Vera</forename>
+                        <surname>Bulgurlu</surname></author>
+                    <author><forename>Ahmet</forename>
+                        <surname>Ilasli</surname></author>
+                    <title level="a">Seals from the Museum of Afyon</title>
+                    <title level="j">SBS</title>
+                    <biblScope unit="volume">8</biblScope>
+                    <date>2003</date>
+                    <biblScope unit="page">p. 131-149</biblScope>
+                </bibl>
+                <bibl type="book" xml:id="Bulgurlu2007">
+                    <bibl type="abbrev">Bulgurlu, 2007</bibl>
+                    <author><forename>Vera</forename>
+                        <surname>Bulgurlu</surname></author>
+                    <title level="m">Bizans kursun mühürleri</title>
+                    <pubPlace>Istanbul</pubPlace>
+                    <date>2007</date>
+                </bibl>                
                 <bibl type="bookSection" xml:id="Bulgurlu2019">
                     <bibl type="abbrev">Bulgurlu, 2019</bibl>
                     <author><forename>V.</forename>
@@ -1126,7 +1238,45 @@
                 </bibl>
 
                 <!-- Campagnolo-Pothitou -->
-
+                
+                <bibl type="journalArticle" xml:id="Campagnolo-Pothitou2009">
+                    <bibl type="abbrev">Campagnolo-Pothitou, 2009</bibl>
+                    <author><forename>Maria</forename>
+                        <surname>Campagnolo-Pothitou</surname></author>
+                    <title level="a">Le sceau unique de Constantin Lascaris Comnène, l'empereur non couronné Constantin XI (1204-1205)</title>
+                    <title level="j">Genava</title>
+                    <biblScope unit="volume">57</biblScope>
+                    <date>2009</date>
+                    <biblScope unit="page">p. 209-216</biblScope>
+                </bibl>
+                <bibl type="bookSection" xml:id="Campagnolo-Pothitou2014">
+                    <bibl type="abbrev">Campagnolo-Pothitou, 2014</bibl>
+                    <author><forename>Maria</forename>
+                        <surname>Campagnolo-Pothitou</surname></author>
+                    <title level="a">"Comme un relent d'iconoclasme" au début du XIIe siècle. Le témoignage sigillographique</title>
+                    <editor><forename>Matteo</forename>
+                        <surname>Campagnolo</surname></editor>
+                    <editor><forename>Paul</forename>
+                        <surname>Magdalino </surname></editor>
+                    <editor><forename>Marielle</forename>
+                        <surname>Martiniani-Reber</surname></editor>
+                    <editor><forename>André-Louis</forename>
+                        <surname>Rey</surname></editor>
+                    <title level="m">L'Aniconisme dans l'art religieux byzantin. Actes du colloque de Genève (1-3 octobre 2009)</title>
+                    <pubPlace>Genève</pubPlace>
+                    <date>2014</date>
+                    <biblScope unit="page">p. 175-191</biblScope>
+                </bibl>
+                <bibl type="journalArticle" xml:id="Campagnolo-Pothitou2016">
+                    <bibl type="abbrev">Campagnolo-Pothitou, 2016</bibl>
+                    <author><forename>Maria</forename>
+                        <surname>Campagnolo-Pothitou</surname></author>
+                    <title level="a">La bulle de 5 solidi (pentasoldia) de Constantin IX Monomaque (1042-1055)</title>
+                    <title level="j">SBS</title>
+                    <biblScope unit="volume">12</biblScope>
+                    <date>2016</date>
+                    <biblScope unit="page">p. 71-82</biblScope>
+                </bibl>
                 <bibl type="journalArticle" xml:id="Campagnolo2019">
                     <bibl type="abbrev">Campagnolo-Pothitou, Charalampakis, 2019</bibl>
                     <author><forename>M.</forename>
@@ -3282,6 +3432,7 @@
                         bullae</title>
                     <title level="j">Byzantion</title>
                     <biblScope unit="volume">68</biblScope>
+                    <biblScope unit="issue">1</biblScope>
                     <date>1998</date>
                     <biblScope unit="page">p. 157-182</biblScope>
                 </bibl>
@@ -4374,6 +4525,17 @@
                     <pubPlace>Paris</pubPlace>
                     <date>1937</date>
                     <series><title level="s">Collection byzantine</title></series>
+                </bibl>
+                <bibl type="book" xml:id="Alexiade1967">
+                    <bibl type="abbrev">Anne Comnène, Alexiade, 1967</bibl>
+                    <author><forename>Anne</forename>
+                        <surname>Comnène</surname></author>
+                    <title level="m">Alexiade</title>
+                    <editor><forename>B.</forename>
+                        <surname>Leib</surname></editor>
+                    <edition>Deuxième édition</edition>
+                    <pubPlace>Paris</pubPlace>
+                    <date>1967</date>
                 </bibl>
                 <bibl type="book" xml:id="Alexias2001"
                     corresp="http://zotero.org/users/3169239/items/B8UNUEDD">
