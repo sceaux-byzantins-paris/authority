@@ -137,6 +137,30 @@
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
                 </item>
+                <item xml:id="inv014">
+                    <term xml:lang="grc">Χριστὲ βοήθει τῷ σῷ δούλῳ</term>
+                    <term xml:lang="en">Christ aid your servant</term>
+                    <term xml:lang="fr">Christ protège ton serviteur</term>
+                    <term xml:lang="de">Christus, hilf deinem Diener</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                </item>
+                <item xml:id="inv015">
+                    <term xml:lang="grc">Θεοτόκε Ὁδιγήτρια βοήθει τῷ σῷ δούλῳ</term>
+                    <term xml:lang="en">Mother of God Hodegetria aid your servant</term>
+                    <term xml:lang="fr">Mère de Dieu Hodègètria protège ton serviteur</term>
+                    <term xml:lang="de">Muttergottes, Hodegetria, hilf deinem Diener</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                </item>
+                <item xml:id="inv016">
+                    <term xml:lang="grc">Προφήτα βοήθει τῷ σῷ δούλῳ</term>
+                    <term xml:lang="en">Prophet aid your servant</term>
+                    <term xml:lang="fr">Prophète protège ton serviteur</term>
+                    <term xml:lang="de">Prophet, hilf deinem Diener</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                </item>
             </list>
         </body>
     </text>
