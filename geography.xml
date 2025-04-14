@@ -3237,6 +3237,15 @@
                <placeName xml:lang="el">Δημητριάς</placeName>
                <idno type="pleiades"/>
             </place>
+            <place xml:id="geo0321">
+               <placeName xml:lang="grc">Καρίνης</placeName>
+               <placeName xml:lang="en">Karin</placeName>
+               <placeName xml:lang="de">Karin</placeName>
+               <placeName xml:lang="fr">Karin</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Καρίνης</placeName>
+               <idno type="pleiades"/>
+            </place>
          </listPlace>
       </body>
    </text>
