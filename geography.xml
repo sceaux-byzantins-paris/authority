@@ -3246,6 +3246,15 @@
                <placeName xml:lang="el">Καρίνης</placeName>
                <idno type="pleiades"/>
             </place>
+            <place xml:id="geo0322">
+               <placeName xml:lang="grc">Μανζικέρτ</placeName>
+               <placeName xml:lang="en">Mantzikert</placeName>
+               <placeName xml:lang="de">Mantzikert</placeName>
+               <placeName xml:lang="fr">Mantzikert</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Μανζικέρτ</placeName>
+               <idno type="pleiades"/>
+            </place>
          </listPlace>
       </body>
    </text>
