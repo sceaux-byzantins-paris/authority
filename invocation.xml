@@ -53,7 +53,7 @@
                 </item>
                 <item xml:id="inv004">
                     <term xml:lang="grc">Κύριε βοήθει τῷ σῷ δούλῳ</term>
-                    <term xml:lang="en">Lord help your servant</term>
+                    <term xml:lang="en">Lord, help your servant</term>
                     <term xml:lang="fr">Seigneur protège ton serviteur</term>
                     <term xml:lang="de">Herr, hilf deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
@@ -115,7 +115,7 @@
                 </item>
                 <item xml:id="inv011">
                     <term xml:lang="grc">Ἅγιε Νικόλαε βοήθει τῷ σῷ δούλῳ</term>
-                    <term xml:lang="en">Saint Nicholas aid your servant</term>
+                    <term xml:lang="en">Saint Nicholas, help your servant</term>
                     <term xml:lang="fr">Saint Nicolas protège ton serviteur</term>
                     <term xml:lang="de">Hl. Nikolaos, hilf deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
@@ -123,7 +123,7 @@
                 </item>
                 <item xml:id="inv012">
                     <term xml:lang="grc">Ἅγιε Διμήτριε βοήθει τῷ σῷ δούλῳ</term>
-                    <term xml:lang="en">Saint Demetrios aid your servant</term>
+                    <term xml:lang="en">Saint Demetrios, help your servant</term>
                     <term xml:lang="fr">Saint Démétrius protège ton serviteur</term>
                     <term xml:lang="de">Hl. Demetrios, hilf deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
@@ -131,7 +131,7 @@
                 </item>
                 <item xml:id="inv013">
                     <term xml:lang="grc">Θεοτόκε βοήθει τῇ σῇ δούλῃ</term>
-                    <term xml:lang="en">Mother of God aid your servant</term>
+                    <term xml:lang="en">Mother of God, help your servant</term>
                     <term xml:lang="fr">Mère de Dieu protège ta servante</term>
                     <term xml:lang="de">Muttergottes, hilf deiner Dienerin</term>
                     <term xml:lang="bg">xxx</term>
@@ -139,7 +139,7 @@
                 </item>
                 <item xml:id="inv014">
                     <term xml:lang="grc">Χριστὲ βοήθει τῷ σῷ δούλῳ</term>
-                    <term xml:lang="en">Christ aid your servant</term>
+                    <term xml:lang="en">Christ, help your servant</term>
                     <term xml:lang="fr">Christ protège ton serviteur</term>
                     <term xml:lang="de">Christus, hilf deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
@@ -147,7 +147,7 @@
                 </item>
                 <item xml:id="inv015">
                     <term xml:lang="grc">Θεοτόκε Ὁδιγήτρια βοήθει τῷ σῷ δούλῳ</term>
-                    <term xml:lang="en">Mother of God Hodegetria aid your servant</term>
+                    <term xml:lang="en">Mother of God Hodegetria, help your servant</term>
                     <term xml:lang="fr">Mère de Dieu Hodègètria protège ton serviteur</term>
                     <term xml:lang="de">Muttergottes, Hodegetria, hilf deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
@@ -155,7 +155,7 @@
                 </item>
                 <item xml:id="inv016">
                     <term xml:lang="grc">Προφήτα βοήθει τῷ σῷ δούλῳ</term>
-                    <term xml:lang="en">Prophet aid your servant</term>
+                    <term xml:lang="en">Prophet, help your servant</term>
                     <term xml:lang="fr">Prophète protège ton serviteur</term>
                     <term xml:lang="de">Prophet, hilf deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
@@ -163,7 +163,7 @@
                 </item>
                 <item xml:id="inv017">
                     <term xml:lang="grc">Ἅγιε Γεώργιε βοήθει τῷ σῷ δούλῳ</term>
-                    <term xml:lang="en">Saint Georgios aid your servant</term>
+                    <term xml:lang="en">Saint Georgios, help your servant</term>
                     <term xml:lang="fr">Saint Georges protège ton serviteur</term>
                     <term xml:lang="de">Hl. Georgios, hilf deinem Diener</term>
                     <term xml:lang="bg">xxx</term>
@@ -171,9 +171,17 @@
                 </item>
                 <item xml:id="inv018">
                     <term xml:lang="grc">Δέσποινα βοήθει τῷ σῷ δούλῳ</term>
-                    <term xml:lang="en">Our Lady aid your servant</term>
+                    <term xml:lang="en">Our Lady, help your servant</term>
                     <term xml:lang="fr">Notre-Dame protège ton serviteur</term>
                     <term xml:lang="de">Herrin, hilf deinem Diener</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                </item>
+                <item xml:id="inv019">
+                    <term xml:lang="grc">Ὑπεραγία Θεοτόκε βοήθει</term>
+                    <term xml:lang="en">All-holy Mother of God, help</term>
+                    <term xml:lang="fr">Mère de Dieu, la Toute Sainte, protège</term>
+                    <term xml:lang="de">Allheilige Muttergottes, hilf</term>
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
                 </item>
