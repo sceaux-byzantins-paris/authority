@@ -193,6 +193,14 @@
                     <term xml:lang="bg">xxx</term>
                     <term xml:lang="el">xxx</term>
                 </item>
+                item xml:id="inv021">
+                    <term xml:lang="grc">Ἀρχηστράτηγε βοήθει τῷ σῷ δούλῳ</term>
+                    <term xml:lang="en">Archstratege, help your servant</term>
+                    <term xml:lang="fr">Archstratège protège ton serviteur</term>
+                    <term xml:lang="de">Erzstratege, hilf deinem Diener</term>
+                    <term xml:lang="bg">xxx</term>
+                    <term xml:lang="el">xxx</term>
+                </item>
             </list>
         </body>
     </text>
