@@ -768,13 +768,14 @@
                <ns0:term xml:lang="it" />
             </ns0:item>
             <ns0:item xml:id="org0083">
-               <ns0:term xml:lang="grc" />
-               <ns0:term xml:lang="en" />
-               <ns0:term xml:lang="fr" />
-               <ns0:term xml:lang="de" />
-               <ns0:term xml:lang="bg" />
-               <ns0:term xml:lang="el" />
-               <ns0:term xml:lang="it" />
+               <ns0:term xml:lang="grc">xxx</ns0:term>
+               <ns0:term xml:lang="la">Sancti Nicolai</ns0:term>
+               <ns0:term xml:lang="en">Church of Saint Nicholas</ns0:term>
+               <ns0:term xml:lang="fr">Église Saint-Nicolas</ns0:term>
+               <ns0:term xml:lang="de">Kirche des Hl. Nikolaos</ns0:term>
+               <ns0:term xml:lang="bg">xxx</ns0:term>
+               <ns0:term xml:lang="el">xxx</ns0:term>
+               <ns0:term xml:lang="it">xxx</ns0:term>
             </ns0:item>
             <ns0:item xml:id="org0084">
                <ns0:term xml:lang="grc">μονὴ Ἀμινσοῦ</ns0:term>
