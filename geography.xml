@@ -3264,6 +3264,15 @@
                <placeName xml:lang="el">Ἀβυσιανόν</placeName>
                <idno type="pleiades"/>
             </place>
+            <place xml:id="geo0324">
+               <placeName xml:lang="grc">Βελεβουσδίον</placeName>
+               <placeName xml:lang="en">Belebousdion</placeName>
+               <placeName xml:lang="de">Belebusdion</placeName>
+               <placeName xml:lang="fr">Bélébousdion</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Βελεβουσδίον</placeName>
+               <idno type="pleiades"/>
+            </place>
          </listPlace>
       </body>
    </text>
