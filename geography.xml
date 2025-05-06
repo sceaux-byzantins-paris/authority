@@ -3273,6 +3273,24 @@
                <placeName xml:lang="el">Βελεβουσδίον</placeName>
                <idno type="pleiades"/>
             </place>
+            <place xml:id="geo0325">
+               <placeName xml:lang="grc">Βελέστινον</placeName>
+               <placeName xml:lang="en">Belestino</placeName>
+               <placeName xml:lang="de">Belestino</placeName>
+               <placeName xml:lang="fr">Bélestino</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Βελέστινον</placeName>
+               <idno type="pleiades"/>
+            </place>
+            <place xml:id="geo0326">
+               <placeName xml:lang="grc">Καισάρεια</placeName>
+               <placeName xml:lang="en">Caesarea</placeName>
+               <placeName xml:lang="de">Cäsarea (Kaisareia)</placeName>
+               <placeName xml:lang="fr">Césarée</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Καισάρεια</placeName>
+               <idno type="pleiades"/>
+            </place>
          </listPlace>
       </body>
    </text>
