@@ -750,7 +750,7 @@
                <ns0:term xml:lang="it" />
             </ns0:item>
             <ns0:item xml:id="org0081">
-               <ns0:term xml:lang="grc">ἐκκλησία τῆς Ὀκταγόνου Θεοτόκου</ns0:term>
+               <ns0:term xml:lang="grc">Ἐκκλησία τῆς Ὀκταγόνου Θεοτόκου</ns0:term>
                <ns0:term xml:lang="en">Church of the Mother of God of the Octogone</ns0:term>
                <ns0:term xml:lang="fr">Église de la Vierge de l’Octogone</ns0:term>
                <ns0:term xml:lang="de">Kirche der Muttergottes vom Oktogon</ns0:term>
@@ -759,10 +759,10 @@
                <ns0:term xml:lang="it" />
             </ns0:item>
             <ns0:item xml:id="org0082">
-               <ns0:term xml:lang="grc" />
-               <ns0:term xml:lang="en" />
-               <ns0:term xml:lang="fr" />
-               <ns0:term xml:lang="de" />
+               <ns0:term xml:lang="grc">Μονὴ τῆς ῾Υπεραγίας Θεοτόκου τῶν Ὁδηγῶν</ns0:term>
+               <ns0:term xml:lang="en">Monastery of the All-holy Mother of God of Hodegon</ns0:term>
+               <ns0:term xml:lang="fr">Monastère de la Vierge tôn Hodègôn</ns0:term>
+               <ns0:term xml:lang="de">Kloster der Allheiligen Muttergottes von Hodegon</ns0:term>
                <ns0:term xml:lang="bg" />
                <ns0:term xml:lang="el" />
                <ns0:term xml:lang="it" />
