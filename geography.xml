@@ -1149,7 +1149,7 @@
                <placeName xml:lang="el">Τράλλεις</placeName>
             </place>
             <place xml:id="geo0121">
-               <placeName xml:lang="grc">Άβυδος</placeName>
+               <placeName xml:lang="grc">Ἀβυδος</placeName>
                <placeName xml:lang="en">Abydos</placeName>
                <placeName xml:lang="fr">Abydos</placeName>
                <placeName xml:lang="de">Abydos</placeName>
@@ -3253,6 +3253,15 @@
                <placeName xml:lang="fr">Mantzikert</placeName>
                <placeName xml:lang="it">xxx</placeName>
                <placeName xml:lang="el">Μανζικέρτ</placeName>
+               <idno type="pleiades"/>
+            </place>
+            <place xml:id="geo0323">
+               <placeName xml:lang="grc">Ἀβυσιανόν</placeName>
+               <placeName xml:lang="en">Abysianon</placeName>
+               <placeName xml:lang="de">Abysianon</placeName>
+               <placeName xml:lang="fr">Abyssianè</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Ἀβυσιανόν</placeName>
                <idno type="pleiades"/>
             </place>
          </listPlace>
