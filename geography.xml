@@ -3300,6 +3300,15 @@
                <placeName xml:lang="el">Eὐχανεία</placeName>
                <idno type="pleiades"/>
             </place>
+            <place xml:id="geo0328">
+               <placeName xml:lang="grc">Λαρίσση</placeName>
+               <placeName xml:lang="en">Larissa</placeName>
+               <placeName xml:lang="de">Larissa</placeName>
+               <placeName xml:lang="fr">Larissa</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Λαρίσση</placeName>
+               <idno type="pleiades"/>
+            </place>
          </listPlace>
       </body>
    </text>
