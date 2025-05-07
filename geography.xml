@@ -3291,6 +3291,15 @@
                <placeName xml:lang="el">Καισάρεια</placeName>
                <idno type="pleiades"/>
             </place>
+            <place xml:id="geo0327">
+               <placeName xml:lang="grc">Eὐχανεία</placeName>
+               <placeName xml:lang="en">Euchaneia</placeName>
+               <placeName xml:lang="de">Euchaneia</placeName>
+               <placeName xml:lang="fr">Euchaneia</placeName>
+               <placeName xml:lang="it">xxx</placeName>
+               <placeName xml:lang="el">Eὐχανεία</placeName>
+               <idno type="pleiades"/>
+            </place>
          </listPlace>
       </body>
    </text>
